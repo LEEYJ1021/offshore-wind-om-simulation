@@ -55,19 +55,16 @@ offshore-wind-om-simulation/
 │
 └── results/
     ├── figures_R/                     ← PNG figures (R)
-    │   ├── Fig01_Weather_Overview.png
-    │   ├── Fig02_Seasonal_Accessibility.png
-    │   ├── Fig03_ComponentCriticality_Weibull.png
-    │   ├── Fig04_Strategy_Comparison.png
-    │   ├── Fig05_Availability_Decomposition.png
-    │   ├── Fig06_HMDP_LP_Integration.png
-    │   ├── Fig07_CBM_vs_FixedPM.png
-    │   ├── Fig08_Baseline_Comparison.png
-    │   ├── Fig09_Scenario_Sensitivity.png
-    │   ├── Fig10_Carbon_Pareto.png
-    │   ├── Fig11_ETA_Derating_Analysis.png
-    │   ├── Fig12_Feedback_Loop_Analysis.png
-    │   └── Fig13_Empirical_Validation.png
+    │   ├── Fig01_Weather_Trends_Enhanced.png
+    │   ├── Fig02_Seasonal_Distributions_Enhanced.png
+    │   ├── Fig03_Comprehensive_Analysis_Fixed.png
+    │   ├── Fig04_Transition_Matrix_Enhanced.png
+    │   ├── Fig05_Monthly_Patterns_Enhanced.png
+    │   ├── Fig06_Daily_CTV_Accessibility_Heatmap.png
+    │   ├── Fig07_Hourly_WindWave_ByHour.png
+    │   ├── Fig08_Hourly_CTV_ByHour_Season.png
+    │   ├── Fig09_Hourly_Heatmap_Month_x_Hour.png
+    │   └── Fig10_Hourly_TimeOfDay_Season.png
     ├── figures_PY/                     ← NG figures (Python)
     │   ├── Fig01_Weather_Overview.png
     │   ├── Fig02_Seasonal_Accessibility.png
