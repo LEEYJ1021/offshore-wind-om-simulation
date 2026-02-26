@@ -57,7 +57,16 @@ offshore-wind-om-simulation/
     ├── figures/                     ← All PNG figures (R + Python)
     │   ├── Fig01_Weather_Overview.png
     │   ├── Fig02_Seasonal_Accessibility.png
-    │   ├── ...
+    │   ├── Fig03_ComponentCriticality_Weibull.png
+    │   ├── Fig04_Strategy_Comparison.png
+    │   ├── Fig05_Availability_Decomposition.png
+    │   ├── Fig06_HMDP_LP_Integration.png
+    │   ├── Fig07_CBM_vs_FixedPM.png
+    │   ├── Fig08_Baseline_Comparison.png
+    │   ├── Fig09_Scenario_Sensitivity.png
+    │   ├── Fig10_Carbon_Pareto.png
+    │   ├── Fig11_ETA_Derating_Analysis.png
+    │   ├── Fig12_Feedback_Loop_Analysis.png
     │   └── Fig13_Empirical_Validation.png
     ├── tables/                      ← Summary tables from Python simulation
     │   ├── simulation_kpis.csv
