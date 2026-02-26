@@ -1,0 +1,4 @@
+comparison,hmdp_mean_M,comp_mean_M,hmdp_std_M,comp_std_M,mw_u_stat,mw_p_value,mw_significant,welch_t_stat,welch_p_value,welch_significant,cohens_d,effect_size
+HMDP vs S1: Fixed PM / No Weather,707.2,255.68,185.49,71.6,2696.0,0.0,True,16.217,0.0,True,3.211,large
+HMDP vs S2: Fixed PM / Weather-Aware,707.2,551.93,185.49,162.4,1973.0,5e-05,True,4.497,2e-05,True,0.891,large
+HMDP vs S3: Multi-Port / Weather,707.2,553.59,185.49,170.19,1942.0,0.00013,True,4.358,3e-05,True,0.863,large

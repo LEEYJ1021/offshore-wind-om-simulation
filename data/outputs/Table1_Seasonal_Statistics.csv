@@ -1,0 +1,5 @@
+"season","n_weeks","wind_speed_mean","wind_speed_sd","wave_height_mean","wave_height_sd","ctv_access_mean","ctv_access_sd","scenario_calm","scenario_rough","scenario_extreme","scenario_moderate","pct_calm","pct_rough","pct_extreme","pct_moderate"
+"Spring",39,7.06,0,1.27,0,4.86,1.41,27,8,0,4,69.2,20.5,0,10.3
+"Summer",40,6.02,0,0.91,0,5.98,1.3,34,5,0,1,85,12.5,0,2.5
+"Fall",39,6.72,0,1.34,0,4.51,1.37,24,6,0,9,61.5,15.4,0,23.1
+"Winter",38,7.44,0,1.56,0,3.78,1.72,15,11,2,10,39.5,28.9,5.3,26.3

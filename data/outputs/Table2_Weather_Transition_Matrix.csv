@@ -1,0 +1,14 @@
+"from_state","to_state","n_transitions","probability_pct"
+"Calm","Calm",68,68
+"Calm","Extreme Weather",1,1
+"Calm","Moderate",15,15
+"Calm","Rough Sea",16,16
+"Extreme Weather","Calm",1,50
+"Extreme Weather","Rough Sea",1,50
+"Moderate","Calm",12,50
+"Moderate","Moderate",5,20.8
+"Moderate","Rough Sea",7,29.2
+"Rough Sea","Calm",18,62.1
+"Rough Sea","Extreme Weather",1,3.4
+"Rough Sea","Moderate",4,13.8
+"Rough Sea","Rough Sea",6,20.7
