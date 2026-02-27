@@ -1,0 +1,802 @@
+repair_day_idx,turbine_id,component,severity,rf,age_before_wk,age_after_wk,rel_before,rel_after,hazard_before,hazard_after,strategy
+46,1,Blades,Minor Repair,0.35,46.87,30.46,0.769,0.9144,0.01401,0.00734,S1_NoWeather
+61,1,Generator,Major Repair,0.55,35.94,16.17,0.8734,0.9818,0.00941,0.00284,S1_NoWeather
+102,1,Pitch/Hydraulic System,Major Repair,0.55,58.7,26.41,0.6306,0.9393,0.01964,0.00593,S1_NoWeather
+180,1,Electrical Components,Minor Repair,0.35,79.78,51.86,0.3704,0.713,0.03112,0.01631,S1_NoWeather
+200,1,Service Items,Minor Repair,0.35,61.73,40.12,0.5927,0.8368,0.02118,0.0111,S1_NoWeather
+363,1,Service Items,Minor Repair,0.35,63.12,41.03,0.5752,0.8283,0.0219,0.01148,S1_NoWeather
+435,1,Generator,Major Repair,0.55,68.17,30.68,0.5115,0.913,0.02458,0.00742,S1_NoWeather
+456,1,Controls,Major Repair,0.55,109.3,49.19,0.1128,0.7435,0.04991,0.01507,S1_NoWeather
+481,1,Power Supply/Converter,Minor Repair,0.35,85.36,55.49,0.3085,0.6699,0.03444,0.01805,S1_NoWeather
+580,1,Tower/Foundation,Major Repair,0.55,110.17,49.58,0.108,0.7391,0.0505,0.01525,S1_NoWeather
+581,1,Pitch/Hydraulic System,Major Repair,0.55,91.41,41.14,0.2476,0.8273,0.03817,0.01152,S1_NoWeather
+614,1,Controls,Major Repair,0.55,68.19,30.68,0.5114,0.9129,0.02459,0.00742,S1_NoWeather
+627,1,Pumps/Motors,Minor Repair,0.35,112.54,73.15,0.0956,0.4495,0.05214,0.02732,S1_NoWeather
+638,1,Generator,Major Repair,0.55,57.68,25.96,0.6431,0.9418,0.01913,0.00578,S1_NoWeather
+638,1,Hub,Minor Repair,0.35,142.34,92.52,0.0147,0.2373,0.07416,0.03887,S1_NoWeather
+857,1,Blades,Minor Repair,0.35,121.46,78.95,0.0584,0.38,0.05846,0.03064,S1_NoWeather
+858,1,Gearbox,Minor Repair,0.35,170.93,111.1,0.0013,0.103,0.0976,0.05115,S1_NoWeather
+971,1,Pitch/Hydraulic System,Minor Repair,0.35,97.14,63.14,0.197,0.575,0.04181,0.02191,S1_NoWeather
+987,1,Contactor/Circuit/Relay,Major Repair,0.55,140.06,63.03,0.0173,0.5764,0.07239,0.02185,S1_NoWeather
+1035,1,Hub,Minor Repair,0.35,144.52,93.94,0.0124,0.2245,0.07588,0.03976,S1_NoWeather
+49,2,Gearbox,Minor Repair,0.35,49.9,32.44,0.7354,0.9006,0.0154,0.00807,S1_NoWeather
+145,2,Pitch/Hydraulic System,Minor Repair,0.35,67.38,43.8,0.5215,0.8011,0.02416,0.01266,S1_NoWeather
+200,2,Service Items,Minor Repair,0.35,57.48,37.36,0.6456,0.8615,0.01903,0.00997,S1_NoWeather
+273,2,Power Supply/Converter,Minor Repair,0.35,62.52,40.64,0.5828,0.832,0.02159,0.01131,S1_NoWeather
+369,2,Service Items,Minor Repair,0.35,61.36,39.88,0.5974,0.839,0.02099,0.011,S1_NoWeather
+474,2,Grease/Oil/Cooling Liquid,Minor Repair,0.35,119.53,77.7,0.0653,0.3947,0.05708,0.02991,S1_NoWeather
+582,2,Pitch/Hydraulic System,Minor Repair,0.35,105.8,68.77,0.1338,0.504,0.04753,0.02491,S1_NoWeather
+619,2,Yaw System,Minor Repair,0.35,139.38,90.59,0.0182,0.2555,0.07186,0.03766,S1_NoWeather
+653,2,Blades,Minor Repair,0.35,114.73,74.57,0.0852,0.4322,0.05367,0.02812,S1_NoWeather
+751,2,Gearbox,Minor Repair,0.35,131.44,85.43,0.0314,0.3077,0.06581,0.03449,S1_NoWeather
+753,2,Generator,Minor Repair,0.35,138.58,90.08,0.0193,0.2604,0.07125,0.03734,S1_NoWeather
+891,2,Tower/Foundation,Minor Repair,0.35,149.29,97.04,0.0086,0.1978,0.07966,0.04175,S1_NoWeather
+924,2,Pitch/Hydraulic System,Minor Repair,0.35,80.77,52.5,0.3591,0.7055,0.0317,0.01661,S1_NoWeather
+951,2,Generator,Major Repair,0.55,118.08,53.14,0.0709,0.698,0.05604,0.01692,S1_NoWeather
+1043,2,Generator,Minor Repair,0.35,62.14,40.39,0.5876,0.8344,0.02139,0.01121,S1_NoWeather
+163,3,Heaters/Coolers,Minor Repair,0.35,63.12,41.03,0.5752,0.8283,0.0219,0.01148,S1_NoWeather
+165,3,Safety,Minor Repair,0.35,70.61,45.9,0.481,0.7793,0.02591,0.01358,S1_NoWeather
+180,3,Controls,Minor Repair,0.35,46.62,30.3,0.7717,0.9155,0.0139,0.00728,S1_NoWeather
+200,3,Service Items,Minor Repair,0.35,73.35,47.68,0.4472,0.7602,0.02743,0.01438,S1_NoWeather
+243,3,Electrical Components,Minor Repair,0.35,81.63,53.06,0.3493,0.6989,0.03221,0.01688,S1_NoWeather
+369,3,Service Items,Minor Repair,0.35,71.68,46.59,0.4678,0.772,0.0265,0.01389,S1_NoWeather
+393,3,Generator,Major Repair,0.55,83.79,37.7,0.3255,0.8586,0.03349,0.01011,S1_NoWeather
+472,3,Yaw System,Minor Repair,0.35,79.99,51.99,0.368,0.7114,0.03124,0.01637,S1_NoWeather
+537,3,Pumps/Motors,Minor Repair,0.35,101.37,65.89,0.1641,0.5403,0.04458,0.02336,S1_NoWeather
+587,3,Pumps/Motors,Minor Repair,0.35,68.89,44.78,0.5025,0.791,0.02497,0.01309,S1_NoWeather
+618,3,Pitch/Hydraulic System,Minor Repair,0.35,99.5,64.67,0.1782,0.5557,0.04334,0.02271,S1_NoWeather
+734,3,Hub,Major Repair,0.55,115.42,51.94,0.0821,0.7121,0.05415,0.01635,S1_NoWeather
+926,3,Pitch/Hydraulic System,Minor Repair,0.35,67.67,43.99,0.5178,0.7992,0.02431,0.01274,S1_NoWeather
+1047,3,Tower/Foundation,Minor Repair,0.35,159.0,103.35,0.0038,0.15,0.08756,0.04588,S1_NoWeather
+36,4,Blades,Minor Repair,0.35,39.44,25.63,0.8431,0.9435,0.01082,0.00567,S1_NoWeather
+201,4,Service Items,Minor Repair,0.35,44.73,29.07,0.7916,0.9235,0.01306,0.00685,S1_NoWeather
+253,4,Pitch/Hydraulic System,Minor Repair,0.35,76.26,49.57,0.4118,0.7392,0.02908,0.01524,S1_NoWeather
+324,4,Contactor/Circuit/Relay,Minor Repair,0.35,85.42,55.52,0.3079,0.6695,0.03448,0.01807,S1_NoWeather
+369,4,Service Items,Minor Repair,0.35,53.07,34.5,0.6987,0.885,0.01689,0.00885,S1_NoWeather
+445,4,Gearbox,Minor Repair,0.35,91.95,59.76,0.2427,0.6173,0.0385,0.02018,S1_NoWeather
+451,4,Generator,Minor Repair,0.35,108.04,70.22,0.1201,0.4858,0.04904,0.0257,S1_NoWeather
+467,4,Controls,Minor Repair,0.35,95.55,62.11,0.2103,0.5879,0.04079,0.02138,S1_NoWeather
+472,4,Pumps/Motors,Minor Repair,0.35,98.74,64.18,0.1841,0.5619,0.04285,0.02245,S1_NoWeather
+485,4,Heaters/Coolers,Minor Repair,0.35,100.96,65.62,0.1671,0.5437,0.0443,0.02322,S1_NoWeather
+528,4,Hub,Minor Repair,0.35,108.68,70.64,0.1164,0.4806,0.04948,0.02593,S1_NoWeather
+574,4,Generator,Major Repair,0.55,87.22,39.25,0.289,0.8448,0.03558,0.01074,S1_NoWeather
+586,4,Electrical Components,Minor Repair,0.35,94.73,61.57,0.2175,0.5947,0.04026,0.0211,S1_NoWeather
+612,4,Pitch/Hydraulic System,Major Repair,0.55,98.57,44.36,0.1854,0.7954,0.04274,0.0129,S1_NoWeather
+824,4,Gearbox,Minor Repair,0.35,113.76,73.95,0.0897,0.4398,0.05299,0.02777,S1_NoWeather
+856,4,Blades,Minor Repair,0.35,123.63,80.36,0.0514,0.3637,0.06004,0.03146,S1_NoWeather
+898,4,Transformer,Minor Repair,0.35,124.43,80.88,0.049,0.3579,0.06062,0.03177,S1_NoWeather
+930,4,Pitch/Hydraulic System,Minor Repair,0.35,54.36,35.33,0.6835,0.8784,0.0175,0.00917,S1_NoWeather
+937,4,Controls,Minor Repair,0.35,126.11,81.97,0.0442,0.3455,0.06185,0.03241,S1_NoWeather
+940,4,Power Supply/Converter,Minor Repair,0.35,160.84,104.54,0.0032,0.142,0.08908,0.04668,S1_NoWeather
+944,4,Gearbox,Minor Repair,0.35,90.95,59.12,0.2521,0.6254,0.03788,0.01985,S1_NoWeather
+954,4,Yaw System,Minor Repair,0.35,154.2,100.23,0.0058,0.1726,0.08362,0.04382,S1_NoWeather
+1031,4,Generator,Major Repair,0.55,101.25,45.56,0.165,0.7829,0.0445,0.01343,S1_NoWeather
+73,5,Pumps/Motors,Minor Repair,0.35,56.7,36.86,0.6551,0.8658,0.01865,0.00977,S1_NoWeather
+201,5,Service Items,Minor Repair,0.35,42.06,27.34,0.8183,0.934,0.01191,0.00624,S1_NoWeather
+213,5,Heaters/Coolers,Minor Repair,0.35,37.14,24.14,0.8635,0.9512,0.00988,0.00518,S1_NoWeather
+217,5,Pitch/Hydraulic System,Minor Repair,0.35,78.67,51.14,0.3833,0.7213,0.03047,0.01597,S1_NoWeather
+335,5,Pitch/Hydraulic System,Minor Repair,0.35,68.14,44.29,0.512,0.7961,0.02456,0.01287,S1_NoWeather
+337,5,Contactor/Circuit/Relay,Major Repair,0.55,80.85,36.38,0.3581,0.8698,0.03175,0.00958,S1_NoWeather
+361,5,Blades,Minor Repair,0.35,70.07,45.54,0.4878,0.7831,0.02562,0.01342,S1_NoWeather
+367,5,Safety,Minor Repair,0.35,90.22,58.64,0.2591,0.6313,0.03742,0.01961,S1_NoWeather
+369,5,Service Items,Minor Repair,0.35,51.34,33.37,0.719,0.8937,0.01607,0.00842,S1_NoWeather
+463,5,Controls,Minor Repair,0.35,102.19,66.43,0.1581,0.5335,0.04512,0.02364,S1_NoWeather
+517,5,Pumps/Motors,Minor Repair,0.35,98.86,64.26,0.1832,0.5609,0.04293,0.0225,S1_NoWeather
+525,5,Safety,Minor Repair,0.35,78.64,51.12,0.3836,0.7216,0.03046,0.01596,S1_NoWeather
+754,5,Generator,Minor Repair,0.35,122.7,79.75,0.0543,0.3707,0.05936,0.03111,S1_NoWeather
+820,5,Tower/Foundation,Major Repair,0.55,157.12,70.7,0.0045,0.4798,0.08601,0.02596,S1_NoWeather
+908,5,Power Supply/Converter,Minor Repair,0.35,132.09,85.86,0.0301,0.3032,0.0663,0.03475,S1_NoWeather
+936,5,Gearbox,Major Replacement,0.9,141.92,14.19,0.0151,0.9868,0.07383,0.00233,S1_NoWeather
+976,5,Blades,Minor Repair,0.35,133.54,86.8,0.0273,0.2934,0.0674,0.03532,S1_NoWeather
+988,5,Pitch/Hydraulic System,Minor Repair,0.35,138.29,89.89,0.0197,0.2623,0.07102,0.03722,S1_NoWeather
+1084,5,Generator,Major Replacement,0.9,125.75,12.58,0.0451,0.9903,0.06159,0.00195,S1_NoWeather
+184,6,Gearbox,Minor Repair,0.35,54.31,35.3,0.6841,0.8787,0.01748,0.00916,S1_NoWeather
+201,6,Service Items,Minor Repair,0.35,56.47,36.7,0.658,0.8671,0.01853,0.00971,S1_NoWeather
+235,6,Pumps/Motors,Minor Repair,0.35,84.43,54.88,0.3185,0.6772,0.03388,0.01776,S1_NoWeather
+376,6,Service Items,Minor Repair,0.35,61.7,40.11,0.5931,0.837,0.02117,0.01109,S1_NoWeather
+488,6,Pitch/Hydraulic System,Minor Repair,0.35,82.62,53.7,0.3383,0.6913,0.0328,0.01719,S1_NoWeather
+499,6,Gearbox,Major Replacement,0.9,80.3,8.03,0.3644,0.9968,0.03143,0.00099,S1_NoWeather
+649,6,Generator,Major Repair,0.55,131.82,59.32,0.0307,0.6229,0.06609,0.01995,S1_NoWeather
+836,6,Generator,Minor Repair,0.35,69.32,45.06,0.4972,0.7882,0.0252,0.01321,S1_NoWeather
+852,6,Blades,Minor Repair,0.35,146.05,94.93,0.0111,0.2157,0.07709,0.0404,S1_NoWeather
+880,6,Hub,Major Repair,0.55,165.99,74.69,0.002,0.4307,0.09339,0.02819,S1_NoWeather
+941,6,Controls,Minor Repair,0.35,105.38,68.5,0.1365,0.5074,0.04725,0.02476,S1_NoWeather
+977,6,Pitch/Hydraulic System,Minor Repair,0.35,123.7,80.41,0.0511,0.3632,0.06009,0.03149,S1_NoWeather
+74,7,Sensors,Major Repair,0.55,51.97,23.39,0.7116,0.9548,0.01636,0.00494,S1_NoWeather
+159,7,Generator,Minor Repair,0.35,73.13,47.53,0.4498,0.7617,0.02731,0.01431,S1_NoWeather
+202,7,Service Items,Minor Repair,0.35,36.08,23.45,0.8723,0.9545,0.00947,0.00496,S1_NoWeather
+224,7,Gearbox,Minor Repair,0.35,59.79,38.86,0.617,0.8483,0.02019,0.01058,S1_NoWeather
+229,7,Pumps/Motors,Major Repair,0.55,58.6,26.37,0.6317,0.9395,0.01959,0.00591,S1_NoWeather
+235,7,Generator,Major Repair,0.55,58.53,26.34,0.6326,0.9397,0.01956,0.0059,S1_NoWeather
+394,7,Gearbox,Minor Repair,0.35,62.86,40.86,0.5785,0.8299,0.02177,0.01141,S1_NoWeather
+506,7,Generator,Major Replacement,0.9,64.34,6.43,0.5599,0.9982,0.02254,0.00071,S1_NoWeather
+522,7,Contactor/Circuit/Relay,Major Repair,0.55,88.84,39.98,0.2727,0.8382,0.03657,0.01104,S1_NoWeather
+526,7,Service Items,Minor Repair,0.35,70.45,45.79,0.483,0.7804,0.02583,0.01353,S1_NoWeather
+618,7,Blades,Minor Repair,0.35,104.12,67.68,0.1448,0.5178,0.0464,0.02432,S1_NoWeather
+619,7,Yaw System,Minor Repair,0.35,123.49,80.27,0.0518,0.3648,0.05993,0.03141,S1_NoWeather
+628,7,Pumps/Motors,Minor Repair,0.35,82.37,53.54,0.341,0.6932,0.03265,0.01711,S1_NoWeather
+830,7,Hub,Minor Repair,0.35,136.37,88.64,0.0225,0.2747,0.06955,0.03645,S1_NoWeather
+914,7,Pitch/Hydraulic System,Minor Repair,0.35,116.82,75.93,0.076,0.4157,0.05514,0.0289,S1_NoWeather
+1054,7,Power Supply/Converter,Minor Repair,0.35,170.79,111.01,0.0013,0.1035,0.09748,0.05108,S1_NoWeather
+1063,7,Generator,Minor Repair,0.35,85.43,55.53,0.3077,0.6693,0.03449,0.01807,S1_NoWeather
+25,8,Electrical Components,Minor Repair,0.35,55.26,35.92,0.6727,0.8737,0.01794,0.0094,S1_NoWeather
+202,8,Service Items,Minor Repair,0.35,80.89,52.58,0.3577,0.7045,0.03177,0.01665,S1_NoWeather
+438,8,Gearbox,Minor Repair,0.35,70.17,45.61,0.4865,0.7824,0.02567,0.01345,S1_NoWeather
+439,8,Tower/Foundation,Minor Repair,0.35,89.33,58.07,0.2678,0.6384,0.03688,0.01932,S1_NoWeather
+462,8,Pitch/Hydraulic System,Minor Repair,0.35,80.49,52.32,0.3622,0.7076,0.03154,0.01653,S1_NoWeather
+465,8,Controls,Minor Repair,0.35,87.34,56.77,0.2878,0.6543,0.03565,0.01868,S1_NoWeather
+467,8,Yaw System,Minor Repair,0.35,71.14,46.24,0.4744,0.7757,0.0262,0.01373,S1_NoWeather
+523,8,Sensors,Minor Repair,0.35,80.14,52.09,0.3663,0.7103,0.03133,0.01642,S1_NoWeather
+527,8,Service Items,Minor Repair,0.35,99.58,64.73,0.1775,0.555,0.0434,0.02274,S1_NoWeather
+608,8,Generator,Major Repair,0.55,99.23,44.65,0.1803,0.7924,0.04317,0.01303,S1_NoWeather
+847,8,Generator,Minor Repair,0.35,66.65,43.32,0.5307,0.8059,0.02376,0.01245,S1_NoWeather
+849,8,Blades,Minor Repair,0.35,148.38,96.45,0.0092,0.2027,0.07894,0.04137,S1_NoWeather
+889,8,Pitch/Hydraulic System,Major Repair,0.55,95.32,42.89,0.2123,0.8102,0.04064,0.01227,S1_NoWeather
+901,8,Power Supply/Converter,Minor Repair,0.35,153.54,99.8,0.0061,0.1759,0.08309,0.04354,S1_NoWeather
+940,8,Controls,Minor Repair,0.35,120.77,78.5,0.0608,0.3853,0.05797,0.03038,S1_NoWeather
+978,8,Contactor/Circuit/Relay,Major Repair,0.55,173.05,77.87,0.001,0.3926,0.09942,0.03001,S1_NoWeather
+1033,8,Hub,Minor Repair,0.35,173.12,112.52,0.001,0.0957,0.09948,0.05213,S1_NoWeather
+1039,8,Generator,Minor Repair,0.35,68.32,44.41,0.5096,0.7948,0.02466,0.01293,S1_NoWeather
+1093,8,Hub,Major Repair,0.55,120.52,54.24,0.0617,0.6849,0.05779,0.01744,S1_NoWeather
+119,9,Pitch/Hydraulic System,Minor Repair,0.35,45.67,29.69,0.7817,0.9195,0.01348,0.00706,S1_NoWeather
+203,9,Service Items,Minor Repair,0.35,39.39,25.6,0.8436,0.9437,0.0108,0.00566,S1_NoWeather
+254,9,Contactor/Circuit/Relay,Minor Repair,0.35,83.31,54.15,0.3306,0.6859,0.03321,0.0174,S1_NoWeather
+312,9,Gearbox,Minor Repair,0.35,66.58,43.28,0.5316,0.8064,0.02373,0.01243,S1_NoWeather
+338,9,Contactor/Circuit/Relay,Minor Repair,0.35,65.15,42.35,0.5496,0.8155,0.02297,0.01204,S1_NoWeather
+445,9,Pitch/Hydraulic System,Major Repair,0.55,71.69,32.26,0.4676,0.9019,0.02651,0.008,S1_NoWeather
+461,9,Power Supply/Converter,Minor Repair,0.35,101.43,65.93,0.1636,0.5398,0.04461,0.02338,S1_NoWeather
+469,9,Electrical Components,Minor Repair,0.35,62.08,40.35,0.5883,0.8347,0.02136,0.01119,S1_NoWeather
+473,9,Electrical Components,Minor Repair,0.35,41.35,26.88,0.8252,0.9367,0.01161,0.00609,S1_NoWeather
+480,9,Yaw System,Major Repair,0.55,106.97,48.14,0.1265,0.7551,0.04832,0.01459,S1_NoWeather
+527,9,Service Items,Minor Repair,0.35,72.6,47.19,0.4563,0.7655,0.02702,0.01416,S1_NoWeather
+580,9,Blades,Minor Repair,0.35,114.03,74.12,0.0884,0.4377,0.05318,0.02787,S1_NoWeather
+825,9,Hub,Minor Repair,0.35,138.61,90.1,0.0192,0.2603,0.07127,0.03735,S1_NoWeather
+869,9,Tower/Foundation,Minor Repair,0.35,164.35,106.83,0.0024,0.1274,0.09202,0.04822,S1_NoWeather
+892,9,Pitch/Hydraulic System,Major Repair,0.55,64.26,28.92,0.5609,0.9245,0.0225,0.00679,S1_NoWeather
+926,9,Controls,Minor Repair,0.35,158.81,103.23,0.0039,0.1509,0.0874,0.0458,S1_NoWeather
+1000,9,Generator,Major Replacement,0.9,160.35,16.03,0.0034,0.9822,0.08868,0.0028,S1_NoWeather
+151,10,Yaw System,Minor Repair,0.35,29.25,19.01,0.9224,0.9729,0.00691,0.00362,S1_NoWeather
+203,10,Service Items,Minor Repair,0.35,78.58,51.08,0.3843,0.722,0.03042,0.01594,S1_NoWeather
+330,10,Blades,Minor Repair,0.35,70.55,45.85,0.4818,0.7798,0.02588,0.01356,S1_NoWeather
+457,10,Power Supply/Converter,Minor Repair,0.35,108.62,70.6,0.1167,0.4811,0.04944,0.02591,S1_NoWeather
+462,10,Pitch/Hydraulic System,Minor Repair,0.35,77.51,50.38,0.3969,0.73,0.0298,0.01562,S1_NoWeather
+483,10,Grease/Oil/Cooling Liquid,Minor Repair,0.35,115.49,75.07,0.0818,0.4262,0.0542,0.02841,S1_NoWeather
+525,10,Safety,Minor Repair,0.35,89.55,58.2,0.2657,0.6367,0.03701,0.01939,S1_NoWeather
+528,10,Service Items,Minor Repair,0.35,98.08,63.75,0.1893,0.5673,0.04242,0.02223,S1_NoWeather
+565,10,Generator,Minor Repair,0.35,87.87,57.12,0.2824,0.6501,0.03597,0.01885,S1_NoWeather
+579,10,Gearbox,Major Replacement,0.9,115.74,11.57,0.0806,0.9921,0.05438,0.00172,S1_NoWeather
+760,10,Hub,Minor Repair,0.35,153.8,99.97,0.0059,0.1745,0.0833,0.04365,S1_NoWeather
+857,10,Blades,Minor Repair,0.35,119.85,77.91,0.0641,0.3923,0.05731,0.03003,S1_NoWeather
+920,10,Pitch/Hydraulic System,Minor Repair,0.35,91.38,59.4,0.248,0.6219,0.03815,0.01999,S1_NoWeather
+967,10,Blades,Major Repair,0.55,92.91,41.81,0.2338,0.8208,0.03911,0.01181,S1_NoWeather
+22,11,Hub,Minor Repair,0.35,21.05,13.68,0.9651,0.988,0.00422,0.00221,S1_NoWeather
+119,11,Generator,Major Repair,0.55,66.67,30.0,0.5304,0.9175,0.02378,0.00718,S1_NoWeather
+203,11,Service Items,Minor Repair,0.35,63.97,41.58,0.5645,0.823,0.02234,0.01171,S1_NoWeather
+215,11,Pitch/Hydraulic System,Minor Repair,0.35,80.54,52.35,0.3617,0.7072,0.03157,0.01654,S1_NoWeather
+240,11,Gearbox,Major Replacement,0.9,64.94,6.49,0.5523,0.9981,0.02286,0.00072,S1_NoWeather
+272,11,Safety,Minor Repair,0.35,81.34,52.87,0.3526,0.7011,0.03204,0.01679,S1_NoWeather
+298,11,Pumps/Motors,Minor Repair,0.35,94.84,61.65,0.2165,0.5938,0.04034,0.02114,S1_NoWeather
+319,11,Controls,Minor Repair,0.35,55.72,36.22,0.667,0.8712,0.01817,0.00952,S1_NoWeather
+332,11,Contactor/Circuit/Relay,Minor Repair,0.35,71.68,46.59,0.4677,0.7719,0.02651,0.01389,S1_NoWeather
+522,11,Pitch/Hydraulic System,Major Repair,0.55,96.35,43.36,0.2035,0.8055,0.0413,0.01247,S1_NoWeather
+528,11,Service Items,Minor Repair,0.35,88.58,57.58,0.2753,0.6444,0.03641,0.01908,S1_NoWeather
+669,11,Generator,Major Repair,0.55,108.0,48.6,0.1203,0.75,0.04902,0.0148,S1_NoWeather
+818,11,Gearbox,Major Replacement,0.9,86.49,8.65,0.2966,0.9962,0.03513,0.00111,S1_NoWeather
+820,11,Tower/Foundation,Major Repair,0.55,126.66,57.0,0.0427,0.6515,0.06226,0.01879,S1_NoWeather
+854,11,Blades,Minor Repair,0.35,129.8,84.37,0.035,0.3191,0.06458,0.03384,S1_NoWeather
+905,11,Controls,Major Repair,0.55,120.22,54.1,0.0628,0.6866,0.05757,0.01738,S1_NoWeather
+906,11,Power Supply/Converter,Minor Repair,0.35,140.96,91.63,0.0162,0.2456,0.07309,0.0383,S1_NoWeather
+968,11,Tower/Foundation,Minor Repair,0.35,77.0,50.05,0.403,0.7338,0.02951,0.01546,S1_NoWeather
+987,11,Blades,Minor Repair,0.35,103.37,67.19,0.1499,0.5239,0.0459,0.02405,S1_NoWeather
+989,11,Yaw System,Minor Repair,0.35,188.56,122.56,0.0002,0.0547,0.11308,0.05926,S1_NoWeather
+1050,11,Blades,Minor Repair,0.35,76.19,49.52,0.4127,0.7397,0.02904,0.01522,S1_NoWeather
+86,12,Sensors,Major Repair,0.55,50.88,22.9,0.7242,0.9571,0.01585,0.00479,S1_NoWeather
+204,12,Service Items,Minor Repair,0.35,70.77,46.0,0.479,0.7782,0.026,0.01363,S1_NoWeather
+338,12,Grease/Oil/Cooling Liquid,Minor Repair,0.35,79.04,51.37,0.379,0.7186,0.03069,0.01608,S1_NoWeather
+482,12,Pumps/Motors,Major Repair,0.55,79.09,35.59,0.3784,0.8763,0.03072,0.00927,S1_NoWeather
+483,12,Contactor/Circuit/Relay,Minor Repair,0.35,73.7,47.9,0.4429,0.7577,0.02763,0.01448,S1_NoWeather
+485,12,Heaters/Coolers,Minor Repair,0.35,108.71,70.66,0.1162,0.4803,0.0495,0.02594,S1_NoWeather
+489,12,Sensors,Minor Repair,0.35,73.9,48.03,0.4404,0.7563,0.02774,0.01454,S1_NoWeather
+529,12,Service Items,Minor Repair,0.35,92.0,59.8,0.2421,0.6169,0.03854,0.0202,S1_NoWeather
+622,12,Electrical Components,Minor Repair,0.35,100.19,65.13,0.1728,0.5499,0.0438,0.02295,S1_NoWeather
+627,12,Pitch/Hydraulic System,Minor Repair,0.35,104.82,68.13,0.1401,0.512,0.04687,0.02456,S1_NoWeather
+662,12,Generator,Major Repair,0.55,114.52,51.53,0.0862,0.7168,0.05352,0.01616,S1_NoWeather
+750,12,Gearbox,Minor Repair,0.35,150.87,98.07,0.0076,0.1894,0.08093,0.04241,S1_NoWeather
+831,12,Hub,Minor Repair,0.35,125.32,81.46,0.0464,0.3513,0.06127,0.03211,S1_NoWeather
+848,12,Generator,Minor Repair,0.35,53.53,34.8,0.6933,0.8827,0.01711,0.00896,S1_NoWeather
+917,12,Pitch/Hydraulic System,Minor Repair,0.35,108.13,70.29,0.1195,0.485,0.04911,0.02574,S1_NoWeather
+977,12,Power Supply/Converter,Minor Repair,0.35,185.21,120.38,0.0003,0.0622,0.11008,0.05769,S1_NoWeather
+981,12,Controls,Major Repair,0.55,157.48,70.87,0.0044,0.4778,0.08631,0.02605,S1_NoWeather
+1044,12,Generator,Minor Repair,0.35,61.8,40.17,0.5919,0.8364,0.02122,0.01112,S1_NoWeather
+62,13,Sensors,Major Repair,0.55,60.24,27.11,0.6114,0.9353,0.02042,0.00616,S1_NoWeather
+96,13,Blades,Minor Repair,0.35,38.88,25.27,0.8482,0.9455,0.01059,0.00555,S1_NoWeather
+202,13,Gearbox,Minor Repair,0.35,80.38,52.25,0.3635,0.7085,0.03147,0.01649,S1_NoWeather
+204,13,Service Items,Minor Repair,0.35,83.31,54.15,0.3306,0.6859,0.03321,0.0174,S1_NoWeather
+209,13,Contactor/Circuit/Relay,Minor Repair,0.35,68.14,44.29,0.5119,0.796,0.02457,0.01287,S1_NoWeather
+294,13,Gearbox,Minor Repair,0.35,65.25,42.41,0.5484,0.815,0.02302,0.01206,S1_NoWeather
+361,13,Electrical Components,Minor Repair,0.35,80.43,52.28,0.363,0.7081,0.0315,0.01651,S1_NoWeather
+373,13,Generator,Minor Repair,0.35,65.19,42.37,0.5492,0.8153,0.02299,0.01205,S1_NoWeather
+512,13,Tower/Foundation,Major Repair,0.55,84.02,37.81,0.3229,0.8577,0.03363,0.01015,S1_NoWeather
+523,13,Safety,Minor Repair,0.35,84.32,54.81,0.3196,0.6781,0.03382,0.01772,S1_NoWeather
+529,13,Service Items,Minor Repair,0.35,100.15,65.1,0.1731,0.5503,0.04377,0.02294,S1_NoWeather
+537,13,Pitch/Hydraulic System,Minor Repair,0.35,88.55,57.56,0.2755,0.6446,0.03639,0.01907,S1_NoWeather
+585,13,Transformer,Minor Repair,0.35,118.8,77.22,0.0681,0.4003,0.05655,0.02964,S1_NoWeather
+716,13,Gearbox,Major Replacement,0.9,98.41,9.84,0.1867,0.9947,0.04264,0.00135,S1_NoWeather
+926,13,Controls,Minor Repair,0.35,157.78,102.56,0.0042,0.1556,0.08656,0.04536,S1_NoWeather
+120,14,Controls,Minor Repair,0.35,61.84,40.2,0.5913,0.8361,0.02124,0.01113,S1_NoWeather
+175,14,Pumps/Motors,Minor Repair,0.35,60.3,39.2,0.6106,0.8453,0.02045,0.01072,S1_NoWeather
+176,14,Gearbox,Minor Repair,0.35,54.37,35.34,0.6833,0.8784,0.01751,0.00918,S1_NoWeather
+204,14,Service Items,Minor Repair,0.35,67.6,43.94,0.5188,0.7997,0.02427,0.01272,S1_NoWeather
+254,14,Service Items,Minor Repair,0.35,49.94,32.46,0.735,0.9004,0.01541,0.00808,S1_NoWeather
+298,14,Pumps/Motors,Minor Repair,0.35,57.2,37.18,0.6491,0.8631,0.01889,0.0099,S1_NoWeather
+337,14,Controls,Major Repair,0.55,70.2,31.59,0.4862,0.9067,0.02569,0.00775,S1_NoWeather
+342,14,Blades,Minor Repair,0.35,93.24,60.6,0.2307,0.6068,0.03932,0.02061,S1_NoWeather
+530,14,Service Items,Minor Repair,0.35,71.46,46.45,0.4704,0.7735,0.02638,0.01383,S1_NoWeather
+601,14,Gearbox,Minor Repair,0.35,95.34,61.97,0.2121,0.5897,0.04066,0.02131,S1_NoWeather
+627,14,Electrical Components,Minor Repair,0.35,98.46,64.0,0.1863,0.5642,0.04267,0.02236,S1_NoWeather
+750,14,Generator,Major Repair,0.55,152.22,68.5,0.0068,0.5074,0.08202,0.02476,S1_NoWeather
+775,14,Gearbox,Major Replacement,0.9,85.97,8.6,0.302,0.9962,0.03481,0.0011,S1_NoWeather
+847,14,Hub,Minor Repair,0.35,168.39,109.45,0.0016,0.112,0.09543,0.05001,S1_NoWeather
+856,14,Blades,Minor Repair,0.35,122.6,79.69,0.0546,0.3714,0.05929,0.03107,S1_NoWeather
+886,14,Pitch/Hydraulic System,Major Repair,0.55,162.65,73.19,0.0028,0.449,0.09059,0.02735,S1_NoWeather
+913,14,Power Supply/Converter,Minor Repair,0.35,120.29,78.19,0.0625,0.3889,0.05762,0.0302,S1_NoWeather
+939,14,Generator,Major Repair,0.55,94.5,42.52,0.2195,0.8138,0.04012,0.01211,S1_NoWeather
+942,14,Controls,Minor Repair,0.35,95.59,62.13,0.21,0.5877,0.04082,0.02139,S1_NoWeather
+951,14,Blades,Minor Repair,0.35,92.69,60.25,0.2357,0.6113,0.03898,0.02042,S1_NoWeather
+954,14,Yaw System,Minor Repair,0.35,152.63,99.21,0.0066,0.1804,0.08235,0.04316,S1_NoWeather
+982,14,Contactor/Circuit/Relay,Major Repair,0.55,148.47,66.81,0.0092,0.5287,0.07901,0.02385,S1_NoWeather
+1043,14,Tower/Foundation,Major Repair,0.55,172.71,77.72,0.0011,0.3945,0.09913,0.02992,S1_NoWeather
+70,15,Gearbox,Minor Repair,0.35,26.83,17.44,0.9369,0.9781,0.00607,0.00318,S1_NoWeather
+204,15,Service Items,Minor Repair,0.35,40.77,26.5,0.8307,0.9388,0.01137,0.00596,S1_NoWeather
+253,15,Blades,Minor Repair,0.35,78.3,50.9,0.3876,0.7241,0.03026,0.01586,S1_NoWeather
+319,15,Pitch/Hydraulic System,Minor Repair,0.35,71.69,46.6,0.4675,0.7718,0.02651,0.01389,S1_NoWeather
+497,15,Pitch/Hydraulic System,Minor Repair,0.35,71.6,46.54,0.4687,0.7725,0.02646,0.01387,S1_NoWeather
+522,15,Grease/Oil/Cooling Liquid,Minor Repair,0.35,120.83,78.54,0.0606,0.3848,0.05801,0.0304,S1_NoWeather
+530,15,Service Items,Minor Repair,0.35,72.5,47.13,0.4575,0.7662,0.02696,0.01413,S1_NoWeather
+564,15,Gearbox,Minor Repair,0.35,87.44,56.84,0.2868,0.6535,0.03571,0.01871,S1_NoWeather
+600,15,Generator,Minor Repair,0.35,103.39,67.2,0.1497,0.5237,0.04591,0.02406,S1_NoWeather
+829,15,Gearbox,Minor Repair,0.35,73.84,47.99,0.4411,0.7567,0.02771,0.01452,S1_NoWeather
+899,15,Blades,Minor Repair,0.35,142.9,92.88,0.0141,0.234,0.0746,0.03909,S1_NoWeather
+917,15,Pitch/Hydraulic System,Minor Repair,0.35,104.54,67.95,0.142,0.5143,0.04668,0.02446,S1_NoWeather
+931,15,Controls,Minor Repair,0.35,140.72,91.47,0.0165,0.2471,0.0729,0.03821,S1_NoWeather
+964,15,Generator,Major Repair,0.55,119.2,53.64,0.0665,0.692,0.05684,0.01716,S1_NoWeather
+964,15,Pitch/Hydraulic System,Minor Repair,0.35,74.95,48.72,0.4276,0.7487,0.02834,0.01485,S1_NoWeather
+1034,15,Hub,Minor Repair,0.35,157.19,102.18,0.0045,0.1583,0.08607,0.04511,S1_NoWeather
+1064,15,Blades,Minor Repair,0.35,115.88,75.32,0.08,0.4231,0.05448,0.02855,S1_NoWeather
+157,16,Pitch/Hydraulic System,Minor Repair,0.35,30.77,20.0,0.9123,0.9692,0.00745,0.00391,S1_NoWeather
+205,16,Service Items,Minor Repair,0.35,37.46,24.35,0.8607,0.9502,0.01001,0.00525,S1_NoWeather
+406,16,Blades,Minor Repair,0.35,92.56,60.16,0.237,0.6124,0.03889,0.02038,S1_NoWeather
+531,16,Service Items,Minor Repair,0.35,70.35,45.73,0.4842,0.7811,0.02577,0.0135,S1_NoWeather
+583,16,Sensors,Major Repair,0.55,127.56,57.4,0.0403,0.6466,0.06292,0.01899,S1_NoWeather
+601,16,Gearbox,Minor Repair,0.35,93.67,60.88,0.2269,0.6033,0.03959,0.02075,S1_NoWeather
+665,16,Generator,Major Repair,0.55,108.73,48.93,0.1161,0.7464,0.04952,0.01495,S1_NoWeather
+776,16,Blades,Major Repair,0.55,112.16,50.47,0.0975,0.7289,0.05188,0.01566,S1_NoWeather
+826,16,Gearbox,Minor Repair,0.35,73.88,48.03,0.4406,0.7564,0.02774,0.01454,S1_NoWeather
+862,16,Generator,Minor Repair,0.35,77.93,50.65,0.392,0.7269,0.03004,0.01574,S1_NoWeather
+990,16,Pitch/Hydraulic System,Minor Repair,0.35,139.0,90.35,0.0187,0.2578,0.07157,0.03751,S1_NoWeather
+56,17,Sensors,Major Repair,0.55,53.1,23.9,0.6984,0.9524,0.0169,0.0051,S1_NoWeather
+205,17,Service Items,Minor Repair,0.35,77.88,50.62,0.3926,0.7272,0.03002,0.01573,S1_NoWeather
+217,17,Controls,Minor Repair,0.35,81.13,52.74,0.355,0.7027,0.03192,0.01673,S1_NoWeather
+362,17,Electrical Components,Minor Repair,0.35,59.96,38.97,0.6149,0.8474,0.02027,0.01063,S1_NoWeather
+471,17,Pumps/Motors,Minor Repair,0.35,106.97,69.53,0.1265,0.4945,0.04832,0.02532,S1_NoWeather
+532,17,Service Items,Minor Repair,0.35,96.62,62.8,0.2013,0.5792,0.04148,0.02174,S1_NoWeather
+594,17,Generator,Minor Repair,0.35,95.08,61.8,0.2144,0.5918,0.04049,0.02122,S1_NoWeather
+735,17,Gearbox,Minor Repair,0.35,141.67,92.09,0.0154,0.2413,0.07365,0.03859,S1_NoWeather
+862,17,Blades,Minor Repair,0.35,107.6,69.94,0.1227,0.4894,0.04874,0.02554,S1_NoWeather
+882,17,Tower/Foundation,Minor Repair,0.35,157.8,102.57,0.0042,0.1554,0.08657,0.04537,S1_NoWeather
+895,17,Blades,Minor Repair,0.35,73.94,48.06,0.4399,0.756,0.02777,0.01455,S1_NoWeather
+907,17,Pitch/Hydraulic System,Minor Repair,0.35,134.19,87.22,0.0262,0.289,0.06789,0.03558,S1_NoWeather
+964,17,Yaw System,Minor Repair,0.35,139.73,90.82,0.0177,0.2533,0.07213,0.0378,S1_NoWeather
+1074,17,Generator,Minor Repair,0.35,129.8,84.37,0.035,0.3191,0.06459,0.03385,S1_NoWeather
+6,18,Pitch/Hydraulic System,Minor Repair,0.35,25.25,16.42,0.9455,0.9811,0.00554,0.0029,S1_NoWeather
+131,18,Pitch/Hydraulic System,Minor Repair,0.35,34.42,22.37,0.8857,0.9595,0.00882,0.00462,S1_NoWeather
+163,18,Hub,Minor Repair,0.35,63.29,41.14,0.5731,0.8273,0.02199,0.01152,S1_NoWeather
+164,18,Grease/Oil/Cooling Liquid,Minor Repair,0.35,52.89,34.38,0.7009,0.886,0.0168,0.0088,S1_NoWeather
+206,18,Service Items,Minor Repair,0.35,51.42,33.42,0.7181,0.8933,0.0161,0.00844,S1_NoWeather
+376,18,Pitch/Hydraulic System,Minor Repair,0.35,57.37,37.29,0.6469,0.8621,0.01898,0.00995,S1_NoWeather
+532,18,Service Items,Minor Repair,0.35,79.42,51.62,0.3746,0.7157,0.03091,0.0162,S1_NoWeather
+585,18,Sensors,Major Repair,0.55,101.37,45.62,0.164,0.7823,0.04458,0.01346,S1_NoWeather
+586,18,Pumps/Motors,Minor Repair,0.35,107.97,70.18,0.1205,0.4863,0.049,0.02568,S1_NoWeather
+613,18,Controls,Major Repair,0.55,108.38,48.77,0.1181,0.7481,0.04927,0.01487,S1_NoWeather
+615,18,Transformer,Minor Repair,0.35,117.77,76.55,0.0721,0.4083,0.05582,0.02925,S1_NoWeather
+622,18,Electrical Components,Minor Repair,0.35,110.84,72.05,0.1044,0.4631,0.05097,0.02671,S1_NoWeather
+651,18,Gearbox,Major Repair,0.55,110.32,49.65,0.1072,0.7383,0.05061,0.01528,S1_NoWeather
+752,18,Generator,Minor Repair,0.35,138.98,90.34,0.0187,0.258,0.07155,0.0375,S1_NoWeather
+832,18,Hub,Minor Repair,0.35,115.14,74.84,0.0833,0.4289,0.05396,0.02828,S1_NoWeather
+905,18,Power Supply/Converter,Minor Repair,0.35,141.05,91.68,0.0161,0.2451,0.07316,0.03834,S1_NoWeather
+953,18,Yaw System,Minor Repair,0.35,157.44,102.34,0.0044,0.1571,0.08628,0.04521,S1_NoWeather
+955,18,Blades,Minor Repair,0.35,148.99,96.84,0.0088,0.1994,0.07942,0.04162,S1_NoWeather
+969,18,Controls,Minor Repair,0.35,98.77,64.2,0.1838,0.5616,0.04287,0.02247,S1_NoWeather
+988,18,Pumps/Motors,Major Repair,0.55,80.18,36.08,0.3658,0.8723,0.03136,0.00947,S1_NoWeather
+1033,18,Gearbox,Major Repair,0.55,99.65,44.84,0.177,0.7904,0.04344,0.01311,S1_NoWeather
+1046,18,Blades,Minor Repair,0.35,105.84,68.8,0.1335,0.5037,0.04756,0.02492,S1_NoWeather
+71,19,Sensors,Minor Repair,0.35,59.04,38.37,0.6264,0.8527,0.01981,0.01038,S1_NoWeather
+72,19,Generator,Minor Repair,0.35,48.63,31.61,0.7497,0.9065,0.01481,0.00776,S1_NoWeather
+154,19,Gearbox,Minor Repair,0.35,67.22,43.69,0.5235,0.8022,0.02407,0.01261,S1_NoWeather
+206,19,Service Items,Minor Repair,0.35,41.87,27.22,0.8202,0.9347,0.01183,0.0062,S1_NoWeather
+276,19,Hub,Minor Repair,0.35,75.72,49.22,0.4183,0.7431,0.02878,0.01508,S1_NoWeather
+412,19,Pitch/Hydraulic System,Major Repair,0.55,105.43,47.44,0.1362,0.7627,0.04728,0.01427,S1_NoWeather
+468,19,Pumps/Motors,Major Repair,0.55,78.61,35.37,0.3841,0.8781,0.03044,0.00919,S1_NoWeather
+485,19,Sensors,Minor Repair,0.35,86.37,56.14,0.2978,0.6619,0.03506,0.01837,S1_NoWeather
+519,19,Contactor/Circuit/Relay,Minor Repair,0.35,112.74,73.28,0.0946,0.4479,0.05228,0.0274,S1_NoWeather
+532,19,Service Items,Minor Repair,0.35,73.22,47.59,0.4488,0.7611,0.02736,0.01434,S1_NoWeather
+855,19,Blades,Minor Repair,0.35,127.64,82.96,0.0401,0.3345,0.06298,0.033,S1_NoWeather
+890,19,Generator,Minor Repair,0.35,148.61,96.6,0.0091,0.2015,0.07912,0.04146,S1_NoWeather
+900,19,Blades,Minor Repair,0.35,88.96,57.83,0.2714,0.6413,0.03665,0.0192,S1_NoWeather
+918,19,Pitch/Hydraulic System,Minor Repair,0.35,100.44,65.29,0.171,0.5479,0.04396,0.02304,S1_NoWeather
+954,19,Yaw System,Minor Repair,0.35,151.29,98.34,0.0073,0.1873,0.08127,0.04259,S1_NoWeather
+1014,19,Generator,Major Replacement,0.9,112.6,11.26,0.0954,0.9926,0.05218,0.00165,S1_NoWeather
+1053,19,Transformer,Minor Repair,0.35,201.94,131.26,0.0,0.0318,0.12533,0.06568,S1_NoWeather
+41,20,Grease/Oil/Cooling Liquid,Minor Repair,0.35,58.3,37.9,0.6355,0.8569,0.01944,0.01019,S1_NoWeather
+69,20,Generator,Minor Repair,0.35,44.68,29.04,0.792,0.9237,0.01305,0.00684,S1_NoWeather
+207,20,Service Items,Minor Repair,0.35,59.61,38.74,0.6193,0.8494,0.0201,0.01053,S1_NoWeather
+358,20,Gearbox,Major Replacement,0.9,94.13,9.41,0.2227,0.9953,0.03989,0.00126,S1_NoWeather
+405,20,Blades,Minor Repair,0.35,100.76,65.49,0.1686,0.5453,0.04417,0.02315,S1_NoWeather
+457,20,Pitch/Hydraulic System,Minor Repair,0.35,110.04,71.53,0.1087,0.4696,0.05042,0.02642,S1_NoWeather
+494,20,Gearbox,Minor Repair,0.35,28.41,18.47,0.9276,0.9747,0.00661,0.00347,S1_NoWeather
+519,20,Heaters/Coolers,Minor Repair,0.35,100.3,65.19,0.172,0.5491,0.04387,0.02299,S1_NoWeather
+523,20,Sensors,Minor Repair,0.35,86.56,56.27,0.2958,0.6604,0.03517,0.01843,S1_NoWeather
+532,20,Service Items,Minor Repair,0.35,84.74,55.08,0.3151,0.6748,0.03407,0.01785,S1_NoWeather
+566,20,Hub,Minor Repair,0.35,114.62,74.5,0.0857,0.433,0.05359,0.02809,S1_NoWeather
+858,20,Blades,Minor Repair,0.35,116.49,75.72,0.0774,0.4183,0.05491,0.02878,S1_NoWeather
+896,20,Transformer,Minor Repair,0.35,153.98,100.09,0.0059,0.1736,0.08345,0.04373,S1_NoWeather
+919,20,Pitch/Hydraulic System,Minor Repair,0.35,96.53,62.74,0.202,0.58,0.04142,0.02171,S1_NoWeather
+940,20,Controls,Minor Repair,0.35,117.75,76.54,0.0722,0.4085,0.0558,0.02924,S1_NoWeather
+981,20,Contactor/Circuit/Relay,Major Repair,0.55,151.5,68.18,0.0072,0.5115,0.08144,0.02458,S1_NoWeather
+1053,20,Transformer,Minor Repair,0.35,121.09,78.71,0.0597,0.3829,0.05819,0.0305,S1_NoWeather
+21,21,Pitch/Hydraulic System,Major Repair,0.55,53.56,24.1,0.693,0.9514,0.01712,0.00517,S1_NoWeather
+196,21,Contactor/Circuit/Relay,Minor Repair,0.35,71.72,46.62,0.4673,0.7717,0.02652,0.0139,S1_NoWeather
+207,21,Service Items,Minor Repair,0.35,81.81,53.17,0.3474,0.6975,0.03231,0.01693,S1_NoWeather
+331,21,Safety,Minor Repair,0.35,69.68,45.29,0.4926,0.7857,0.0254,0.01331,S1_NoWeather
+338,21,Sensors,Minor Repair,0.35,97.92,63.65,0.1906,0.5686,0.04232,0.02218,S1_NoWeather
+368,21,Tower/Foundation,Minor Repair,0.35,65.88,42.82,0.5404,0.8109,0.02335,0.01224,S1_NoWeather
+394,21,Gearbox,Minor Repair,0.35,64.86,42.16,0.5534,0.8174,0.02281,0.01195,S1_NoWeather
+434,21,Generator,Major Repair,0.55,72.99,32.84,0.4516,0.8976,0.02723,0.00822,S1_NoWeather
+440,21,Tower/Foundation,Minor Repair,0.35,51.82,33.68,0.7134,0.8913,0.01629,0.00854,S1_NoWeather
+532,21,Service Items,Minor Repair,0.35,99.17,64.46,0.1807,0.5583,0.04313,0.0226,S1_NoWeather
+615,21,Gearbox,Minor Repair,0.35,73.16,47.55,0.4495,0.7616,0.02733,0.01432,S1_NoWeather
+910,21,Generator,Major Repair,0.55,100.84,45.38,0.168,0.7848,0.04423,0.01335,S1_NoWeather
+932,21,Controls,Minor Repair,0.35,134.56,87.47,0.0255,0.2865,0.06817,0.03572,S1_NoWeather
+1045,21,Blades,Minor Repair,0.35,159.39,103.6,0.0037,0.1483,0.08788,0.04605,S1_NoWeather
+1059,21,Pitch/Hydraulic System,Major Repair,0.55,172.1,77.45,0.0011,0.3977,0.0986,0.02977,S1_NoWeather
+114,22,Controls,Minor Repair,0.35,70.33,45.72,0.4845,0.7813,0.02576,0.0135,S1_NoWeather
+207,22,Service Items,Minor Repair,0.35,35.62,23.15,0.8761,0.956,0.00928,0.00486,S1_NoWeather
+287,22,Generator,Major Repair,0.55,82.48,37.12,0.3398,0.8636,0.03272,0.00988,S1_NoWeather
+338,22,Electrical Components,Minor Repair,0.35,76.97,50.03,0.4034,0.734,0.02949,0.01545,S1_NoWeather
+376,22,Blades,Minor Repair,0.35,105.81,68.77,0.1338,0.504,0.04753,0.02491,S1_NoWeather
+530,22,Tower/Foundation,Minor Repair,0.35,110.41,71.77,0.1067,0.4666,0.05067,0.02655,S1_NoWeather
+533,22,Service Items,Minor Repair,0.35,70.15,45.6,0.4867,0.7825,0.02566,0.01345,S1_NoWeather
+555,22,Gearbox,Minor Repair,0.35,111.65,72.57,0.1002,0.4567,0.05152,0.027,S1_NoWeather
+639,22,Pitch/Hydraulic System,Minor Repair,0.35,116.17,75.51,0.0788,0.4209,0.05468,0.02866,S1_NoWeather
+729,22,Hub,Major Repair,0.55,144.53,65.04,0.0124,0.5511,0.07588,0.02291,S1_NoWeather
+853,22,Blades,Minor Repair,0.35,133.77,86.95,0.0269,0.2918,0.06757,0.03541,S1_NoWeather
+898,22,Transformer,Minor Repair,0.35,120.72,78.47,0.061,0.3857,0.05792,0.03036,S1_NoWeather
+917,22,Pitch/Hydraulic System,Minor Repair,0.35,104.51,67.93,0.1422,0.5146,0.04666,0.02445,S1_NoWeather
+944,22,Power Supply/Converter,Minor Repair,0.35,174.3,113.3,0.0009,0.0919,0.1005,0.05267,S1_NoWeather
+1006,22,Generator,Major Replacement,0.9,139.12,13.91,0.0185,0.9875,0.07166,0.00227,S1_NoWeather
+67,23,Sensors,Minor Repair,0.35,58.96,38.32,0.6273,0.8531,0.01977,0.01036,S1_NoWeather
+207,23,Service Items,Minor Repair,0.35,39.52,25.69,0.8424,0.9432,0.01085,0.00569,S1_NoWeather
+460,23,Blades,Minor Repair,0.35,93.12,60.53,0.2319,0.6078,0.03924,0.02056,S1_NoWeather
+485,23,Sensors,Minor Repair,0.35,97.32,63.26,0.1955,0.5735,0.04193,0.02197,S1_NoWeather
+512,23,Hub,Minor Repair,0.35,118.84,77.25,0.0679,0.4,0.05658,0.02965,S1_NoWeather
+518,23,Contactor/Circuit/Relay,Minor Repair,0.35,118.06,76.74,0.0709,0.4061,0.05603,0.02936,S1_NoWeather
+533,23,Service Items,Minor Repair,0.35,72.69,47.25,0.4552,0.7649,0.02707,0.01418,S1_NoWeather
+548,23,Power Supply/Converter,Minor Repair,0.35,116.51,75.73,0.0773,0.4182,0.05492,0.02878,S1_NoWeather
+569,23,Gearbox,Major Replacement,0.9,108.93,10.89,0.1149,0.9932,0.04965,0.00157,S1_NoWeather
+628,23,Pumps/Motors,Minor Repair,0.35,105.2,68.38,0.1377,0.509,0.04712,0.02469,S1_NoWeather
+864,23,Blades,Minor Repair,0.35,101.53,65.99,0.163,0.539,0.04468,0.02341,S1_NoWeather
+903,23,Pitch/Hydraulic System,Minor Repair,0.35,150.27,97.68,0.0079,0.1926,0.08045,0.04216,S1_NoWeather
+930,23,Generator,Minor Repair,0.35,152.77,99.3,0.0065,0.1797,0.08246,0.04321,S1_NoWeather
+931,23,Controls,Minor Repair,0.35,137.53,89.39,0.0208,0.2672,0.07044,0.03691,S1_NoWeather
+1093,23,Generator,Major Repair,0.55,122.3,55.03,0.0556,0.6754,0.05907,0.01783,S1_NoWeather
+98,24,Pumps/Motors,Minor Repair,0.35,49.3,32.04,0.7423,0.9035,0.01512,0.00792,S1_NoWeather
+207,24,Service Items,Minor Repair,0.35,81.39,52.9,0.352,0.7007,0.03207,0.01681,S1_NoWeather
+363,24,Heaters/Coolers,Minor Repair,0.35,68.93,44.8,0.502,0.7908,0.02499,0.0131,S1_NoWeather
+405,24,Blades,Minor Repair,0.35,98.84,64.24,0.1833,0.5611,0.04291,0.02249,S1_NoWeather
+489,24,Grease/Oil/Cooling Liquid,Minor Repair,0.35,73.91,48.04,0.4402,0.7562,0.02775,0.01454,S1_NoWeather
+534,24,Service Items,Minor Repair,0.35,99.9,64.94,0.175,0.5523,0.04361,0.02285,S1_NoWeather
+619,24,Yaw System,Minor Repair,0.35,135.47,88.06,0.024,0.2805,0.06886,0.03609,S1_NoWeather
+761,24,Generator,Minor Repair,0.35,116.04,75.43,0.0793,0.4218,0.05459,0.02861,S1_NoWeather
+798,24,Generator,Major Repair,0.55,79.43,35.74,0.3745,0.8751,0.03091,0.00933,S1_NoWeather
+881,24,Hub,Minor Repair,0.35,171.07,111.2,0.0012,0.1025,0.09772,0.05121,S1_NoWeather
+908,24,Pitch/Hydraulic System,Minor Repair,0.35,130.45,84.79,0.0335,0.3146,0.06507,0.0341,S1_NoWeather
+67,25,Pitch/Hydraulic System,Minor Repair,0.35,49.91,32.44,0.7354,0.9006,0.0154,0.00807,S1_NoWeather
+84,25,Tower/Foundation,Major Repair,0.55,66.01,29.7,0.5388,0.9194,0.02342,0.00707,S1_NoWeather
+208,25,Service Items,Minor Repair,0.35,37.73,24.52,0.8584,0.9493,0.01012,0.0053,S1_NoWeather
+228,25,Gearbox,Minor Repair,0.35,40.01,26.0,0.8379,0.9415,0.01105,0.00579,S1_NoWeather
+294,25,Contactor/Circuit/Relay,Minor Repair,0.35,83.26,54.12,0.3312,0.6863,0.03318,0.01739,S1_NoWeather
+461,25,Pitch/Hydraulic System,Minor Repair,0.35,88.44,57.49,0.2767,0.6455,0.03632,0.01903,S1_NoWeather
+471,25,Pumps/Motors,Minor Repair,0.35,107.73,70.03,0.1219,0.4883,0.04883,0.02559,S1_NoWeather
+474,25,Contactor/Circuit/Relay,Minor Repair,0.35,72.12,46.88,0.4623,0.7689,0.02675,0.01402,S1_NoWeather
+517,25,Yaw System,Minor Repair,0.35,114.5,74.42,0.0863,0.434,0.05351,0.02804,S1_NoWeather
+534,25,Service Items,Minor Repair,0.35,71.52,46.49,0.4697,0.773,0.02642,0.01384,S1_NoWeather
+583,25,Yaw System,Minor Repair,0.35,79.42,51.62,0.3745,0.7157,0.03091,0.0162,S1_NoWeather
+622,25,Electrical Components,Minor Repair,0.35,117.23,76.2,0.0743,0.4126,0.05543,0.02905,S1_NoWeather
+831,25,Hub,Minor Repair,0.35,132.65,86.22,0.029,0.2994,0.06672,0.03497,S1_NoWeather
+847,25,Gearbox,Minor Repair,0.35,114.0,74.1,0.0885,0.4379,0.05316,0.02786,S1_NoWeather
+892,25,Transformer,Minor Repair,0.35,159.82,103.88,0.0036,0.1464,0.08824,0.04624,S1_NoWeather
+898,25,Power Supply/Converter,Minor Repair,0.35,162.58,105.68,0.0028,0.1346,0.09053,0.04744,S1_NoWeather
+918,25,Pitch/Hydraulic System,Minor Repair,0.35,102.49,66.62,0.1561,0.5311,0.04531,0.02375,S1_NoWeather
+927,25,Controls,Minor Repair,0.35,149.5,97.18,0.0084,0.1967,0.07983,0.04184,S1_NoWeather
+941,25,Controls,Minor Repair,0.35,99.18,64.46,0.1807,0.5583,0.04313,0.0226,S1_NoWeather
+7,26,Grease/Oil/Cooling Liquid,Minor Repair,0.35,10.59,6.88,0.9937,0.9978,0.0015,0.00079,S1_NoWeather
+208,26,Service Items,Minor Repair,0.35,67.46,43.85,0.5205,0.8006,0.0242,0.01268,S1_NoWeather
+229,26,Controls,Minor Repair,0.35,60.93,39.6,0.6028,0.8416,0.02077,0.01088,S1_NoWeather
+230,26,Contactor/Circuit/Relay,Minor Repair,0.35,86.0,55.9,0.3017,0.6649,0.03483,0.01825,S1_NoWeather
+294,26,Blades,Minor Repair,0.35,55.66,36.18,0.6678,0.8715,0.01813,0.0095,S1_NoWeather
+318,26,Gearbox,Minor Repair,0.35,85.48,55.56,0.3072,0.669,0.03451,0.01809,S1_NoWeather
+319,26,Controls,Minor Repair,0.35,51.6,33.54,0.7159,0.8924,0.01619,0.00848,S1_NoWeather
+360,26,Hub,Minor Repair,0.35,64.26,41.77,0.5609,0.8212,0.0225,0.01179,S1_NoWeather
+362,26,Electrical Components,Minor Repair,0.35,66.18,43.01,0.5367,0.809,0.02351,0.01232,S1_NoWeather
+370,26,Generator,Major Repair,0.55,102.21,45.99,0.158,0.7783,0.04513,0.01362,S1_NoWeather
+519,26,Contactor/Circuit/Relay,Minor Repair,0.35,92.9,60.39,0.2338,0.6096,0.03911,0.02049,S1_NoWeather
+524,26,Safety,Minor Repair,0.35,111.2,72.28,0.1025,0.4602,0.05121,0.02684,S1_NoWeather
+534,26,Service Items,Minor Repair,0.35,90.85,59.05,0.253,0.6262,0.03782,0.01982,S1_NoWeather
+543,26,Electrical Components,Minor Repair,0.35,69.01,44.86,0.501,0.7902,0.02504,0.01312,S1_NoWeather
+593,26,Blades,Minor Repair,0.35,79.18,51.46,0.3774,0.7175,0.03077,0.01612,S1_NoWeather
+634,26,Generator,Major Replacement,0.9,82.99,8.3,0.3341,0.9965,0.03302,0.00104,S1_NoWeather
+723,26,Gearbox,Major Replacement,0.9,109.56,10.96,0.1114,0.9931,0.05008,0.00158,S1_NoWeather
+869,26,Blades,Minor Repair,0.35,90.46,58.8,0.2567,0.6293,0.03758,0.01969,S1_NoWeather
+942,26,Controls,Minor Repair,0.35,77.54,50.4,0.3966,0.7297,0.02982,0.01563,S1_NoWeather
+992,26,Sensors,Major Repair,0.55,158.82,71.47,0.0039,0.4703,0.08741,0.02639,S1_NoWeather
+1059,26,Tower/Foundation,Minor Repair,0.35,185.9,120.84,0.0003,0.0606,0.1107,0.05801,S1_NoWeather
+208,27,Service Items,Minor Repair,0.35,36.8,23.92,0.8663,0.9523,0.00975,0.00511,S1_NoWeather
+223,27,Controls,Minor Repair,0.35,52.24,33.95,0.7086,0.8893,0.01649,0.00864,S1_NoWeather
+259,27,Sensors,Minor Repair,0.35,72.55,47.16,0.457,0.7658,0.02699,0.01414,S1_NoWeather
+361,27,Controls,Minor Repair,0.35,52.95,34.42,0.7002,0.8857,0.01683,0.00882,S1_NoWeather
+395,27,Generator,Minor Repair,0.35,86.42,56.17,0.2974,0.6616,0.03508,0.01839,S1_NoWeather
+406,27,Blades,Minor Repair,0.35,85.71,55.71,0.3048,0.6672,0.03465,0.01816,S1_NoWeather
+534,27,Service Items,Minor Repair,0.35,70.92,46.1,0.4771,0.7772,0.02608,0.01367,S1_NoWeather
+621,27,Hub,Minor Repair,0.35,114.59,74.48,0.0858,0.4333,0.05357,0.02807,S1_NoWeather
+683,27,Gearbox,Major Replacement,0.9,122.2,12.22,0.0559,0.9909,0.059,0.00187,S1_NoWeather
+937,27,Pitch/Hydraulic System,Minor Repair,0.35,146.42,95.17,0.0108,0.2136,0.07738,0.04055,S1_NoWeather
+960,27,Gearbox,Minor Repair,0.35,51.22,33.29,0.7204,0.8943,0.01601,0.00839,S1_NoWeather
+1058,27,Tower/Foundation,Major Repair,0.55,186.42,83.89,0.0003,0.3244,0.11116,0.03355,S1_NoWeather
+209,28,Service Items,Minor Repair,0.35,81.05,52.68,0.3559,0.7033,0.03187,0.0167,S1_NoWeather
+241,28,Blades,Minor Repair,0.35,68.29,44.39,0.5101,0.7951,0.02465,0.01292,S1_NoWeather
+404,28,Generator,Major Repair,0.55,74.28,33.43,0.4357,0.8933,0.02796,0.00844,S1_NoWeather
+473,28,Pumps/Motors,Minor Repair,0.35,83.57,54.32,0.3278,0.6839,0.03337,0.01749,S1_NoWeather
+524,28,Safety,Minor Repair,0.35,109.37,71.09,0.1124,0.475,0.04995,0.02618,S1_NoWeather
+527,28,Pitch/Hydraulic System,Minor Repair,0.35,104.71,68.06,0.1409,0.513,0.04679,0.02452,S1_NoWeather
+535,28,Service Items,Minor Repair,0.35,99.68,64.79,0.1767,0.5541,0.04347,0.02278,S1_NoWeather
+626,28,Blades,Minor Repair,0.35,99.39,64.6,0.179,0.5566,0.04327,0.02268,S1_NoWeather
+822,28,Gearbox,Minor Repair,0.35,151.62,98.55,0.0071,0.1855,0.08154,0.04273,S1_NoWeather
+918,28,Pitch/Hydraulic System,Minor Repair,0.35,100.06,65.04,0.1739,0.551,0.04371,0.02291,S1_NoWeather
+924,28,Generator,Minor Repair,0.35,107.43,69.83,0.1237,0.4908,0.04863,0.02548,S1_NoWeather
+928,28,Blades,Minor Repair,0.35,107.6,69.94,0.1227,0.4894,0.04875,0.02555,S1_NoWeather
+933,28,Controls,Minor Repair,0.35,128.81,83.73,0.0373,0.3261,0.06385,0.03346,S1_NoWeather
+952,28,Blades,Minor Repair,0.35,72.94,47.41,0.4521,0.7631,0.02721,0.01426,S1_NoWeather
+953,28,Controls,Major Repair,0.55,85.73,38.58,0.3046,0.8509,0.03466,0.01046,S1_NoWeather
+1047,28,Blades,Minor Repair,0.35,54.41,35.37,0.6828,0.8781,0.01753,0.00919,S1_NoWeather
+210,29,Service Items,Minor Repair,0.35,77.83,50.59,0.3932,0.7276,0.02999,0.01571,S1_NoWeather
+216,29,Generator,Major Repair,0.55,75.99,34.2,0.415,0.8874,0.02893,0.00873,S1_NoWeather
+323,29,Hub,Minor Repair,0.35,60.65,39.42,0.6063,0.8433,0.02063,0.01081,S1_NoWeather
+324,29,Controls,Minor Repair,0.35,94.1,61.16,0.223,0.5998,0.03987,0.02089,S1_NoWeather
+465,29,Controls,Minor Repair,0.35,76.16,49.51,0.413,0.7399,0.02903,0.01521,S1_NoWeather
+487,29,Pitch/Hydraulic System,Minor Repair,0.35,101.01,65.66,0.1667,0.5432,0.04434,0.02324,S1_NoWeather
+507,29,Generator,Major Repair,0.55,75.2,33.84,0.4246,0.8902,0.02848,0.0086,S1_NoWeather
+537,29,Service Items,Minor Repair,0.35,97.59,63.43,0.1933,0.5713,0.0421,0.02206,S1_NoWeather
+575,29,Blades,Minor Repair,0.35,125.87,81.81,0.0448,0.3473,0.06167,0.03232,S1_NoWeather
+861,29,Blades,Minor Repair,0.35,114.81,74.63,0.0848,0.4315,0.05373,0.02816,S1_NoWeather
+920,29,Pitch/Hydraulic System,Minor Repair,0.35,94.66,61.53,0.2181,0.5953,0.04022,0.02108,S1_NoWeather
+930,29,Pitch/Hydraulic System,Minor Repair,0.35,62.53,40.64,0.5827,0.832,0.02159,0.01132,S1_NoWeather
+949,29,Gearbox,Major Repair,0.55,155.72,70.08,0.0051,0.4877,0.08487,0.02562,S1_NoWeather
+210,30,Service Items,Minor Repair,0.35,43.3,28.14,0.8062,0.9292,0.01244,0.00652,S1_NoWeather
+297,30,Electrical Components,Minor Repair,0.35,97.77,63.55,0.1918,0.5698,0.04222,0.02213,S1_NoWeather
+359,30,Generator,Minor Repair,0.35,86.04,55.93,0.3013,0.6646,0.03486,0.01827,S1_NoWeather
+465,30,Controls,Minor Repair,0.35,77.55,50.41,0.3965,0.7297,0.02982,0.01563,S1_NoWeather
+508,30,Tower/Foundation,Major Repair,0.55,103.25,46.46,0.1507,0.7733,0.04582,0.01383,S1_NoWeather
+517,30,Pumps/Motors,Minor Repair,0.35,97.39,63.3,0.1949,0.5729,0.04198,0.022,S1_NoWeather
+539,30,Service Items,Minor Repair,0.35,75.14,48.84,0.4253,0.7473,0.02845,0.01491,S1_NoWeather
+565,30,Generator,Minor Repair,0.35,82.93,53.9,0.3349,0.6889,0.03298,0.01728,S1_NoWeather
+610,30,Blades,Minor Repair,0.35,110.25,71.66,0.1076,0.468,0.05055,0.02649,S1_NoWeather
+864,30,Blades,Minor Repair,0.35,102.66,66.73,0.1548,0.5297,0.04543,0.02381,S1_NoWeather
+911,30,Tower/Foundation,Major Repair,0.55,103.46,46.56,0.1492,0.7723,0.04596,0.01387,S1_NoWeather
+913,30,Pitch/Hydraulic System,Minor Repair,0.35,118.68,77.14,0.0685,0.4013,0.05647,0.02959,S1_NoWeather
+107,31,Pitch/Hydraulic System,Minor Repair,0.35,70.46,45.8,0.4829,0.7804,0.02583,0.01354,S1_NoWeather
+209,31,Blades,Minor Repair,0.35,84.52,54.94,0.3175,0.6765,0.03393,0.01778,S1_NoWeather
+210,31,Service Items,Minor Repair,0.35,49.6,32.24,0.7388,0.902,0.01526,0.008,S1_NoWeather
+462,31,Pitch/Hydraulic System,Minor Repair,0.35,86.8,56.42,0.2934,0.6586,0.03532,0.01851,S1_NoWeather
+481,31,Yaw System,Minor Repair,0.35,119.36,77.58,0.066,0.3961,0.05695,0.02984,S1_NoWeather
+539,31,Service Items,Minor Repair,0.35,79.24,51.51,0.3766,0.717,0.03081,0.01614,S1_NoWeather
+572,31,Gearbox,Major Replacement,0.9,127.95,12.8,0.0394,0.9898,0.06321,0.002,S1_NoWeather
+589,31,Blades,Minor Repair,0.35,108.94,70.81,0.1149,0.4785,0.04966,0.02602,S1_NoWeather
+725,31,Generator,Major Repair,0.55,128.8,57.96,0.0373,0.6397,0.06384,0.01927,S1_NoWeather
+897,31,Transformer,Minor Repair,0.35,150.51,97.83,0.0078,0.1913,0.08064,0.04226,S1_NoWeather
+958,31,Pitch/Hydraulic System,Minor Repair,0.35,127.42,82.82,0.0407,0.336,0.06281,0.03292,S1_NoWeather
+961,31,Generator,Minor Repair,0.35,91.96,59.77,0.2425,0.6172,0.03851,0.02018,S1_NoWeather
+979,31,Pumps/Motors,Major Repair,0.55,121.47,54.66,0.0584,0.6799,0.05847,0.01765,S1_NoWeather
+210,32,Service Items,Minor Repair,0.35,77.6,50.44,0.3959,0.7293,0.02985,0.01565,S1_NoWeather
+240,32,Grease/Oil/Cooling Liquid,Minor Repair,0.35,82.18,53.42,0.3432,0.6947,0.03254,0.01705,S1_NoWeather
+258,32,Pitch/Hydraulic System,Minor Repair,0.35,71.32,46.36,0.4721,0.7744,0.02631,0.01379,S1_NoWeather
+325,32,Safety,Minor Repair,0.35,90.15,58.59,0.2598,0.6318,0.03738,0.01959,S1_NoWeather
+367,32,Generator,Major Repair,0.55,82.66,37.2,0.3378,0.8629,0.03282,0.00991,S1_NoWeather
+489,32,Grease/Oil/Cooling Liquid,Minor Repair,0.35,79.42,51.62,0.3746,0.7157,0.03091,0.0162,S1_NoWeather
+539,32,Service Items,Minor Repair,0.35,97.44,63.34,0.1945,0.5725,0.04201,0.02201,S1_NoWeather
+587,32,Contactor/Circuit/Relay,Minor Repair,0.35,119.46,77.65,0.0656,0.3953,0.05702,0.02988,S1_NoWeather
+618,32,Power Supply/Converter,Minor Repair,0.35,131.43,85.43,0.0314,0.3078,0.06581,0.03449,S1_NoWeather
+621,32,Electrical Components,Minor Repair,0.35,123.88,80.52,0.0506,0.3619,0.06022,0.03156,S1_NoWeather
+748,32,Generator,Major Replacement,0.9,90.2,9.02,0.2593,0.9957,0.03741,0.00118,S1_NoWeather
+853,32,Blades,Minor Repair,0.35,135.18,87.87,0.0244,0.2824,0.06864,0.03597,S1_NoWeather
+881,32,Hub,Minor Repair,0.35,157.98,102.68,0.0042,0.1547,0.08672,0.04544,S1_NoWeather
+916,32,Pitch/Hydraulic System,Minor Repair,0.35,109.36,71.08,0.1125,0.4751,0.04995,0.02617,S1_NoWeather
+932,32,Controls,Minor Repair,0.35,133.51,86.78,0.0274,0.2936,0.06737,0.03531,S1_NoWeather
+962,32,Transformer,Minor Repair,0.35,168.24,109.36,0.0016,0.1125,0.0953,0.04994,S1_NoWeather
+1057,32,Gearbox,Major Replacement,0.9,160.21,16.02,0.0034,0.9822,0.08856,0.0028,S1_NoWeather
+88,33,Sensors,Minor Repair,0.35,49.54,32.2,0.7395,0.9023,0.01523,0.00798,S1_NoWeather
+183,33,Contactor/Circuit/Relay,Minor Repair,0.35,36.25,23.56,0.8709,0.954,0.00953,0.00499,S1_NoWeather
+211,33,Service Items,Minor Repair,0.35,51.38,33.39,0.7186,0.8935,0.01608,0.00843,S1_NoWeather
+251,33,Gearbox,Minor Repair,0.35,83.51,54.28,0.3284,0.6844,0.03333,0.01747,S1_NoWeather
+289,33,Gearbox,Major Repair,0.55,59.28,26.68,0.6233,0.9378,0.01994,0.00602,S1_NoWeather
+497,33,Sensors,Major Repair,0.55,90.2,40.59,0.2593,0.8325,0.03741,0.01129,S1_NoWeather
+515,33,Pitch/Hydraulic System,Minor Repair,0.35,122.48,79.61,0.055,0.3724,0.0592,0.03102,S1_NoWeather
+539,33,Service Items,Minor Repair,0.35,79.39,51.61,0.3749,0.7159,0.0309,0.01619,S1_NoWeather
+543,33,Power Supply/Converter,Minor Repair,0.35,105.41,68.52,0.1363,0.5072,0.04727,0.02477,S1_NoWeather
+595,33,Pitch/Hydraulic System,Major Repair,0.55,89.61,40.32,0.265,0.8349,0.03705,0.01118,S1_NoWeather
+760,33,Gearbox,Minor Repair,0.35,88.68,57.64,0.2743,0.6436,0.03647,0.01911,S1_NoWeather
+845,33,Generator,Major Replacement,0.9,154.36,15.44,0.0057,0.9838,0.08375,0.00265,S1_NoWeather
+897,33,Transformer,Minor Repair,0.35,152.92,99.4,0.0064,0.1789,0.08259,0.04328,S1_NoWeather
+927,33,Controls,Minor Repair,0.35,150.93,98.1,0.0075,0.1891,0.08098,0.04244,S1_NoWeather
+1053,33,Tower/Foundation,Minor Repair,0.35,201.37,130.89,0.0,0.0326,0.1248,0.0654,S1_NoWeather
+47,34,Sensors,Major Repair,0.55,48.03,21.62,0.7563,0.9628,0.01454,0.00439,S1_NoWeather
+182,34,Blades,Minor Repair,0.35,62.69,40.75,0.5807,0.831,0.02168,0.01136,S1_NoWeather
+211,34,Service Items,Minor Repair,0.35,63.66,41.38,0.5685,0.825,0.02218,0.01162,S1_NoWeather
+272,34,Sensors,Minor Repair,0.35,52.62,34.2,0.7041,0.8874,0.01667,0.00873,S1_NoWeather
+340,34,Generator,Minor Repair,0.35,67.9,44.14,0.5149,0.7977,0.02444,0.01281,S1_NoWeather
+363,34,Contactor/Circuit/Relay,Minor Repair,0.35,78.88,51.27,0.3809,0.7198,0.03059,0.01603,S1_NoWeather
+463,34,Pitch/Hydraulic System,Minor Repair,0.35,61.37,39.89,0.5973,0.839,0.02099,0.011,S1_NoWeather
+480,34,Transformer,Minor Repair,0.35,106.71,69.36,0.1281,0.4966,0.04814,0.02523,S1_NoWeather
+522,34,Controls,Minor Repair,0.35,118.07,76.75,0.0709,0.406,0.05603,0.02936,S1_NoWeather
+536,34,Generator,Minor Repair,0.35,72.14,46.89,0.4621,0.7688,0.02676,0.01402,S1_NoWeather
+541,34,Service Items,Minor Repair,0.35,88.38,57.44,0.2773,0.646,0.03628,0.01901,S1_NoWeather
+586,34,Electrical Components,Minor Repair,0.35,120.02,78.01,0.0635,0.391,0.05742,0.03009,S1_NoWeather
+587,34,Grease/Oil/Cooling Liquid,Minor Repair,0.35,132.09,85.86,0.0301,0.3032,0.0663,0.03474,S1_NoWeather
+735,34,Gearbox,Minor Repair,0.35,135.15,87.85,0.0245,0.2826,0.06862,0.03596,S1_NoWeather
+923,34,Pitch/Hydraulic System,Minor Repair,0.35,84.89,55.18,0.3135,0.6736,0.03416,0.0179,S1_NoWeather
+936,34,Hub,Minor Repair,0.35,178.1,115.77,0.0006,0.0805,0.1038,0.0544,S1_NoWeather
+940,34,Controls,Minor Repair,0.35,124.75,81.09,0.048,0.3555,0.06085,0.03189,S1_NoWeather
+1049,34,Generator,Major Repair,0.55,119.89,53.95,0.064,0.6883,0.05733,0.01731,S1_NoWeather
+18,35,Pitch/Hydraulic System,Major Repair,0.55,55.49,24.97,0.6698,0.947,0.01805,0.00545,S1_NoWeather
+205,35,Blades,Minor Repair,0.35,71.69,46.6,0.4676,0.7719,0.02651,0.01389,S1_NoWeather
+211,35,Service Items,Minor Repair,0.35,63.77,41.45,0.567,0.8243,0.02224,0.01166,S1_NoWeather
+407,35,Blades,Minor Repair,0.35,73.6,47.84,0.4441,0.7584,0.02757,0.01445,S1_NoWeather
+471,35,Controls,Minor Repair,0.35,75.05,48.78,0.4264,0.748,0.02839,0.01488,S1_NoWeather
+473,35,Contactor/Circuit/Relay,Minor Repair,0.35,74.19,48.23,0.4368,0.7542,0.02791,0.01463,S1_NoWeather
+523,35,Safety,Minor Repair,0.35,103.87,67.51,0.1465,0.5198,0.04623,0.02423,S1_NoWeather
+541,35,Service Items,Minor Repair,0.35,88.45,57.49,0.2765,0.6454,0.03633,0.01904,S1_NoWeather
+582,35,Pitch/Hydraulic System,Minor Repair,0.35,105.97,68.88,0.1327,0.5026,0.04764,0.02497,S1_NoWeather
+620,35,Yaw System,Minor Repair,0.35,112.58,73.18,0.0954,0.4492,0.05217,0.02734,S1_NoWeather
+708,35,Generator,Major Replacement,0.9,151.23,15.12,0.0073,0.9846,0.08122,0.00257,S1_NoWeather
+751,35,Gearbox,Minor Repair,0.35,113.41,73.72,0.0914,0.4426,0.05275,0.02764,S1_NoWeather
+829,35,Gearbox,Minor Repair,0.35,73.72,47.92,0.4426,0.7576,0.02764,0.01449,S1_NoWeather
+901,35,Hub,Minor Repair,0.35,157.25,102.21,0.0044,0.158,0.08612,0.04513,S1_NoWeather
+990,35,Sensors,Major Repair,0.55,159.48,71.77,0.0037,0.4666,0.08796,0.02655,S1_NoWeather
+28,36,Pumps/Motors,Minor Repair,0.35,45.97,29.88,0.7786,0.9183,0.01361,0.00713,S1_NoWeather
+212,36,Service Items,Minor Repair,0.35,36.23,23.55,0.8711,0.9541,0.00952,0.00499,S1_NoWeather
+281,36,Pitch/Hydraulic System,Minor Repair,0.35,91.24,59.3,0.2493,0.6231,0.03806,0.01994,S1_NoWeather
+289,36,Generator,Minor Repair,0.35,87.13,56.63,0.29,0.656,0.03552,0.01861,S1_NoWeather
+461,36,Power Supply/Converter,Minor Repair,0.35,104.91,68.19,0.1396,0.5113,0.04693,0.02459,S1_NoWeather
+497,36,Generator,Minor Repair,0.35,85.63,55.66,0.3056,0.6678,0.03461,0.01814,S1_NoWeather
+522,36,Power Supply/Converter,Minor Repair,0.35,77.19,50.17,0.4007,0.7324,0.02962,0.01552,S1_NoWeather
+541,36,Service Items,Minor Repair,0.35,70.55,45.86,0.4818,0.7798,0.02588,0.01356,S1_NoWeather
+652,36,Generator,Minor Repair,0.35,76.66,49.83,0.407,0.7362,0.02931,0.01536,S1_NoWeather
+870,36,Tower/Foundation,Minor Repair,0.35,156.09,101.46,0.0049,0.1634,0.08517,0.04463,S1_NoWeather
+965,36,Blades,Minor Repair,0.35,161.64,105.06,0.003,0.1386,0.08975,0.04703,S1_NoWeather
+1030,36,Gearbox,Major Replacement,0.9,151.85,15.18,0.007,0.9844,0.08172,0.00258,S1_NoWeather
+1050,36,Hub,Minor Repair,0.35,195.04,126.78,0.0001,0.0424,0.11896,0.06234,S1_NoWeather
+1059,36,Pitch/Hydraulic System,Minor Repair,0.35,163.3,106.15,0.0026,0.1316,0.09114,0.04776,S1_NoWeather
+54,37,Pitch/Hydraulic System,Minor Repair,0.35,46.86,30.46,0.769,0.9144,0.01401,0.00734,S1_NoWeather
+212,37,Service Items,Minor Repair,0.35,53.1,34.51,0.6985,0.8849,0.0169,0.00885,S1_NoWeather
+242,37,Pitch/Hydraulic System,Major Repair,0.55,57.46,25.86,0.6458,0.9423,0.01902,0.00574,S1_NoWeather
+318,37,Blades,Minor Repair,0.35,94.78,61.61,0.217,0.5943,0.0403,0.02112,S1_NoWeather
+404,37,Hub,Minor Repair,0.35,81.85,53.2,0.3469,0.6972,0.03234,0.01695,S1_NoWeather
+516,37,Pitch/Hydraulic System,Minor Repair,0.35,64.86,42.16,0.5533,0.8174,0.02281,0.01195,S1_NoWeather
+525,37,Electrical Components,Minor Repair,0.35,91.88,59.72,0.2432,0.6178,0.03847,0.02016,S1_NoWeather
+531,37,Gearbox,Minor Repair,0.35,101.07,65.69,0.1663,0.5428,0.04437,0.02325,S1_NoWeather
+542,37,Service Items,Minor Repair,0.35,81.51,52.98,0.3507,0.6998,0.03214,0.01684,S1_NoWeather
+617,37,Generator,Major Repair,0.55,94.48,42.52,0.2196,0.8139,0.04011,0.01211,S1_NoWeather
+821,37,Gearbox,Minor Repair,0.35,103.69,67.4,0.1477,0.5212,0.04612,0.02417,S1_NoWeather
+832,37,Generator,Minor Repair,0.35,71.52,46.49,0.4697,0.7731,0.02641,0.01384,S1_NoWeather
+894,37,Hub,Major Repair,0.55,123.2,55.44,0.0527,0.6705,0.05972,0.01803,S1_NoWeather
+937,37,Controls,Minor Repair,0.35,126.4,82.16,0.0434,0.3434,0.06206,0.03252,S1_NoWeather
+961,37,Blades,Minor Repair,0.35,153.61,99.85,0.006,0.1755,0.08315,0.04357,S1_NoWeather
+971,37,Pumps/Motors,Major Repair,0.55,155.52,69.98,0.0051,0.4888,0.0847,0.02557,S1_NoWeather
+1041,37,Generator,Major Repair,0.55,76.49,34.42,0.4091,0.8857,0.02921,0.00882,S1_NoWeather
+1065,37,Power Supply/Converter,Minor Repair,0.35,154.24,100.26,0.0057,0.1724,0.08366,0.04384,S1_NoWeather
+82,38,Generator,Major Repair,0.55,66.94,30.12,0.5271,0.9167,0.02392,0.00722,S1_NoWeather
+212,38,Service Items,Minor Repair,0.35,36.88,23.97,0.8656,0.952,0.00978,0.00513,S1_NoWeather
+258,38,Blades,Minor Repair,0.35,62.4,40.56,0.5843,0.8328,0.02153,0.01128,S1_NoWeather
+281,38,Electrical Components,Minor Repair,0.35,73.74,47.93,0.4423,0.7574,0.02766,0.01449,S1_NoWeather
+312,38,Generator,Minor Repair,0.35,63.12,41.03,0.5752,0.8283,0.0219,0.01148,S1_NoWeather
+361,38,Pitch/Hydraulic System,Minor Repair,0.35,94.37,61.34,0.2206,0.5976,0.04004,0.02098,S1_NoWeather
+542,38,Service Items,Minor Repair,0.35,70.97,46.13,0.4765,0.7768,0.02611,0.01368,S1_NoWeather
+857,38,Blades,Minor Repair,0.35,121.56,79.01,0.0581,0.3793,0.05853,0.03067,S1_NoWeather
+877,38,Generator,Major Repair,0.55,122.03,54.91,0.0565,0.6768,0.05887,0.01777,S1_NoWeather
+888,38,Pitch/Hydraulic System,Major Repair,0.55,107.34,48.3,0.1243,0.7533,0.04857,0.01466,S1_NoWeather
+896,38,Transformer,Minor Repair,0.35,154.66,100.53,0.0055,0.1703,0.084,0.04402,S1_NoWeather
+906,38,Power Supply/Converter,Minor Repair,0.35,140.1,91.06,0.0173,0.251,0.07242,0.03795,S1_NoWeather
+969,38,Yaw System,Minor Repair,0.35,131.27,85.32,0.0318,0.3089,0.06568,0.03442,S1_NoWeather
+1047,38,Blades,Minor Repair,0.35,103.01,66.96,0.1524,0.5268,0.04566,0.02393,S1_NoWeather
+11,39,Tower/Foundation,Major Repair,0.55,39.67,17.85,0.841,0.9768,0.01091,0.00329,S1_NoWeather
+143,39,Pitch/Hydraulic System,Major Repair,0.55,57.73,25.98,0.6426,0.9417,0.01916,0.00578,S1_NoWeather
+201,39,Sensors,Minor Repair,0.35,50.27,32.67,0.7313,0.8989,0.01556,0.00816,S1_NoWeather
+212,39,Service Items,Minor Repair,0.35,48.07,31.24,0.7559,0.9091,0.01455,0.00763,S1_NoWeather
+469,39,Generator,Minor Repair,0.35,89.16,57.96,0.2694,0.6397,0.03677,0.01927,S1_NoWeather
+515,39,Transformer,Minor Repair,0.35,94.12,61.18,0.2228,0.5996,0.03988,0.0209,S1_NoWeather
+519,39,Contactor/Circuit/Relay,Minor Repair,0.35,93.23,60.6,0.2309,0.6069,0.03931,0.0206,S1_NoWeather
+526,39,Gearbox,Minor Repair,0.35,102.02,66.31,0.1594,0.535,0.045,0.02358,S1_NoWeather
+533,39,Pitch/Hydraulic System,Minor Repair,0.35,81.98,53.29,0.3454,0.6962,0.03242,0.01699,S1_NoWeather
+542,39,Service Items,Minor Repair,0.35,78.24,50.86,0.3883,0.7245,0.03023,0.01584,S1_NoWeather
+622,39,Electrical Components,Minor Repair,0.35,120.04,78.03,0.0634,0.3908,0.05744,0.0301,S1_NoWeather
+639,39,Power Supply/Converter,Minor Repair,0.35,110.97,72.13,0.1037,0.4621,0.05105,0.02675,S1_NoWeather
+821,39,Gearbox,Minor Repair,0.35,104.31,67.8,0.1435,0.5162,0.04653,0.02438,S1_NoWeather
+830,39,Generator,Minor Repair,0.35,101.96,66.27,0.1598,0.5355,0.04496,0.02356,S1_NoWeather
+848,39,Blades,Minor Repair,0.35,172.96,112.42,0.001,0.0962,0.09934,0.05206,S1_NoWeather
+920,39,Pitch/Hydraulic System,Minor Repair,0.35,86.29,56.09,0.2988,0.6626,0.035,0.01834,S1_NoWeather
+161,40,Electrical Components,Major Repair,0.55,67.19,30.24,0.5239,0.9159,0.02405,0.00726,S1_NoWeather
+212,40,Service Items,Minor Repair,0.35,68.65,44.62,0.5056,0.7927,0.02484,0.01302,S1_NoWeather
+254,40,Electrical Components,Major Repair,0.55,44.24,19.91,0.7966,0.9696,0.01285,0.00388,S1_NoWeather
+367,40,Grease/Oil/Cooling Liquid,Minor Repair,0.35,97.6,63.44,0.1932,0.5712,0.04211,0.02207,S1_NoWeather
+474,40,Heaters/Coolers,Minor Repair,0.35,106.38,69.15,0.1302,0.4993,0.04792,0.02511,S1_NoWeather
+535,40,Gearbox,Minor Repair,0.35,96.16,62.51,0.2051,0.583,0.04118,0.02158,S1_NoWeather
+543,40,Service Items,Minor Repair,0.35,91.62,59.55,0.2457,0.6199,0.0383,0.02007,S1_NoWeather
+584,40,Controls,Minor Repair,0.35,112.81,73.33,0.0943,0.4474,0.05233,0.02742,S1_NoWeather
+589,40,Generator,Major Repair,0.55,132.72,59.72,0.0289,0.6178,0.06677,0.02016,S1_NoWeather
+617,40,Hub,Minor Repair,0.35,139.13,90.43,0.0185,0.257,0.07167,0.03756,S1_NoWeather
+618,40,Pitch/Hydraulic System,Minor Repair,0.35,100.77,65.5,0.1685,0.5452,0.04418,0.02315,S1_NoWeather
+625,40,Tower/Foundation,Major Repair,0.55,123.11,55.4,0.053,0.671,0.05966,0.01801,S1_NoWeather
+850,40,Blades,Minor Repair,0.35,146.07,94.95,0.0111,0.2155,0.0771,0.04041,S1_NoWeather
+923,40,Pitch/Hydraulic System,Minor Repair,0.35,82.5,53.63,0.3396,0.6922,0.03273,0.01715,S1_NoWeather
+930,40,Pitch/Hydraulic System,Minor Repair,0.35,54.63,35.51,0.6803,0.877,0.01763,0.00924,S1_NoWeather
+1046,40,Blades,Minor Repair,0.35,115.95,75.37,0.0797,0.4226,0.05453,0.02857,S1_NoWeather
+164,41,Heaters/Coolers,Minor Repair,0.35,34.58,22.48,0.8844,0.959,0.00888,0.00465,S1_NoWeather
+182,41,Controls,Minor Repair,0.35,34.28,22.28,0.8868,0.9599,0.00876,0.00459,S1_NoWeather
+213,41,Service Items,Minor Repair,0.35,46.35,30.13,0.7745,0.9166,0.01378,0.00722,S1_NoWeather
+323,41,Contactor/Circuit/Relay,Minor Repair,0.35,63.3,41.15,0.5729,0.8272,0.022,0.01153,S1_NoWeather
+515,41,Blades,Minor Repair,0.35,124.99,81.24,0.0473,0.3537,0.06103,0.03198,S1_NoWeather
+515,41,Pitch/Hydraulic System,Minor Repair,0.35,104.64,68.01,0.1413,0.5135,0.04675,0.0245,S1_NoWeather
+543,41,Service Items,Minor Repair,0.35,77.13,50.13,0.4015,0.7328,0.02958,0.0155,S1_NoWeather
+592,41,Generator,Major Repair,0.55,111.65,50.24,0.1002,0.7316,0.05152,0.01555,S1_NoWeather
+608,41,Generator,Minor Repair,0.35,51.24,33.31,0.7201,0.8942,0.01602,0.0084,S1_NoWeather
+855,41,Blades,Minor Repair,0.35,126.24,82.06,0.0438,0.3445,0.06195,0.03246,S1_NoWeather
+868,41,Tower/Foundation,Major Repair,0.55,132.03,59.41,0.0302,0.6217,0.06625,0.02,S1_NoWeather
+1043,41,Generator,Minor Repair,0.35,95.31,61.95,0.2124,0.59,0.04064,0.02129,S1_NoWeather
+3,42,Generator,Major Repair,0.55,26.83,12.07,0.9369,0.9912,0.00607,0.00183,S1_NoWeather
+185,42,Pitch/Hydraulic System,Minor Repair,0.35,51.71,33.61,0.7147,0.8919,0.01624,0.00851,S1_NoWeather
+214,42,Service Items,Minor Repair,0.35,70.16,45.61,0.4866,0.7824,0.02567,0.01345,S1_NoWeather
+223,42,Generator,Major Repair,0.55,43.07,19.38,0.8084,0.9715,0.01235,0.00373,S1_NoWeather
+488,42,Blades,Minor Repair,0.35,80.6,52.39,0.361,0.7067,0.0316,0.01656,S1_NoWeather
+516,42,Controls,Minor Repair,0.35,101.48,65.96,0.1633,0.5394,0.04464,0.0234,S1_NoWeather
+544,42,Service Items,Minor Repair,0.35,92.61,60.19,0.2365,0.612,0.03892,0.0204,S1_NoWeather
+581,42,Transformer,Minor Repair,0.35,95.41,62.02,0.2115,0.5891,0.0407,0.02133,S1_NoWeather
+627,42,Electrical Components,Minor Repair,0.35,92.06,59.84,0.2416,0.6164,0.03858,0.02022,S1_NoWeather
+725,42,Generator,Major Replacement,0.9,89.38,8.94,0.2673,0.9958,0.03691,0.00117,S1_NoWeather
+753,42,Gearbox,Minor Repair,0.35,105.08,68.3,0.1384,0.5099,0.04705,0.02465,S1_NoWeather
+824,42,Hub,Minor Repair,0.35,162.06,105.34,0.0029,0.1368,0.0901,0.04722,S1_NoWeather
+873,42,Tower/Foundation,Minor Repair,0.35,134.12,87.18,0.0263,0.2895,0.06784,0.03555,S1_NoWeather
+915,42,Pitch/Hydraulic System,Minor Repair,0.35,113.61,73.85,0.0904,0.441,0.05289,0.02771,S1_NoWeather
+943,42,Hub,Minor Repair,0.35,122.34,79.52,0.0555,0.3734,0.0591,0.03097,S1_NoWeather
+958,42,Yaw System,Minor Repair,0.35,151.12,98.23,0.0074,0.1881,0.08114,0.04252,S1_NoWeather
+973,42,Pumps/Motors,Major Repair,0.55,148.03,66.61,0.0095,0.5312,0.07866,0.02374,S1_NoWeather
+992,42,Gearbox,Minor Repair,0.35,102.3,66.5,0.1573,0.5326,0.04519,0.02368,S1_NoWeather
+1054,42,Power Supply/Converter,Minor Repair,0.35,176.99,115.05,0.0007,0.0837,0.10284,0.05389,S1_NoWeather
+214,43,Service Items,Minor Repair,0.35,65.51,42.58,0.5451,0.8133,0.02316,0.01214,S1_NoWeather
+259,43,Heaters/Coolers,Minor Repair,0.35,47.53,30.9,0.7618,0.9115,0.01431,0.0075,S1_NoWeather
+267,43,Controls,Minor Repair,0.35,49.91,32.44,0.7353,0.9006,0.0154,0.00807,S1_NoWeather
+358,43,Generator,Minor Repair,0.35,103.52,67.29,0.1489,0.5227,0.046,0.02411,S1_NoWeather
+438,43,Blades,Minor Repair,0.35,89.04,57.88,0.2707,0.6407,0.03669,0.01923,S1_NoWeather
+537,43,Pumps/Motors,Minor Repair,0.35,91.42,59.42,0.2476,0.6216,0.03817,0.02,S1_NoWeather
+600,43,Gearbox,Major Replacement,0.9,93.43,9.34,0.229,0.9953,0.03944,0.00125,S1_NoWeather
+836,43,Hub,Minor Repair,0.35,104.56,67.97,0.1418,0.5141,0.0467,0.02447,S1_NoWeather
+875,43,Tower/Foundation,Minor Repair,0.35,131.08,85.2,0.0322,0.3102,0.06554,0.03435,S1_NoWeather
+903,43,Power Supply/Converter,Minor Repair,0.35,153.46,99.75,0.0061,0.1762,0.08303,0.04351,S1_NoWeather
+942,43,Controls,Minor Repair,0.35,86.44,56.19,0.2971,0.6614,0.0351,0.01839,S1_NoWeather
+960,43,Yaw System,Minor Repair,0.35,150.01,97.5,0.0081,0.194,0.08024,0.04205,S1_NoWeather
+972,43,Generator,Minor Repair,0.35,154.29,100.29,0.0057,0.1721,0.0837,0.04386,S1_NoWeather
+976,43,Generator,Major Repair,0.55,101.29,45.58,0.1647,0.7827,0.04452,0.01344,S1_NoWeather
+21,44,Generator,Minor Repair,0.35,50.67,32.93,0.7267,0.897,0.01575,0.00825,S1_NoWeather
+148,44,Blades,Minor Repair,0.35,34.14,22.19,0.8879,0.9603,0.00871,0.00456,S1_NoWeather
+214,44,Service Items,Minor Repair,0.35,46.82,30.43,0.7695,0.9146,0.01399,0.00733,S1_NoWeather
+291,44,Generator,Major Repair,0.55,71.93,32.37,0.4645,0.9011,0.02665,0.00804,S1_NoWeather
+297,44,Tower/Foundation,Minor Repair,0.35,87.96,57.17,0.2815,0.6493,0.03603,0.01888,S1_NoWeather
+404,44,Generator,Minor Repair,0.35,45.37,29.49,0.7849,0.9208,0.01335,0.00699,S1_NoWeather
+466,44,Yaw System,Minor Repair,0.35,79.92,51.95,0.3688,0.7119,0.0312,0.01635,S1_NoWeather
+700,44,Gearbox,Major Replacement,0.9,132.96,13.3,0.0284,0.9888,0.06695,0.00212,S1_NoWeather
+861,44,Blades,Minor Repair,0.35,109.19,70.97,0.1135,0.4765,0.04983,0.02611,S1_NoWeather
+906,44,Power Supply/Converter,Minor Repair,0.35,136.04,88.42,0.023,0.2768,0.06929,0.03631,S1_NoWeather
+916,44,Pitch/Hydraulic System,Minor Repair,0.35,109.24,71.0,0.1132,0.4761,0.04986,0.02613,S1_NoWeather
+937,44,Generator,Minor Repair,0.35,105.49,68.57,0.1358,0.5065,0.04732,0.0248,S1_NoWeather
+965,44,Generator,Minor Repair,0.35,72.57,47.17,0.4567,0.7657,0.027,0.01415,S1_NoWeather
+969,44,Yaw System,Minor Repair,0.35,112.95,73.42,0.0936,0.4463,0.05242,0.02747,S1_NoWeather
+1073,44,Generator,Major Replacement,0.9,62.17,6.22,0.5872,0.9983,0.02141,0.00068,S1_NoWeather
+175,45,Blades,Minor Repair,0.35,47.32,30.76,0.764,0.9124,0.01422,0.00745,S1_NoWeather
+217,45,Service Items,Minor Repair,0.35,61.36,39.89,0.5973,0.839,0.02099,0.011,S1_NoWeather
+325,45,Controls,Minor Repair,0.35,87.4,56.81,0.2872,0.6538,0.03569,0.0187,S1_NoWeather
+466,45,Controls,Minor Repair,0.35,72.81,47.33,0.4537,0.764,0.02713,0.01422,S1_NoWeather
+523,45,Grease/Oil/Cooling Liquid,Minor Repair,0.35,68.95,44.82,0.5017,0.7906,0.02501,0.0131,S1_NoWeather
+547,45,Gearbox,Minor Repair,0.35,84.49,54.92,0.3178,0.6767,0.03392,0.01777,S1_NoWeather
+585,45,Electrical Components,Minor Repair,0.35,95.27,61.93,0.2127,0.5902,0.04061,0.02128,S1_NoWeather
+824,45,Hub,Minor Repair,0.35,150.69,97.95,0.0077,0.1904,0.08079,0.04234,S1_NoWeather
+864,45,Blades,Minor Repair,0.35,103.76,67.44,0.1472,0.5207,0.04616,0.02419,S1_NoWeather
+871,45,Tower/Foundation,Minor Repair,0.35,139.65,90.78,0.0178,0.2537,0.07208,0.03777,S1_NoWeather
+887,45,Pitch/Hydraulic System,Major Repair,0.55,120.88,54.4,0.0604,0.683,0.05804,0.01752,S1_NoWeather
+965,45,Pitch/Hydraulic System,Minor Repair,0.35,65.4,42.51,0.5465,0.814,0.0231,0.0121,S1_NoWeather
+1039,45,Hub,Minor Repair,0.35,122.95,79.92,0.0535,0.3688,0.05954,0.0312,S1_NoWeather
+86,46,Electrical Components,Minor Repair,0.35,61.87,40.21,0.591,0.836,0.02125,0.01114,S1_NoWeather
+120,46,Yaw System,Minor Repair,0.35,55.18,35.87,0.6736,0.8741,0.0179,0.00938,S1_NoWeather
+186,46,Safety,Minor Repair,0.35,63.09,41.01,0.5756,0.8285,0.02189,0.01147,S1_NoWeather
+230,46,Service Items,Minor Repair,0.35,67.79,44.06,0.5164,0.7984,0.02437,0.01277,S1_NoWeather
+274,46,Contactor/Circuit/Relay,Major Repair,0.55,89.02,40.06,0.2709,0.8374,0.03668,0.01107,S1_NoWeather
+284,46,Hub,Minor Repair,0.35,75.73,49.22,0.4182,0.7431,0.02878,0.01508,S1_NoWeather
+409,46,Tower/Foundation,Minor Repair,0.35,103.81,67.48,0.1469,0.5203,0.04619,0.02421,S1_NoWeather
+463,46,Controls,Minor Repair,0.35,91.81,59.68,0.2439,0.6184,0.03842,0.02013,S1_NoWeather
+489,46,Sensors,Minor Repair,0.35,83.66,54.38,0.3268,0.6832,0.03342,0.01751,S1_NoWeather
+732,46,Generator,Major Repair,0.55,109.83,49.42,0.1099,0.7408,0.05027,0.01517,S1_NoWeather
+790,46,Gearbox,Major Replacement,0.9,165.65,16.57,0.0021,0.9807,0.09311,0.00294,S1_NoWeather
+850,46,Blades,Minor Repair,0.35,143.23,93.1,0.0137,0.232,0.07486,0.03923,S1_NoWeather
+913,46,Pitch/Hydraulic System,Minor Repair,0.35,118.2,76.83,0.0704,0.405,0.05612,0.02941,S1_NoWeather
+960,46,Yaw System,Minor Repair,0.35,139.87,90.91,0.0176,0.2524,0.07224,0.03786,S1_NoWeather
+972,46,Controls,Minor Repair,0.35,131.68,85.59,0.0309,0.3061,0.06599,0.03458,S1_NoWeather
+1065,46,Power Supply/Converter,Minor Repair,0.35,154.91,100.69,0.0054,0.1691,0.0842,0.04413,S1_NoWeather
+37,47,Grease/Oil/Cooling Liquid,Minor Repair,0.35,30.81,20.03,0.9121,0.9691,0.00747,0.00391,S1_NoWeather
+69,47,Pitch/Hydraulic System,Minor Repair,0.35,58.69,38.15,0.6306,0.8547,0.01964,0.01029,S1_NoWeather
+230,47,Service Items,Minor Repair,0.35,42.7,27.76,0.8121,0.9315,0.01219,0.00639,S1_NoWeather
+260,47,Safety,Minor Repair,0.35,79.92,51.95,0.3688,0.7119,0.0312,0.01635,S1_NoWeather
+272,47,Gearbox,Major Replacement,0.9,74.54,7.45,0.4326,0.9974,0.02811,0.00089,S1_NoWeather
+272,47,Grease/Oil/Cooling Liquid,Minor Repair,0.35,53.03,34.47,0.6993,0.8853,0.01686,0.00884,S1_NoWeather
+307,47,Transformer,Minor Repair,0.35,93.48,60.76,0.2285,0.6048,0.03947,0.02069,S1_NoWeather
+475,47,Gearbox,Minor Repair,0.35,36.45,23.7,0.8692,0.9534,0.00961,0.00504,S1_NoWeather
+482,47,Pumps/Motors,Minor Repair,0.35,94.96,61.73,0.2154,0.5928,0.04042,0.02118,S1_NoWeather
+518,47,Contactor/Circuit/Relay,Minor Repair,0.35,113.29,73.64,0.092,0.4436,0.05266,0.0276,S1_NoWeather
+519,47,Sensors,Minor Repair,0.35,128.17,83.31,0.0388,0.3306,0.06337,0.03321,S1_NoWeather
+529,47,Generator,Minor Repair,0.35,93.68,60.89,0.2267,0.6032,0.0396,0.02075,S1_NoWeather
+544,47,Gearbox,Minor Repair,0.35,33.7,21.9,0.8913,0.9615,0.00854,0.00448,S1_NoWeather
+868,47,Gearbox,Minor Repair,0.35,67.9,44.14,0.5149,0.7977,0.02444,0.01281,S1_NoWeather
+904,47,Hub,Minor Repair,0.35,160.73,104.47,0.0033,0.1424,0.08899,0.04664,S1_NoWeather
+913,47,Pitch/Hydraulic System,Minor Repair,0.35,126.15,82.0,0.044,0.3452,0.06188,0.03243,S1_NoWeather
+933,47,Controls,Minor Repair,0.35,129.35,84.08,0.036,0.3223,0.06425,0.03367,S1_NoWeather
+958,47,Blades,Minor Repair,0.35,169.68,110.29,0.0014,0.1074,0.09653,0.05058,S1_NoWeather
+968,47,Pitch/Hydraulic System,Minor Repair,0.35,90.0,58.5,0.2612,0.633,0.03729,0.01954,S1_NoWeather
+1034,47,Generator,Minor Repair,0.35,130.89,85.08,0.0326,0.3115,0.0654,0.03427,S1_NoWeather
+85,48,Blades,Minor Repair,0.35,65.08,42.3,0.5506,0.816,0.02293,0.01202,S1_NoWeather
+114,48,Yaw System,Minor Repair,0.35,46.85,30.45,0.7692,0.9145,0.01401,0.00734,S1_NoWeather
+214,48,Controls,Minor Repair,0.35,81.63,53.06,0.3493,0.6989,0.03221,0.01688,S1_NoWeather
+231,48,Service Items,Minor Repair,0.35,77.15,50.15,0.4012,0.7327,0.02959,0.01551,S1_NoWeather
+253,48,Yaw System,Minor Repair,0.35,49.45,32.14,0.7405,0.9027,0.01519,0.00796,S1_NoWeather
+363,48,Pumps/Motors,Minor Repair,0.35,92.67,60.24,0.2359,0.6114,0.03896,0.02042,S1_NoWeather
+437,48,Tower/Foundation,Major Repair,0.55,104.09,46.84,0.145,0.7693,0.04638,0.014,S1_NoWeather
+455,48,Generator,Major Repair,0.55,104.13,46.86,0.1447,0.7691,0.04641,0.01401,S1_NoWeather
+645,48,Generator,Major Replacement,0.9,73.86,7.39,0.4409,0.9974,0.02772,0.00088,S1_NoWeather
+904,48,Pitch/Hydraulic System,Minor Repair,0.35,148.75,96.69,0.009,0.2007,0.07923,0.04152,S1_NoWeather
+912,48,Blades,Minor Repair,0.35,160.3,104.2,0.0034,0.1443,0.08864,0.04645,S1_NoWeather
+925,48,Pitch/Hydraulic System,Minor Repair,0.35,99.69,64.8,0.1767,0.5541,0.04347,0.02278,S1_NoWeather
+1045,48,Blades,Minor Repair,0.35,119.2,77.48,0.0666,0.3973,0.05683,0.02978,S1_NoWeather
+231,49,Service Items,Minor Repair,0.35,58.46,38.0,0.6335,0.856,0.01952,0.01023,S1_NoWeather
+455,49,Gearbox,Minor Repair,0.35,113.28,73.63,0.092,0.4437,0.05265,0.02759,S1_NoWeather
+456,49,Generator,Minor Repair,0.35,115.2,74.88,0.0831,0.4285,0.054,0.0283,S1_NoWeather
+511,49,Generator,Major Repair,0.55,81.88,36.85,0.3465,0.8659,0.03236,0.00977,S1_NoWeather
+518,49,Contactor/Circuit/Relay,Minor Repair,0.35,114.18,74.22,0.0877,0.4365,0.05328,0.02792,S1_NoWeather
+602,49,Hub,Minor Repair,0.35,135.38,88.0,0.0241,0.2811,0.06879,0.03605,S1_NoWeather
+609,49,Blades,Minor Repair,0.35,130.9,85.09,0.0325,0.3114,0.06541,0.03428,S1_NoWeather
+620,49,Sensors,Major Repair,0.55,111.86,50.34,0.0991,0.7305,0.05167,0.0156,S1_NoWeather
+863,49,Blades,Minor Repair,0.35,107.09,69.61,0.1258,0.4935,0.0484,0.02536,S1_NoWeather
+880,49,Generator,Major Repair,0.55,89.85,40.43,0.2627,0.834,0.03719,0.01123,S1_NoWeather
+884,49,Yaw System,Major Replacement,0.9,126.96,12.7,0.0419,0.99,0.06247,0.00198,S1_NoWeather
+912,49,Pitch/Hydraulic System,Minor Repair,0.35,127.23,82.7,0.0412,0.3374,0.06268,0.03285,S1_NoWeather
+957,49,Generator,Major Replacement,0.9,51.43,5.14,0.7179,0.999,0.01611,0.00051,S1_NoWeather
+25,50,Tower/Foundation,Minor Repair,0.35,22.91,14.89,0.9571,0.9852,0.00479,0.00251,S1_NoWeather
+232,50,Service Items,Minor Repair,0.35,48.29,31.39,0.7535,0.9081,0.01465,0.00768,S1_NoWeather
+284,50,Blades,Minor Repair,0.35,64.86,42.16,0.5533,0.8174,0.02281,0.01196,S1_NoWeather
+362,50,Electrical Components,Minor Repair,0.35,62.56,40.66,0.5824,0.8318,0.02161,0.01132,S1_NoWeather
+468,50,Sensors,Major Repair,0.55,108.74,48.94,0.116,0.7463,0.04953,0.01495,S1_NoWeather
+472,50,Electrical Components,Minor Repair,0.35,47.66,30.98,0.7604,0.9109,0.01437,0.00753,S1_NoWeather
+751,50,Gearbox,Minor Repair,0.35,114.84,74.64,0.0847,0.4313,0.05375,0.02816,S1_NoWeather
+831,50,Hub,Minor Repair,0.35,115.95,75.37,0.0798,0.4226,0.05453,0.02857,S1_NoWeather
+875,50,Gearbox,Minor Repair,0.35,91.64,59.57,0.2455,0.6198,0.03832,0.02008,S1_NoWeather
+895,50,Hub,Minor Repair,0.35,84.37,54.84,0.3192,0.6777,0.03384,0.01773,S1_NoWeather
+899,50,Pitch/Hydraulic System,Minor Repair,0.35,158.77,103.2,0.0039,0.1511,0.08737,0.04579,S1_NoWeather
+915,50,Power Supply/Converter,Minor Repair,0.35,116.1,75.47,0.0791,0.4213,0.05464,0.02863,S1_NoWeather
+931,50,Controls,Minor Repair,0.35,139.23,90.5,0.0184,0.2564,0.07175,0.0376,S1_NoWeather
+953,50,Yaw System,Minor Repair,0.35,156.05,101.43,0.0049,0.1636,0.08514,0.04462,S1_NoWeather
+977,50,Pumps/Motors,Major Repair,0.55,142.18,63.98,0.0148,0.5644,0.07404,0.02235,S1_NoWeather
+1038,50,Gearbox,Minor Repair,0.35,79.57,51.72,0.3729,0.7146,0.031,0.01624,S1_NoWeather

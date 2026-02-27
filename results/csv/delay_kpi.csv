@@ -1,0 +1,9 @@
+strategy,event_type,n_events,mean_delay_days,median_delay_days,max_delay_days,total_delay_days,turbine_avail_pct,note
+S1_NoWeather,FAIL,709,34.01128349788434,5.0,333,24114,55.99635036496351,delay-based downtime estimate (FAIL only)
+S1_NoWeather,PM,92,74.23913043478261,13.5,184,6830,,"queue wait time, NOT downtime — availability N/A"
+S2_WeatherCTV,FAIL,977,8.72876151484135,2.0,156,8528,84.43795620437957,delay-based downtime estimate (FAIL only)
+S2_WeatherCTV,PM,152,57.94078947368421,56.5,145,8807,,"queue wait time, NOT downtime — availability N/A"
+S3_MultiPort,FAIL,927,7.624595469255663,2.0,117,7068,87.1021897810219,delay-based downtime estimate (FAIL only)
+S3_MultiPort,PM,172,35.52325581395349,22.0,118,6110,,"queue wait time, NOT downtime — availability N/A"
+HMDP_CBM,FAIL,353,31.96600566572238,3.0,589,11284,79.40875912408758,delay-based downtime estimate (FAIL only)
+HMDP_CBM,CBM_PM,899,10.022246941045607,6.0,225,9010,,"queue wait time, NOT downtime — availability N/A"

@@ -1,0 +1,1100 @@
+repair_day_idx,turbine_id,component,severity,rf,age_before_wk,age_after_wk,rel_before,rel_after,hazard_before,hazard_after,strategy
+200,1,Service Items,Minor Repair,0.35,75.24,48.91,0.4241,0.7466,0.0285,0.01494,S3_MultiPort
+256,1,Gearbox,Minor Repair,0.35,58.54,38.05,0.6325,0.8555,0.01956,0.01025,S3_MultiPort
+306,1,Safety,Minor Repair,0.35,92.89,60.38,0.234,0.6097,0.0391,0.02049,S3_MultiPort
+380,1,Service Items,Minor Repair,0.35,74.91,48.69,0.4281,0.749,0.02831,0.01484,S3_MultiPort
+468,1,Service Items,Minor Repair,0.35,60.69,39.45,0.6058,0.843,0.02065,0.01082,S3_MultiPort
+489,1,Pitch/Hydraulic System,Minor Repair,0.35,109.86,71.41,0.1097,0.4711,0.05029,0.02635,S3_MultiPort
+537,1,Gearbox,Minor Repair,0.35,78.05,50.73,0.3905,0.726,0.03012,0.01578,S3_MultiPort
+577,1,Tower/Foundation,Major Repair,0.55,127.53,57.39,0.0404,0.6467,0.0629,0.01899,S3_MultiPort
+638,1,Controls,Minor Repair,0.35,105.03,68.27,0.1387,0.5103,0.04701,0.02464,S3_MultiPort
+649,1,Service Items,Minor Repair,0.35,65.45,42.54,0.5459,0.8137,0.02312,0.01212,S3_MultiPort
+739,1,Pumps/Motors,Minor Repair,0.35,118.19,76.82,0.0705,0.4051,0.05611,0.02941,S3_MultiPort
+749,1,Generator,Major Repair,0.55,112.29,50.53,0.0969,0.7283,0.05197,0.01569,S3_MultiPort
+802,1,Controls,Minor Repair,0.35,90.27,58.68,0.2586,0.6308,0.03746,0.01963,S3_MultiPort
+870,1,Pitch/Hydraulic System,Minor Repair,0.35,126.41,82.16,0.0434,0.3433,0.06207,0.03253,S3_MultiPort
+887,1,Hub,Minor Repair,0.35,158.08,102.75,0.0041,0.1542,0.08681,0.04549,S3_MultiPort
+889,1,Contactor/Circuit/Relay,Minor Repair,0.35,152.67,99.23,0.0065,0.1802,0.08238,0.04317,S3_MultiPort
+904,1,Generator,Major Repair,0.55,72.53,32.64,0.4572,0.8991,0.02698,0.00814,S3_MultiPort
+918,1,Transformer,Minor Repair,0.35,176.95,115.02,0.0007,0.0839,0.1028,0.05387,S3_MultiPort
+964,1,Power Supply/Converter,Major Repair,0.55,171.13,77.01,0.0012,0.4029,0.09777,0.02951,S3_MultiPort
+998,1,Pitch/Hydraulic System,Minor Repair,0.35,100.16,65.11,0.1731,0.5502,0.04378,0.02294,S3_MultiPort
+1031,1,Blades,Minor Repair,0.35,167.82,109.08,0.0017,0.1141,0.09494,0.04976,S3_MultiPort
+200,2,Service Items,Minor Repair,0.35,40.84,26.55,0.8301,0.9385,0.0114,0.00597,S3_MultiPort
+336,2,Pitch/Hydraulic System,Minor Repair,0.35,81.42,52.92,0.3517,0.7005,0.03208,0.01681,S3_MultiPort
+342,2,Generator,Major Repair,0.55,78.94,35.53,0.3801,0.8769,0.03063,0.00925,S3_MultiPort
+377,2,Electrical Components,Minor Repair,0.35,62.33,40.52,0.5852,0.8332,0.02149,0.01126,S3_MultiPort
+380,2,Service Items,Minor Repair,0.35,52.55,34.16,0.7049,0.8877,0.01664,0.00872,S3_MultiPort
+437,2,Blades,Minor Repair,0.35,91.44,59.43,0.2474,0.6214,0.03819,0.02001,S3_MultiPort
+462,2,Gearbox,Major Replacement,0.9,85.71,8.57,0.3048,0.9962,0.03466,0.0011,S3_MultiPort
+468,2,Service Items,Minor Repair,0.35,46.16,30.0,0.7766,0.9175,0.0137,0.00718,S3_MultiPort
+530,2,Grease/Oil/Cooling Liquid,Minor Repair,0.35,116.91,75.99,0.0756,0.415,0.05521,0.02893,S3_MultiPort
+601,2,Sensors,Major Repair,0.55,98.32,44.24,0.1874,0.7966,0.04258,0.01285,S3_MultiPort
+621,2,Gearbox,Minor Repair,0.35,31.57,20.52,0.9068,0.9672,0.00775,0.00406,S3_MultiPort
+649,2,Service Items,Minor Repair,0.35,56.0,36.4,0.6637,0.8697,0.0183,0.00959,S3_MultiPort
+756,2,Generator,Minor Repair,0.35,94.53,61.44,0.2192,0.5964,0.04014,0.02103,S3_MultiPort
+849,2,Controls,Minor Repair,0.35,144.48,93.91,0.0125,0.2247,0.07584,0.03975,S3_MultiPort
+889,2,Heaters/Coolers,Minor Repair,0.35,119.19,77.47,0.0666,0.3974,0.05683,0.02978,S3_MultiPort
+935,2,Power Supply/Converter,Minor Repair,0.35,146.76,95.4,0.0105,0.2117,0.07765,0.04069,S3_MultiPort
+1084,2,Generator,Major Repair,0.55,107.44,48.35,0.1237,0.7528,0.04864,0.01468,S3_MultiPort
+92,3,Grease/Oil/Cooling Liquid,Minor Repair,0.35,64.16,41.7,0.5622,0.8219,0.02244,0.01176,S3_MultiPort
+191,3,Pitch/Hydraulic System,Minor Repair,0.35,55.1,35.82,0.6745,0.8745,0.01786,0.00936,S3_MultiPort
+200,3,Service Items,Minor Repair,0.35,82.71,53.76,0.3373,0.6906,0.03285,0.01722,S3_MultiPort
+350,3,Generator,Major Replacement,0.9,77.59,7.76,0.396,0.9971,0.02985,0.00094,S3_MultiPort
+379,3,Service Items,Minor Repair,0.35,78.76,51.19,0.3822,0.7207,0.03053,0.016,S3_MultiPort
+381,3,Service Items,Minor Repair,0.35,51.19,33.28,0.7207,0.8944,0.016,0.00838,S3_MultiPort
+469,3,Service Items,Minor Repair,0.35,45.28,29.43,0.7859,0.9212,0.01331,0.00697,S3_MultiPort
+502,3,Pitch/Hydraulic System,Minor Repair,0.35,79.82,51.88,0.37,0.7127,0.03114,0.01632,S3_MultiPort
+584,3,Grease/Oil/Cooling Liquid,Minor Repair,0.35,110.7,71.96,0.1051,0.4643,0.05087,0.02666,S3_MultiPort
+610,3,Generator,Major Replacement,0.9,44.76,4.48,0.7913,0.9993,0.01308,0.00041,S3_MultiPort
+633,3,Pumps/Motors,Minor Repair,0.35,115.12,74.83,0.0834,0.4291,0.05394,0.02827,S3_MultiPort
+649,3,Service Items,Minor Repair,0.35,55.43,36.03,0.6706,0.8727,0.01802,0.00944,S3_MultiPort
+668,3,Controls,Minor Repair,0.35,149.72,97.31,0.0083,0.1955,0.08,0.04193,S3_MultiPort
+735,3,Safety,Minor Repair,0.35,113.32,73.66,0.0918,0.4433,0.05268,0.02761,S3_MultiPort
+763,3,Gearbox,Minor Repair,0.35,118.84,77.24,0.0679,0.4001,0.05658,0.02965,S3_MultiPort
+860,3,Transformer,Minor Repair,0.35,168.71,109.66,0.0016,0.1108,0.0957,0.05015,S3_MultiPort
+891,3,Grease/Oil/Cooling Liquid,Minor Repair,0.35,108.96,70.82,0.1148,0.4784,0.04967,0.02603,S3_MultiPort
+952,3,Controls,Minor Repair,0.35,137.31,89.25,0.0211,0.2685,0.07027,0.03683,S3_MultiPort
+980,3,Electrical Components,Minor Repair,0.35,146.61,95.29,0.0106,0.2125,0.07753,0.04063,S3_MultiPort
+985,3,Contactor/Circuit/Relay,Minor Repair,0.35,174.92,113.7,0.0009,0.09,0.10104,0.05295,S3_MultiPort
+1049,3,Pitch/Hydraulic System,Minor Repair,0.35,126.88,82.47,0.0421,0.3399,0.06242,0.03271,S3_MultiPort
+1061,3,Controls,Minor Repair,0.35,105.25,68.42,0.1373,0.5085,0.04716,0.02471,S3_MultiPort
+201,4,Service Items,Minor Repair,0.35,62.97,40.93,0.5771,0.8292,0.02182,0.01144,S3_MultiPort
+375,4,Gearbox,Minor Repair,0.35,86.97,56.53,0.2916,0.6572,0.03542,0.01856,S3_MultiPort
+381,4,Service Items,Minor Repair,0.35,66.93,43.51,0.5272,0.804,0.02391,0.01253,S3_MultiPort
+397,4,Gearbox,Major Replacement,0.9,57.53,5.75,0.645,0.9986,0.01906,0.0006,S3_MultiPort
+469,4,Service Items,Minor Repair,0.35,55.51,36.08,0.6697,0.8723,0.01806,0.00946,S3_MultiPort
+500,4,Grease/Oil/Cooling Liquid,Minor Repair,0.35,107.8,70.07,0.1215,0.4877,0.04888,0.02562,S3_MultiPort
+622,4,Pitch/Hydraulic System,Major Repair,0.55,109.8,49.41,0.1101,0.741,0.05024,0.01517,S3_MultiPort
+634,4,Heaters/Coolers,Minor Repair,0.35,119.18,77.47,0.0666,0.3974,0.05683,0.02978,S3_MultiPort
+649,4,Service Items,Minor Repair,0.35,62.08,40.35,0.5883,0.8347,0.02136,0.01119,S3_MultiPort
+666,4,Power Supply/Converter,Minor Repair,0.35,118.94,77.31,0.0675,0.3993,0.05665,0.02969,S3_MultiPort
+669,4,Controls,Minor Repair,0.35,106.68,69.34,0.1283,0.4968,0.04812,0.02522,S3_MultiPort
+714,4,Generator,Minor Repair,0.35,133.76,86.95,0.0269,0.2919,0.06756,0.03541,S3_MultiPort
+719,4,Contactor/Circuit/Relay,Minor Repair,0.35,145.94,94.86,0.0112,0.2163,0.077,0.04035,S3_MultiPort
+753,4,Gearbox,Major Replacement,0.9,56.75,5.68,0.6545,0.9987,0.01867,0.00059,S3_MultiPort
+788,4,Pitch/Hydraulic System,Minor Repair,0.35,70.41,45.77,0.4835,0.7807,0.0258,0.01352,S3_MultiPort
+869,4,Sensors,Minor Repair,0.35,152.43,99.08,0.0067,0.1814,0.08219,0.04307,S3_MultiPort
+881,4,Contactor/Circuit/Relay,Minor Repair,0.35,117.86,76.61,0.0718,0.4076,0.05588,0.02928,S3_MultiPort
+891,4,Heaters/Coolers,Minor Repair,0.35,98.47,64.01,0.1862,0.5641,0.04267,0.02236,S3_MultiPort
+941,4,Yaw System,Minor Repair,0.35,141.32,91.86,0.0158,0.2435,0.07337,0.03845,S3_MultiPort
+1057,4,Pitch/Hydraulic System,Minor Repair,0.35,83.77,54.45,0.3257,0.6824,0.03348,0.01755,S3_MultiPort
+1063,4,Generator,Major Repair,0.55,136.95,61.63,0.0216,0.594,0.06999,0.02113,S3_MultiPort
+1073,4,Yaw System,Minor Repair,0.35,106.86,69.46,0.1272,0.4954,0.04824,0.02528,S3_MultiPort
+60,5,Pitch/Hydraulic System,Minor Repair,0.35,40.31,26.2,0.835,0.9404,0.01118,0.00586,S3_MultiPort
+201,5,Service Items,Minor Repair,0.35,59.1,38.41,0.6256,0.8523,0.01984,0.0104,S3_MultiPort
+364,5,Blades,Minor Repair,0.35,60.4,39.26,0.6094,0.8448,0.0205,0.01074,S3_MultiPort
+367,5,Gearbox,Minor Repair,0.35,82.04,53.33,0.3447,0.6957,0.03245,0.01701,S3_MultiPort
+377,5,Grease/Oil/Cooling Liquid,Minor Repair,0.35,77.46,50.35,0.3976,0.7304,0.02977,0.0156,S3_MultiPort
+381,5,Service Items,Minor Repair,0.35,64.41,41.87,0.5589,0.8202,0.02258,0.01183,S3_MultiPort
+453,5,Pumps/Motors,Minor Repair,0.35,87.4,56.81,0.2872,0.6538,0.03569,0.0187,S3_MultiPort
+456,5,Safety,Minor Repair,0.35,109.44,71.13,0.1121,0.4745,0.05,0.0262,S3_MultiPort
+469,5,Service Items,Minor Repair,0.35,53.87,35.01,0.6893,0.881,0.01727,0.00905,S3_MultiPort
+492,5,Blades,Minor Repair,0.35,58.26,37.87,0.636,0.8571,0.01942,0.01018,S3_MultiPort
+550,5,Generator,Minor Repair,0.35,94.89,61.68,0.2161,0.5934,0.04037,0.02115,S3_MultiPort
+600,5,Controls,Minor Repair,0.35,116.16,75.5,0.0788,0.4209,0.05468,0.02865,S3_MultiPort
+639,5,Service Items,Minor Repair,0.35,59.01,38.36,0.6266,0.8528,0.0198,0.01038,S3_MultiPort
+650,5,Service Items,Minor Repair,0.35,39.36,25.58,0.8438,0.9438,0.01078,0.00565,S3_MultiPort
+656,5,Pitch/Hydraulic System,Major Repair,0.55,111.2,50.04,0.1025,0.7338,0.05122,0.01546,S3_MultiPort
+757,5,Sensors,Minor Repair,0.35,155.1,100.82,0.0053,0.1682,0.08436,0.04421,S3_MultiPort
+774,5,Generator,Minor Repair,0.35,93.68,60.89,0.2268,0.6033,0.0396,0.02075,S3_MultiPort
+787,5,Gearbox,Minor Repair,0.35,113.33,73.66,0.0918,0.4433,0.05269,0.02761,S3_MultiPort
+864,5,Pitch/Hydraulic System,Minor Repair,0.35,80.04,52.03,0.3674,0.711,0.03127,0.01639,S3_MultiPort
+866,5,Heaters/Coolers,Minor Repair,0.35,167.34,108.77,0.0018,0.1158,0.09454,0.04954,S3_MultiPort
+881,5,Grease/Oil/Cooling Liquid,Minor Repair,0.35,119.35,77.58,0.066,0.3962,0.05694,0.02984,S3_MultiPort
+920,5,Hub,Minor Repair,0.35,184.9,120.18,0.0003,0.0629,0.1098,0.05754,S3_MultiPort
+946,5,Yaw System,Minor Repair,0.35,160.83,104.54,0.0032,0.142,0.08908,0.04668,S3_MultiPort
+992,5,Hub,Minor Repair,0.35,130.18,84.62,0.0341,0.3164,0.06487,0.034,S3_MultiPort
+999,5,Electrical Components,Minor Repair,0.35,196.45,127.69,0.0001,0.04,0.12025,0.06302,S3_MultiPort
+155,6,Electrical Components,Minor Repair,0.35,36.31,23.6,0.8704,0.9538,0.00956,0.00501,S3_MultiPort
+201,6,Service Items,Minor Repair,0.35,37.05,24.08,0.8642,0.9515,0.00985,0.00516,S3_MultiPort
+252,6,Electrical Components,Minor Repair,0.35,36.6,23.79,0.868,0.9529,0.00967,0.00507,S3_MultiPort
+280,6,Pitch/Hydraulic System,Minor Repair,0.35,52.52,34.14,0.7053,0.8879,0.01662,0.00871,S3_MultiPort
+374,6,Heaters/Coolers,Minor Repair,0.35,90.77,59.0,0.2538,0.6268,0.03777,0.01979,S3_MultiPort
+382,6,Service Items,Minor Repair,0.35,50.08,32.55,0.7334,0.8998,0.01548,0.00811,S3_MultiPort
+421,6,Blades,Minor Repair,0.35,81.14,52.74,0.3549,0.7026,0.03192,0.01673,S3_MultiPort
+470,6,Service Items,Minor Repair,0.35,45.55,29.61,0.783,0.92,0.01343,0.00704,S3_MultiPort
+472,6,Blades,Minor Repair,0.35,59.74,38.83,0.6176,0.8486,0.02017,0.01057,S3_MultiPort
+494,6,Hub,Minor Repair,0.35,94.91,61.69,0.2159,0.5932,0.04038,0.02116,S3_MultiPort
+532,6,Contactor/Circuit/Relay,Minor Repair,0.35,117.85,76.6,0.0718,0.4077,0.05587,0.02928,S3_MultiPort
+581,6,Pumps/Motors,Minor Repair,0.35,99.82,64.88,0.1757,0.553,0.04356,0.02283,S3_MultiPort
+584,6,Grease/Oil/Cooling Liquid,Minor Repair,0.35,109.59,71.24,0.1112,0.4732,0.05011,0.02626,S3_MultiPort
+638,6,Grease/Oil/Cooling Liquid,Minor Repair,0.35,74.24,48.25,0.4363,0.7539,0.02793,0.01464,S3_MultiPort
+650,6,Service Items,Minor Repair,0.35,54.61,35.5,0.6804,0.8771,0.01763,0.00924,S3_MultiPort
+685,6,Contactor/Circuit/Relay,Minor Repair,0.35,97.6,63.44,0.1932,0.5712,0.04211,0.02207,S3_MultiPort
+766,6,Pitch/Hydraulic System,Minor Repair,0.35,104.14,67.69,0.1447,0.5176,0.04641,0.02432,S3_MultiPort
+780,6,Gearbox,Major Replacement,0.9,146.51,14.65,0.0107,0.9857,0.07745,0.00245,S3_MultiPort
+788,6,Hub,Minor Repair,0.35,103.69,67.4,0.1477,0.5213,0.04611,0.02417,S3_MultiPort
+790,6,Controls,Minor Repair,0.35,157.47,102.36,0.0044,0.157,0.0863,0.04523,S3_MultiPort
+893,6,Safety,Minor Repair,0.35,146.33,95.11,0.0108,0.2141,0.0773,0.04051,S3_MultiPort
+936,6,Pitch/Hydraulic System,Minor Repair,0.35,86.69,56.35,0.2945,0.6594,0.03525,0.01847,S3_MultiPort
+963,6,Blades,Minor Repair,0.35,107.83,70.09,0.1213,0.4875,0.0489,0.02563,S3_MultiPort
+1009,6,Gearbox,Major Replacement,0.9,46.65,4.67,0.7713,0.9992,0.01392,0.00044,S3_MultiPort
+1048,6,Generator,Minor Repair,0.35,156.83,101.94,0.0046,0.16,0.08577,0.04495,S3_MultiPort
+70,7,Contactor/Circuit/Relay,Major Replacement,0.9,60.32,6.03,0.6104,0.9984,0.02046,0.00065,S3_MultiPort
+202,7,Service Items,Minor Repair,0.35,81.78,53.15,0.3477,0.6978,0.0323,0.01692,S3_MultiPort
+252,7,Pitch/Hydraulic System,Minor Repair,0.35,85.94,55.86,0.3024,0.6654,0.03479,0.01823,S3_MultiPort
+373,7,Pitch/Hydraulic System,Minor Repair,0.35,73.86,48.01,0.4409,0.7565,0.02772,0.01453,S3_MultiPort
+382,7,Service Items,Minor Repair,0.35,79.15,51.45,0.3776,0.7177,0.03076,0.01612,S3_MultiPort
+463,7,Pumps/Motors,Minor Repair,0.35,82.69,53.75,0.3375,0.6907,0.03284,0.01721,S3_MultiPort
+471,7,Service Items,Minor Repair,0.35,64.45,41.89,0.5585,0.82,0.0226,0.01184,S3_MultiPort
+552,7,Power Supply/Converter,Minor Repair,0.35,118.81,77.23,0.068,0.4003,0.05656,0.02964,S3_MultiPort
+596,7,Sensors,Minor Repair,0.35,122.72,79.77,0.0542,0.3706,0.05937,0.03111,S3_MultiPort
+628,7,Yaw System,Minor Repair,0.35,126.29,82.09,0.0437,0.3442,0.06198,0.03248,S3_MultiPort
+631,7,Contactor/Circuit/Relay,Major Repair,0.55,86.03,38.71,0.3014,0.8497,0.03485,0.01052,S3_MultiPort
+639,7,Safety,Minor Repair,0.35,144.62,94.0,0.0124,0.2239,0.07596,0.03981,S3_MultiPort
+698,7,Service Items,Minor Repair,0.35,73.89,48.03,0.4405,0.7563,0.02774,0.01454,S3_MultiPort
+726,7,Blades,Minor Repair,0.35,136.3,88.59,0.0226,0.2751,0.0695,0.03642,S3_MultiPort
+885,7,Yaw System,Major Repair,0.55,118.09,53.14,0.0708,0.698,0.05604,0.01692,S3_MultiPort
+907,7,Gearbox,Minor Repair,0.35,140.63,91.41,0.0166,0.2477,0.07283,0.03817,S3_MultiPort
+913,7,Gearbox,Major Replacement,0.9,92.41,9.24,0.2384,0.9955,0.03879,0.00123,S3_MultiPort
+1046,7,Pitch/Hydraulic System,Major Repair,0.55,138.01,62.1,0.0201,0.588,0.07081,0.02137,S3_MultiPort
+156,8,Contactor/Circuit/Relay,Minor Repair,0.35,44.69,29.05,0.792,0.9236,0.01305,0.00684,S3_MultiPort
+191,8,Safety,Minor Repair,0.35,48.68,31.64,0.7491,0.9063,0.01483,0.00777,S3_MultiPort
+202,8,Service Items,Minor Repair,0.35,64.89,42.18,0.5529,0.8172,0.02283,0.01196,S3_MultiPort
+277,8,Electrical Components,Minor Repair,0.35,52.43,34.08,0.7063,0.8883,0.01658,0.00869,S3_MultiPort
+301,8,Generator,Major Repair,0.55,73.69,33.16,0.4429,0.8953,0.02763,0.00834,S3_MultiPort
+364,8,Blades,Minor Repair,0.35,74.07,48.15,0.4383,0.755,0.02784,0.01459,S3_MultiPort
+382,8,Service Items,Minor Repair,0.35,68.18,44.32,0.5114,0.7958,0.02459,0.01288,S3_MultiPort
+422,8,Hub,Minor Repair,0.35,104.34,67.82,0.1433,0.516,0.04655,0.02439,S3_MultiPort
+452,8,Generator,Minor Repair,0.35,55.16,35.85,0.6738,0.8742,0.01789,0.00938,S3_MultiPort
+473,8,Service Items,Minor Repair,0.35,57.32,37.26,0.6476,0.8624,0.01895,0.00993,S3_MultiPort
+539,8,Pitch/Hydraulic System,Minor Repair,0.35,90.97,59.13,0.2518,0.6252,0.0379,0.01986,S3_MultiPort
+589,8,Electrical Components,Minor Repair,0.35,78.08,50.75,0.3902,0.7258,0.03013,0.01579,S3_MultiPort
+635,8,Grease/Oil/Cooling Liquid,Minor Repair,0.35,94.04,61.13,0.2235,0.6003,0.03983,0.02087,S3_MultiPort
+644,8,Generator,Minor Repair,0.35,62.85,40.86,0.5786,0.83,0.02176,0.0114,S3_MultiPort
+683,8,Pumps/Motors,Minor Repair,0.35,124.37,80.84,0.0491,0.3582,0.06058,0.03174,S3_MultiPort
+696,8,Safety,Minor Repair,0.35,97.64,63.47,0.1929,0.5709,0.04214,0.02208,S3_MultiPort
+698,8,Service Items,Minor Repair,0.35,69.26,45.02,0.4979,0.7886,0.02517,0.01319,S3_MultiPort
+708,8,Hub,Minor Repair,0.35,107.82,70.08,0.1214,0.4876,0.0489,0.02562,S3_MultiPort
+715,8,Pitch/Hydraulic System,Minor Repair,0.35,82.13,53.39,0.3437,0.695,0.03251,0.01704,S3_MultiPort
+749,8,Tower/Foundation,Major Repair,0.55,127.38,57.32,0.0408,0.6475,0.06279,0.01895,S3_MultiPort
+860,8,Controls,Minor Repair,0.35,162.71,105.76,0.0027,0.134,0.09065,0.0475,S3_MultiPort
+877,8,Contactor/Circuit/Relay,Minor Repair,0.35,132.05,85.83,0.0302,0.3035,0.06627,0.03473,S3_MultiPort
+962,8,Gearbox,Minor Repair,0.35,148.06,96.24,0.0095,0.2045,0.07868,0.04123,S3_MultiPort
+1067,8,Yaw System,Minor Repair,0.35,166.55,108.26,0.0019,0.1188,0.09387,0.04919,S3_MultiPort
+1085,8,Generator,Major Repair,0.55,102.86,46.28,0.1535,0.7752,0.04556,0.01375,S3_MultiPort
+202,9,Service Items,Minor Repair,0.35,40.34,26.22,0.8348,0.9404,0.01119,0.00586,S3_MultiPort
+225,9,Blades,Major Repair,0.55,80.01,36.0,0.3678,0.873,0.03125,0.00943,S3_MultiPort
+240,9,Pitch/Hydraulic System,Minor Repair,0.35,52.03,33.82,0.7109,0.8903,0.01639,0.00859,S3_MultiPort
+267,9,Pitch/Hydraulic System,Minor Repair,0.35,37.82,24.58,0.8575,0.949,0.01016,0.00532,S3_MultiPort
+285,9,Sensors,Major Repair,0.55,77.88,35.05,0.3925,0.8807,0.03002,0.00906,S3_MultiPort
+382,9,Service Items,Minor Repair,0.35,52.22,33.94,0.7088,0.8894,0.01648,0.00864,S3_MultiPort
+403,9,Grease/Oil/Cooling Liquid,Minor Repair,0.35,108.97,70.83,0.1147,0.4783,0.04968,0.02603,S3_MultiPort
+420,9,Generator,Major Repair,0.55,114.72,51.63,0.0852,0.7157,0.05367,0.0162,S3_MultiPort
+473,9,Service Items,Minor Repair,0.35,46.94,30.51,0.7682,0.9141,0.01405,0.00736,S3_MultiPort
+562,9,Generator,Major Repair,0.55,71.63,32.23,0.4684,0.9021,0.02647,0.00799,S3_MultiPort
+627,9,Pitch/Hydraulic System,Minor Repair,0.35,72.58,47.18,0.4565,0.7656,0.02701,0.01415,S3_MultiPort
+681,9,Electrical Components,Minor Repair,0.35,140.82,91.53,0.0164,0.2465,0.07298,0.03825,S3_MultiPort
+698,9,Service Items,Minor Repair,0.35,62.51,40.63,0.5829,0.8321,0.02159,0.01131,S3_MultiPort
+841,9,Generator,Major Repair,0.55,71.23,32.05,0.4733,0.9034,0.02626,0.00793,S3_MultiPort
+842,9,Gearbox,Minor Repair,0.35,145.9,94.84,0.0112,0.2165,0.07697,0.04034,S3_MultiPort
+861,9,Pumps/Motors,Minor Repair,0.35,121.11,78.72,0.0596,0.3827,0.05821,0.0305,S3_MultiPort
+918,9,Power Supply/Converter,Minor Repair,0.35,144.18,93.72,0.0128,0.2264,0.07561,0.03962,S3_MultiPort
+935,9,Pitch/Hydraulic System,Minor Repair,0.35,89.18,57.97,0.2693,0.6396,0.03678,0.01927,S3_MultiPort
+1022,9,Gearbox,Major Replacement,0.9,118.84,11.88,0.0679,0.9915,0.05658,0.00179,S3_MultiPort
+1053,9,Blades,Minor Repair,0.35,154.0,100.1,0.0058,0.1735,0.08347,0.04374,S3_MultiPort
+202,10,Service Items,Minor Repair,0.35,42.0,27.3,0.819,0.9342,0.01189,0.00623,S3_MultiPort
+251,10,Pitch/Hydraulic System,Minor Repair,0.35,49.91,32.44,0.7353,0.9006,0.0154,0.00807,S3_MultiPort
+282,10,Tower/Foundation,Minor Repair,0.35,50.68,32.94,0.7265,0.8969,0.01576,0.00826,S3_MultiPort
+309,10,Gearbox,Minor Repair,0.35,59.51,38.68,0.6205,0.85,0.02005,0.01051,S3_MultiPort
+404,10,Service Items,Minor Repair,0.35,56.3,36.59,0.66,0.868,0.01845,0.00967,S3_MultiPort
+473,10,Service Items,Minor Repair,0.35,46.59,30.29,0.7719,0.9156,0.01389,0.00728,S3_MultiPort
+599,10,Controls,Minor Repair,0.35,105.22,68.4,0.1375,0.5087,0.04714,0.0247,S3_MultiPort
+619,10,Hub,Major Repair,0.55,99.21,44.64,0.1804,0.7924,0.04315,0.01303,S3_MultiPort
+639,10,Safety,Minor Repair,0.35,140.32,91.21,0.017,0.2496,0.07259,0.03804,S3_MultiPort
+678,10,Controls,Major Repair,0.55,79.4,35.73,0.3748,0.8752,0.0309,0.00933,S3_MultiPort
+695,10,Sensors,Minor Repair,0.35,102.11,66.37,0.1588,0.5343,0.04506,0.02361,S3_MultiPort
+704,10,Generator,Minor Repair,0.35,120.52,78.34,0.0617,0.3872,0.05779,0.03028,S3_MultiPort
+716,10,Electrical Components,Minor Repair,0.35,154.13,100.18,0.0058,0.1729,0.08357,0.04379,S3_MultiPort
+735,10,Service Items,Minor Repair,0.35,67.29,43.74,0.5227,0.8017,0.02411,0.01263,S3_MultiPort
+744,10,Safety,Minor Repair,0.35,105.21,68.38,0.1376,0.5089,0.04713,0.0247,S3_MultiPort
+766,10,Pumps/Motors,Minor Repair,0.35,154.83,100.64,0.0055,0.1695,0.08414,0.04409,S3_MultiPort
+767,10,Contactor/Circuit/Relay,Minor Repair,0.35,157.52,102.39,0.0043,0.1567,0.08634,0.04525,S3_MultiPort
+857,10,Heaters/Coolers,Major Repair,0.55,162.2,72.99,0.0029,0.4515,0.09022,0.02724,S3_MultiPort
+890,10,Electrical Components,Minor Repair,0.35,125.18,81.37,0.0468,0.3523,0.06117,0.03206,S3_MultiPort
+933,10,Hub,Major Repair,0.55,89.64,40.34,0.2647,0.8348,0.03707,0.01119,S3_MultiPort
+968,10,Contactor/Circuit/Relay,Major Repair,0.55,125.39,56.43,0.0462,0.6585,0.06132,0.01851,S3_MultiPort
+973,10,Sensors,Major Repair,0.55,99.37,44.72,0.1792,0.7917,0.04326,0.01306,S3_MultiPort
+1012,10,Blades,Minor Repair,0.35,196.1,127.47,0.0001,0.0406,0.11993,0.06285,S3_MultiPort
+182,11,Generator,Major Repair,0.55,76.3,34.34,0.4113,0.8863,0.02911,0.00879,S3_MultiPort
+202,11,Service Items,Minor Repair,0.35,83.03,53.97,0.3338,0.6881,0.03304,0.01731,S3_MultiPort
+370,11,Pumps/Motors,Minor Repair,0.35,73.3,47.64,0.4478,0.7606,0.02741,0.01436,S3_MultiPort
+404,11,Service Items,Minor Repair,0.35,82.97,53.93,0.3344,0.6886,0.033,0.0173,S3_MultiPort
+470,11,Power Supply/Converter,Minor Repair,0.35,109.14,70.94,0.1138,0.4769,0.04979,0.02609,S3_MultiPort
+473,11,Service Items,Minor Repair,0.35,63.93,41.55,0.5651,0.8233,0.02232,0.0117,S3_MultiPort
+514,11,Gearbox,Minor Repair,0.35,104.41,67.87,0.1429,0.5154,0.04659,0.02442,S3_MultiPort
+523,11,Heaters/Coolers,Minor Repair,0.35,87.89,57.13,0.2823,0.6499,0.03598,0.01886,S3_MultiPort
+539,11,Pumps/Motors,Minor Repair,0.35,71.64,46.57,0.4682,0.7722,0.02648,0.01388,S3_MultiPort
+616,11,Generator,Major Replacement,0.9,96.34,9.63,0.2037,0.995,0.04129,0.00131,S3_MultiPort
+711,11,Tower/Foundation,Minor Repair,0.35,107.58,69.93,0.1228,0.4895,0.04873,0.02554,S3_MultiPort
+732,11,Electrical Components,Minor Repair,0.35,156.6,101.79,0.0047,0.161,0.08559,0.04485,S3_MultiPort
+736,11,Service Items,Minor Repair,0.35,79.55,51.71,0.373,0.7147,0.03099,0.01624,S3_MultiPort
+756,11,Controls,Minor Repair,0.35,149.75,97.34,0.0083,0.1954,0.08003,0.04194,S3_MultiPort
+825,11,Blades,Minor Repair,0.35,156.58,101.77,0.0047,0.1611,0.08557,0.04484,S3_MultiPort
+965,11,Pitch/Hydraulic System,Minor Repair,0.35,156.09,101.46,0.0049,0.1634,0.08517,0.04463,S3_MultiPort
+967,11,Pitch/Hydraulic System,Minor Repair,0.35,101.46,65.95,0.1634,0.5396,0.04463,0.02339,S3_MultiPort
+978,11,Gearbox,Major Replacement,0.9,133.87,13.39,0.0267,0.9886,0.06764,0.00214,S3_MultiPort
+1011,11,Hub,Major Repair,0.55,169.03,76.06,0.0015,0.4142,0.09598,0.02897,S3_MultiPort
+1071,11,Blades,Minor Repair,0.35,136.77,88.9,0.0219,0.272,0.06986,0.03661,S3_MultiPort
+194,12,Electrical Components,Minor Repair,0.35,67.62,43.95,0.5185,0.7995,0.02428,0.01273,S3_MultiPort
+204,12,Service Items,Minor Repair,0.35,55.23,35.9,0.6729,0.8738,0.01793,0.0094,S3_MultiPort
+223,12,Pitch/Hydraulic System,Major Repair,0.55,69.05,31.07,0.5005,0.9103,0.02506,0.00756,S3_MultiPort
+404,12,Service Items,Minor Repair,0.35,63.9,41.54,0.5654,0.8235,0.02231,0.01169,S3_MultiPort
+435,12,Gearbox,Minor Repair,0.35,107.68,69.99,0.1222,0.4887,0.0488,0.02557,S3_MultiPort
+436,12,Generator,Minor Repair,0.35,76.11,49.47,0.4136,0.7403,0.029,0.0152,S3_MultiPort
+475,12,Service Items,Minor Repair,0.35,51.54,33.5,0.7167,0.8927,0.01616,0.00847,S3_MultiPort
+479,12,Sensors,Minor Repair,0.35,111.46,72.45,0.1012,0.4582,0.05139,0.02693,S3_MultiPort
+535,12,Sensors,Minor Repair,0.35,80.45,52.29,0.3627,0.7079,0.03151,0.01651,S3_MultiPort
+616,12,Gearbox,Minor Repair,0.35,94.99,61.74,0.2152,0.5926,0.04043,0.02119,S3_MultiPort
+685,12,Contactor/Circuit/Relay,Minor Repair,0.35,146.57,95.27,0.0106,0.2128,0.07749,0.04061,S3_MultiPort
+729,12,Pitch/Hydraulic System,Minor Repair,0.35,103.07,67.0,0.1519,0.5263,0.0457,0.02395,S3_MultiPort
+734,12,Safety,Minor Repair,0.35,134.21,87.24,0.0261,0.2889,0.0679,0.03558,S3_MultiPort
+736,12,Service Items,Minor Repair,0.35,71.5,46.47,0.4699,0.7732,0.0264,0.01384,S3_MultiPort
+742,12,Heaters/Coolers,Minor Repair,0.35,145.02,94.26,0.012,0.2216,0.07627,0.03997,S3_MultiPort
+819,12,Gearbox,Minor Repair,0.35,90.74,58.98,0.254,0.627,0.03775,0.01978,S3_MultiPort
+826,12,Blades,Minor Repair,0.35,128.43,83.48,0.0382,0.3288,0.06356,0.03331,S3_MultiPort
+854,12,Generator,Minor Repair,0.35,108.47,70.51,0.1176,0.4823,0.04934,0.02586,S3_MultiPort
+878,12,Grease/Oil/Cooling Liquid,Minor Repair,0.35,162.43,105.58,0.0028,0.1352,0.09041,0.04738,S3_MultiPort
+880,12,Controls,Minor Repair,0.35,153.33,99.67,0.0062,0.1769,0.08292,0.04345,S3_MultiPort
+884,12,Pitch/Hydraulic System,Major Repair,0.55,88.0,39.6,0.2811,0.8417,0.03605,0.01088,S3_MultiPort
+981,12,Pumps/Motors,Minor Repair,0.35,191.19,124.27,0.0001,0.0494,0.11545,0.0605,S3_MultiPort
+1012,12,Generator,Minor Repair,0.35,93.51,60.78,0.2283,0.6046,0.03949,0.02069,S3_MultiPort
+1047,12,Power Supply/Converter,Minor Repair,0.35,197.95,128.67,0.0001,0.0376,0.12164,0.06374,S3_MultiPort
+1058,12,Pitch/Hydraulic System,Minor Repair,0.35,58.6,38.09,0.6318,0.8552,0.01959,0.01027,S3_MultiPort
+1087,12,Generator,Major Repair,0.55,70.78,31.85,0.4789,0.9048,0.02601,0.00785,S3_MultiPort
+35,13,Contactor/Circuit/Relay,Minor Repair,0.35,54.58,35.48,0.6808,0.8773,0.01761,0.00923,S3_MultiPort
+79,13,Hub,Minor Repair,0.35,51.09,33.21,0.7219,0.8949,0.01595,0.00836,S3_MultiPort
+204,13,Service Items,Minor Repair,0.35,64.63,42.01,0.5562,0.8189,0.02269,0.01189,S3_MultiPort
+231,13,Contactor/Circuit/Relay,Minor Repair,0.35,63.48,41.26,0.5708,0.8261,0.02209,0.01157,S3_MultiPort
+296,13,Generator,Major Repair,0.55,70.11,31.55,0.4873,0.907,0.02564,0.00774,S3_MultiPort
+297,13,Pitch/Hydraulic System,Minor Repair,0.35,89.62,58.25,0.265,0.6361,0.03705,0.01942,S3_MultiPort
+362,13,Gearbox,Minor Repair,0.35,85.62,55.65,0.3057,0.6679,0.0346,0.01813,S3_MultiPort
+406,13,Service Items,Minor Repair,0.35,70.01,45.51,0.4885,0.7835,0.02558,0.01341,S3_MultiPort
+475,13,Service Items,Minor Repair,0.35,55.51,36.08,0.6697,0.8723,0.01806,0.00946,S3_MultiPort
+498,13,Pitch/Hydraulic System,Minor Repair,0.35,86.25,56.06,0.2991,0.6629,0.03498,0.01833,S3_MultiPort
+598,13,Generator,Minor Repair,0.35,74.55,48.46,0.4325,0.7516,0.02811,0.01473,S3_MultiPort
+689,13,Power Supply/Converter,Minor Repair,0.35,149.71,97.31,0.0083,0.1956,0.08,0.04192,S3_MultiPort
+715,13,Pitch/Hydraulic System,Minor Repair,0.35,86.06,55.94,0.3011,0.6644,0.03487,0.01827,S3_MultiPort
+736,13,Service Items,Minor Repair,0.35,74.08,48.15,0.4382,0.755,0.02785,0.01459,S3_MultiPort
+785,13,Generator,Minor Repair,0.35,74.46,48.4,0.4336,0.7523,0.02806,0.0147,S3_MultiPort
+820,13,Blades,Minor Repair,0.35,133.94,87.06,0.0266,0.2907,0.0677,0.03548,S3_MultiPort
+851,13,Yaw System,Minor Repair,0.35,175.94,114.36,0.0008,0.0869,0.10192,0.05341,S3_MultiPort
+947,13,Gearbox,Minor Repair,0.35,139.65,90.78,0.0178,0.2537,0.07208,0.03777,S3_MultiPort
+1066,13,Pitch/Hydraulic System,Minor Repair,0.35,105.94,68.86,0.1329,0.5029,0.04762,0.02496,S3_MultiPort
+1072,13,Controls,Minor Repair,0.35,164.4,106.86,0.0023,0.1272,0.09206,0.04824,S3_MultiPort
+1074,13,Electrical Components,Minor Repair,0.35,155.09,100.81,0.0053,0.1682,0.08435,0.0442,S3_MultiPort
+46,14,Sensors,Minor Repair,0.35,51.69,33.6,0.7149,0.892,0.01623,0.00851,S3_MultiPort
+190,14,Pitch/Hydraulic System,Minor Repair,0.35,74.6,48.49,0.4319,0.7513,0.02814,0.01475,S3_MultiPort
+204,14,Service Items,Minor Repair,0.35,35.59,23.13,0.8763,0.956,0.00927,0.00486,S3_MultiPort
+243,14,Pitch/Hydraulic System,Minor Repair,0.35,55.49,36.07,0.6699,0.8724,0.01805,0.00946,S3_MultiPort
+268,14,Yaw System,Minor Repair,0.35,79.12,51.43,0.3781,0.718,0.03074,0.01611,S3_MultiPort
+406,14,Service Items,Minor Repair,0.35,51.13,33.24,0.7214,0.8947,0.01597,0.00837,S3_MultiPort
+411,14,Gearbox,Minor Repair,0.35,113.43,73.73,0.0913,0.4424,0.05276,0.02765,S3_MultiPort
+479,14,Service Items,Minor Repair,0.35,44.24,28.75,0.7966,0.9255,0.01285,0.00673,S3_MultiPort
+498,14,Generator,Minor Repair,0.35,97.5,63.37,0.194,0.572,0.04205,0.02203,S3_MultiPort
+618,14,Blades,Minor Repair,0.35,106.15,69.0,0.1316,0.5012,0.04776,0.02503,S3_MultiPort
+666,14,Generator,Minor Repair,0.35,86.37,56.14,0.2978,0.6619,0.03506,0.01837,S3_MultiPort
+668,14,Controls,Minor Repair,0.35,128.99,83.85,0.0368,0.3248,0.06398,0.03353,S3_MultiPort
+695,14,Hub,Minor Repair,0.35,114.79,74.61,0.0849,0.4317,0.05371,0.02815,S3_MultiPort
+705,14,Blades,Minor Repair,0.35,81.0,52.65,0.3565,0.7037,0.03184,0.01668,S3_MultiPort
+742,14,Sensors,Minor Repair,0.35,132.6,86.19,0.0291,0.2998,0.06668,0.03495,S3_MultiPort
+743,14,Yaw System,Minor Repair,0.35,119.43,77.63,0.0657,0.3955,0.057,0.02987,S3_MultiPort
+744,14,Safety,Minor Repair,0.35,129.97,84.48,0.0346,0.3179,0.06471,0.03391,S3_MultiPort
+744,14,Service Items,Minor Repair,0.35,66.75,43.39,0.5294,0.8052,0.02382,0.01248,S3_MultiPort
+761,14,Gearbox,Major Repair,0.55,123.73,55.68,0.051,0.6676,0.06011,0.01815,S3_MultiPort
+764,14,Pitch/Hydraulic System,Minor Repair,0.35,110.07,71.54,0.1086,0.4694,0.05043,0.02643,S3_MultiPort
+798,14,Pitch/Hydraulic System,Minor Repair,0.35,75.54,49.1,0.4204,0.7444,0.02868,0.01503,S3_MultiPort
+861,14,Controls,Minor Repair,0.35,110.85,72.05,0.1044,0.4631,0.05097,0.02671,S3_MultiPort
+872,14,Heaters/Coolers,Minor Repair,0.35,145.93,94.86,0.0112,0.2164,0.07699,0.04035,S3_MultiPort
+981,14,Pumps/Motors,Minor Repair,0.35,168.12,109.28,0.0017,0.1129,0.0952,0.04989,S3_MultiPort
+1057,14,Pitch/Hydraulic System,Minor Repair,0.35,85.1,55.32,0.3112,0.6719,0.03429,0.01797,S3_MultiPort
+140,15,Generator,Minor Repair,0.35,40.08,26.05,0.8372,0.9413,0.01108,0.00581,S3_MultiPort
+205,15,Service Items,Minor Repair,0.35,50.67,32.94,0.7267,0.8969,0.01575,0.00826,S3_MultiPort
+257,15,Pitch/Hydraulic System,Minor Repair,0.35,69.5,45.18,0.4948,0.7869,0.02531,0.01326,S3_MultiPort
+401,15,Hub,Minor Repair,0.35,80.31,52.2,0.3643,0.709,0.03143,0.01647,S3_MultiPort
+406,15,Service Items,Minor Repair,0.35,60.94,39.61,0.6027,0.8416,0.02077,0.01089,S3_MultiPort
+440,15,Contactor/Circuit/Relay,Minor Repair,0.35,87.18,56.66,0.2895,0.6556,0.03555,0.01863,S3_MultiPort
+442,15,Gearbox,Minor Repair,0.35,117.9,76.64,0.0716,0.4073,0.05591,0.0293,S3_MultiPort
+479,15,Service Items,Minor Repair,0.35,50.61,32.9,0.7274,0.8972,0.01572,0.00824,S3_MultiPort
+668,15,Pitch/Hydraulic System,Minor Repair,0.35,104.18,67.72,0.1444,0.5173,0.04644,0.02434,S3_MultiPort
+680,15,Pitch/Hydraulic System,Minor Repair,0.35,68.72,44.67,0.5047,0.7922,0.02488,0.01304,S3_MultiPort
+700,15,Generator,Major Repair,0.55,106.05,47.72,0.1322,0.7597,0.0477,0.0144,S3_MultiPort
+707,15,Tower/Foundation,Major Repair,0.55,132.44,59.6,0.0294,0.6194,0.06657,0.02009,S3_MultiPort
+719,15,Pumps/Motors,Minor Repair,0.35,146.4,95.16,0.0108,0.2137,0.07737,0.04054,S3_MultiPort
+744,15,Service Items,Minor Repair,0.35,70.9,46.08,0.4774,0.7774,0.02607,0.01366,S3_MultiPort
+798,15,Controls,Major Repair,0.55,168.66,75.9,0.0016,0.4161,0.09566,0.02888,S3_MultiPort
+800,15,Generator,Major Repair,0.55,62.72,28.23,0.5802,0.9287,0.02169,0.00655,S3_MultiPort
+853,15,Electrical Components,Minor Repair,0.35,151.56,98.51,0.0072,0.1859,0.08148,0.0427,S3_MultiPort
+865,15,Contactor/Circuit/Relay,Minor Repair,0.35,110.66,71.93,0.1053,0.4646,0.05084,0.02664,S3_MultiPort
+876,15,Yaw System,Minor Repair,0.35,177.04,115.08,0.0007,0.0836,0.10288,0.05392,S3_MultiPort
+889,15,Pumps/Motors,Minor Repair,0.35,119.16,77.46,0.0667,0.3976,0.05681,0.02977,S3_MultiPort
+929,15,Hub,Major Repair,0.55,127.2,57.24,0.0413,0.6485,0.06266,0.01891,S3_MultiPort
+983,15,Gearbox,Minor Repair,0.35,153.64,99.86,0.006,0.1754,0.08317,0.04358,S3_MultiPort
+993,15,Blades,Minor Repair,0.35,163.42,106.22,0.0026,0.1311,0.09124,0.04781,S3_MultiPort
+2,16,Contactor/Circuit/Relay,Major Repair,0.55,41.47,18.66,0.8241,0.9741,0.01166,0.00352,S3_MultiPort
+205,16,Service Items,Minor Repair,0.35,71.24,46.31,0.4732,0.775,0.02626,0.01376,S3_MultiPort
+212,16,Heaters/Coolers,Minor Repair,0.35,76.99,50.04,0.4031,0.7338,0.0295,0.01546,S3_MultiPort
+250,16,Pitch/Hydraulic System,Minor Repair,0.35,55.78,36.26,0.6663,0.8708,0.0182,0.00954,S3_MultiPort
+307,16,Pitch/Hydraulic System,Minor Repair,0.35,44.26,28.77,0.7964,0.9254,0.01286,0.00674,S3_MultiPort
+407,16,Service Items,Minor Repair,0.35,75.31,48.95,0.4233,0.7461,0.02854,0.01496,S3_MultiPort
+427,16,Contactor/Circuit/Relay,Minor Repair,0.35,77.66,50.48,0.3951,0.7289,0.02989,0.01566,S3_MultiPort
+438,16,Hub,Minor Repair,0.35,77.68,50.49,0.3949,0.7287,0.0299,0.01567,S3_MultiPort
+480,16,Service Items,Minor Repair,0.35,58.95,38.32,0.6275,0.8532,0.01977,0.01036,S3_MultiPort
+547,16,Generator,Major Repair,0.55,124.93,56.22,0.0475,0.661,0.06099,0.01841,S3_MultiPort
+626,16,Pitch/Hydraulic System,Minor Repair,0.35,73.77,47.95,0.442,0.7572,0.02767,0.0145,S3_MultiPort
+647,16,Contactor/Circuit/Relay,Minor Repair,0.35,82.48,53.61,0.3398,0.6924,0.03271,0.01714,S3_MultiPort
+746,16,Service Items,Minor Repair,0.35,76.32,49.61,0.4111,0.7388,0.02912,0.01526,S3_MultiPort
+757,16,Yaw System,Minor Repair,0.35,162.47,105.6,0.0028,0.1351,0.09044,0.0474,S3_MultiPort
+819,16,Generator,Minor Repair,0.35,93.22,60.59,0.2309,0.607,0.03931,0.0206,S3_MultiPort
+881,16,Power Supply/Converter,Minor Repair,0.35,172.7,112.25,0.0011,0.0971,0.09912,0.05194,S3_MultiPort
+882,16,Blades,Minor Repair,0.35,134.06,87.14,0.0264,0.2899,0.06779,0.03552,S3_MultiPort
+911,16,Gearbox,Major Replacement,0.9,157.53,15.75,0.0043,0.9829,0.08635,0.00273,S3_MultiPort
+917,16,Generator,Major Repair,0.55,74.59,33.57,0.4319,0.8922,0.02814,0.00849,S3_MultiPort
+940,16,Controls,Minor Repair,0.35,141.18,91.76,0.016,0.2444,0.07326,0.03839,S3_MultiPort
+946,16,Yaw System,Minor Repair,0.35,129.6,84.24,0.0354,0.3205,0.06444,0.03377,S3_MultiPort
+1043,16,Hub,Minor Repair,0.35,136.49,88.72,0.0223,0.2738,0.06964,0.0365,S3_MultiPort
+1052,16,Pitch/Hydraulic System,Minor Repair,0.35,101.95,66.27,0.1599,0.5355,0.04496,0.02356,S3_MultiPort
+119,17,Generator,Minor Repair,0.35,26.64,17.32,0.938,0.9784,0.00601,0.00315,S3_MultiPort
+121,17,Gearbox,Minor Repair,0.35,34.22,22.25,0.8872,0.96,0.00874,0.00458,S3_MultiPort
+136,17,Hub,Minor Repair,0.35,52.55,34.16,0.7049,0.8877,0.01664,0.00872,S3_MultiPort
+192,17,Pitch/Hydraulic System,Minor Repair,0.35,55.49,36.07,0.6699,0.8724,0.01805,0.00946,S3_MultiPort
+205,17,Service Items,Minor Repair,0.35,66.76,43.39,0.5294,0.8052,0.02382,0.01248,S3_MultiPort
+363,17,Gearbox,Minor Repair,0.35,54.25,35.26,0.6848,0.879,0.01745,0.00914,S3_MultiPort
+367,17,Blades,Minor Repair,0.35,97.63,63.46,0.1929,0.5709,0.04213,0.02208,S3_MultiPort
+368,17,Pitch/Hydraulic System,Minor Repair,0.35,60.07,39.04,0.6135,0.8467,0.02033,0.01065,S3_MultiPort
+407,17,Service Items,Minor Repair,0.35,72.39,47.05,0.4589,0.767,0.0269,0.0141,S3_MultiPort
+467,17,Contactor/Circuit/Relay,Minor Repair,0.35,79.18,51.46,0.3774,0.7175,0.03077,0.01612,S3_MultiPort
+480,17,Service Items,Minor Repair,0.35,57.05,37.09,0.6508,0.8639,0.01882,0.00986,S3_MultiPort
+551,17,Heaters/Coolers,Minor Repair,0.35,94.58,61.48,0.2188,0.5959,0.04017,0.02105,S3_MultiPort
+588,17,Blades,Minor Repair,0.35,94.46,61.4,0.2198,0.5969,0.0401,0.02101,S3_MultiPort
+599,17,Pitch/Hydraulic System,Minor Repair,0.35,72.04,46.83,0.4632,0.7694,0.02671,0.014,S3_MultiPort
+683,17,Pitch/Hydraulic System,Minor Repair,0.35,58.83,38.24,0.6289,0.8539,0.01971,0.01033,S3_MultiPort
+746,17,Service Items,Minor Repair,0.35,75.09,48.81,0.426,0.7477,0.02841,0.01489,S3_MultiPort
+856,17,Pumps/Motors,Minor Repair,0.35,152.83,99.34,0.0064,0.1794,0.08252,0.04324,S3_MultiPort
+872,17,Electrical Components,Minor Repair,0.35,139.55,90.71,0.018,0.2544,0.072,0.03773,S3_MultiPort
+876,17,Generator,Minor Repair,0.35,126.32,82.11,0.0436,0.344,0.062,0.03249,S3_MultiPort
+928,17,Hub,Minor Repair,0.35,147.16,95.65,0.0102,0.2095,0.07796,0.04086,S3_MultiPort
+952,17,Yaw System,Minor Repair,0.35,154.19,100.22,0.0058,0.1726,0.08362,0.04382,S3_MultiPort
+971,17,Power Supply/Converter,Minor Repair,0.35,170.36,110.73,0.0013,0.105,0.09711,0.05089,S3_MultiPort
+1035,17,Generator,Major Replacement,0.9,104.11,10.41,0.1449,0.9939,0.04639,0.00147,S3_MultiPort
+1038,17,Blades,Minor Repair,0.35,125.4,81.51,0.0461,0.3507,0.06133,0.03214,S3_MultiPort
+1069,17,Hub,Minor Repair,0.35,115.65,75.17,0.081,0.4249,0.05432,0.02847,S3_MultiPort
+174,18,Electrical Components,Minor Repair,0.35,76.39,49.66,0.4102,0.7382,0.02916,0.01528,S3_MultiPort
+206,18,Service Items,Minor Repair,0.35,43.93,28.56,0.7997,0.9267,0.01272,0.00666,S3_MultiPort
+216,18,Grease/Oil/Cooling Liquid,Minor Repair,0.35,43.98,28.59,0.7992,0.9265,0.01274,0.00668,S3_MultiPort
+240,18,Pitch/Hydraulic System,Minor Repair,0.35,73.37,47.69,0.4468,0.76,0.02745,0.01438,S3_MultiPort
+371,18,Contactor/Circuit/Relay,Minor Repair,0.35,59.92,38.95,0.6154,0.8476,0.02026,0.01062,S3_MultiPort
+398,18,Transformer,Minor Repair,0.35,75.13,48.83,0.4255,0.7474,0.02844,0.0149,S3_MultiPort
+407,18,Service Items,Minor Repair,0.35,57.56,37.41,0.6446,0.8611,0.01907,0.00999,S3_MultiPort
+451,18,Gearbox,Minor Repair,0.35,108.5,70.53,0.1174,0.4821,0.04936,0.02587,S3_MultiPort
+481,18,Service Items,Minor Repair,0.35,47.41,30.82,0.7631,0.912,0.01426,0.00747,S3_MultiPort
+527,18,Pitch/Hydraulic System,Minor Repair,0.35,88.69,57.65,0.2741,0.6435,0.03648,0.01912,S3_MultiPort
+579,18,Controls,Minor Repair,0.35,111.61,72.54,0.1004,0.457,0.05149,0.02699,S3_MultiPort
+661,18,Tower/Foundation,Major Repair,0.55,136.52,61.44,0.0223,0.5964,0.06967,0.02103,S3_MultiPort
+758,18,Service Items,Minor Repair,0.35,70.82,46.03,0.4784,0.7779,0.02603,0.01364,S3_MultiPort
+768,18,Sensors,Minor Repair,0.35,151.81,98.68,0.007,0.1846,0.08169,0.04281,S3_MultiPort
+824,18,Generator,Minor Repair,0.35,139.94,90.96,0.0175,0.252,0.0723,0.03789,S3_MultiPort
+847,18,Blades,Minor Repair,0.35,152.97,99.43,0.0064,0.1787,0.08263,0.0433,S3_MultiPort
+926,18,Blades,Minor Repair,0.35,110.43,71.78,0.1066,0.4664,0.05068,0.02656,S3_MultiPort
+966,18,Pitch/Hydraulic System,Minor Repair,0.35,118.65,77.12,0.0686,0.4015,0.05644,0.02958,S3_MultiPort
+967,18,Controls,Minor Repair,0.35,127.54,82.9,0.0404,0.3351,0.06291,0.03297,S3_MultiPort
+1046,18,Gearbox,Minor Repair,0.35,155.53,101.09,0.0051,0.1661,0.08471,0.04439,S3_MultiPort
+1081,18,Generator,Major Repair,0.55,126.96,57.13,0.0419,0.6499,0.06248,0.01886,S3_MultiPort
+196,19,Transformer,Minor Repair,0.35,80.73,52.48,0.3595,0.7057,0.03168,0.0166,S3_MultiPort
+206,19,Service Items,Minor Repair,0.35,44.86,29.16,0.7902,0.9229,0.01312,0.00688,S3_MultiPort
+271,19,Gearbox,Major Replacement,0.9,63.23,6.32,0.5738,0.9982,0.02196,0.00069,S3_MultiPort
+279,19,Blades,Minor Repair,0.35,86.25,56.07,0.2991,0.6629,0.03499,0.01833,S3_MultiPort
+408,19,Service Items,Minor Repair,0.35,58.16,37.8,0.6372,0.8577,0.01937,0.01015,S3_MultiPort
+437,19,Blades,Minor Repair,0.35,79.07,51.39,0.3787,0.7184,0.0307,0.01609,S3_MultiPort
+481,19,Service Items,Minor Repair,0.35,47.8,31.07,0.7588,0.9103,0.01444,0.00756,S3_MultiPort
+528,19,Yaw System,Minor Repair,0.35,125.54,81.6,0.0457,0.3497,0.06143,0.03219,S3_MultiPort
+535,19,Pumps/Motors,Minor Repair,0.35,112.01,72.81,0.0983,0.4538,0.05177,0.02713,S3_MultiPort
+543,19,Controls,Minor Repair,0.35,132.27,85.97,0.0298,0.302,0.06643,0.03481,S3_MultiPort
+571,19,Generator,Major Replacement,0.9,123.02,12.3,0.0533,0.9908,0.05959,0.00188,S3_MultiPort
+580,19,Electrical Components,Major Replacement,0.9,102.96,10.3,0.1527,0.9941,0.04563,0.00144,S3_MultiPort
+650,19,Pitch/Hydraulic System,Minor Repair,0.35,113.78,73.96,0.0896,0.4397,0.05301,0.02778,S3_MultiPort
+685,19,Contactor/Circuit/Relay,Minor Repair,0.35,149.63,97.26,0.0084,0.196,0.07994,0.04189,S3_MultiPort
+695,19,Sensors,Minor Repair,0.35,130.84,85.05,0.0327,0.3118,0.06537,0.03425,S3_MultiPort
+758,19,Service Items,Minor Repair,0.35,71.07,46.2,0.4752,0.7762,0.02617,0.01371,S3_MultiPort
+801,19,Controls,Minor Repair,0.35,121.97,79.28,0.0567,0.3762,0.05883,0.03083,S3_MultiPort
+888,19,Contactor/Circuit/Relay,Major Repair,0.55,126.26,56.82,0.0437,0.6537,0.06196,0.0187,S3_MultiPort
+904,19,Tower/Foundation,Major Repair,0.55,153.66,69.15,0.006,0.4993,0.08319,0.02511,S3_MultiPort
+985,19,Electrical Components,Minor Repair,0.35,66.3,43.09,0.5352,0.8082,0.02357,0.01235,S3_MultiPort
+1050,19,Pitch/Hydraulic System,Minor Repair,0.35,125.96,81.87,0.0446,0.3466,0.06174,0.03235,S3_MultiPort
+206,20,Service Items,Minor Repair,0.35,73.64,47.87,0.4435,0.7581,0.0276,0.01446,S3_MultiPort
+211,20,Heaters/Coolers,Minor Repair,0.35,72.07,46.84,0.4629,0.7692,0.02672,0.014,S3_MultiPort
+333,20,Pitch/Hydraulic System,Major Repair,0.55,65.62,29.53,0.5437,0.9206,0.02322,0.00701,S3_MultiPort
+408,20,Service Items,Minor Repair,0.35,76.87,49.96,0.4046,0.7347,0.02943,0.01542,S3_MultiPort
+473,20,Sensors,Minor Repair,0.35,95.37,61.99,0.2119,0.5895,0.04067,0.02131,S3_MultiPort
+481,20,Service Items,Minor Repair,0.35,59.96,38.98,0.6148,0.8473,0.02028,0.01063,S3_MultiPort
+537,20,Generator,Minor Repair,0.35,111.13,72.23,0.1029,0.4609,0.05116,0.02681,S3_MultiPort
+600,20,Electrical Components,Minor Repair,0.35,109.19,70.98,0.1134,0.4764,0.04983,0.02611,S3_MultiPort
+635,20,Grease/Oil/Cooling Liquid,Minor Repair,0.35,107.99,70.19,0.1204,0.4862,0.04901,0.02568,S3_MultiPort
+680,20,Transformer,Minor Repair,0.35,113.82,73.98,0.0894,0.4394,0.05303,0.02779,S3_MultiPort
+682,20,Hub,Minor Repair,0.35,109.65,71.27,0.1109,0.4728,0.05014,0.02628,S3_MultiPort
+695,20,Pitch/Hydraulic System,Minor Repair,0.35,80.53,52.34,0.3618,0.7073,0.03156,0.01654,S3_MultiPort
+719,20,Controls,Minor Repair,0.35,115.84,75.29,0.0802,0.4234,0.05445,0.02853,S3_MultiPort
+732,20,Contactor/Circuit/Relay,Minor Repair,0.35,136.65,88.82,0.0221,0.2728,0.06976,0.03656,S3_MultiPort
+751,20,Sensors,Major Repair,0.55,101.99,45.89,0.1596,0.7794,0.04498,0.01358,S3_MultiPort
+759,20,Service Items,Minor Repair,0.35,78.98,51.33,0.3797,0.719,0.03065,0.01606,S3_MultiPort
+889,20,Safety,Major Repair,0.55,158.81,71.46,0.0039,0.4704,0.0874,0.02638,S3_MultiPort
+889,20,Electrical Components,Minor Repair,0.35,110.98,72.13,0.1037,0.4621,0.05106,0.02676,S3_MultiPort
+893,20,Sensors,Minor Repair,0.35,51.89,33.73,0.7126,0.891,0.01633,0.00856,S3_MultiPort
+914,20,Blades,Minor Repair,0.35,184.96,120.22,0.0003,0.0628,0.10986,0.05757,S3_MultiPort
+920,20,Gearbox,Minor Repair,0.35,143.09,93.01,0.0139,0.2329,0.07475,0.03917,S3_MultiPort
+934,20,Generator,Minor Repair,0.35,129.23,84.0,0.0363,0.3231,0.06416,0.03362,S3_MultiPort
+941,20,Yaw System,Minor Repair,0.35,176.74,114.88,0.0007,0.0845,0.10262,0.05378,S3_MultiPort
+1051,20,Pitch/Hydraulic System,Minor Repair,0.35,102.34,66.52,0.1571,0.5323,0.04522,0.0237,S3_MultiPort
+92,21,Gearbox,Major Replacement,0.9,59.46,5.95,0.6211,0.9985,0.02003,0.00063,S3_MultiPort
+207,21,Service Items,Minor Repair,0.35,47.56,30.92,0.7614,0.9113,0.01433,0.00751,S3_MultiPort
+251,21,Sensors,Minor Repair,0.35,63.13,41.04,0.5751,0.8282,0.02191,0.01148,S3_MultiPort
+409,21,Service Items,Minor Repair,0.35,59.92,38.95,0.6154,0.8476,0.02025,0.01061,S3_MultiPort
+426,21,Pumps/Motors,Minor Repair,0.35,93.04,60.48,0.2326,0.6084,0.03919,0.02054,S3_MultiPort
+482,21,Service Items,Minor Repair,0.35,48.95,31.81,0.7462,0.9051,0.01495,0.00784,S3_MultiPort
+489,21,Gearbox,Major Replacement,0.9,61.95,6.19,0.59,0.9983,0.02129,0.00067,S3_MultiPort
+561,21,Generator,Major Replacement,0.9,122.03,12.2,0.0565,0.991,0.05887,0.00186,S3_MultiPort
+585,21,Grease/Oil/Cooling Liquid,Minor Repair,0.35,91.72,59.62,0.2447,0.6191,0.03836,0.0201,S3_MultiPort
+589,21,Contactor/Circuit/Relay,Major Repair,0.55,131.24,59.06,0.0318,0.6261,0.06566,0.01982,S3_MultiPort
+633,21,Pumps/Motors,Minor Repair,0.35,89.48,58.16,0.2664,0.6372,0.03696,0.01937,S3_MultiPort
+638,21,Safety,Minor Repair,0.35,120.91,78.59,0.0603,0.3842,0.05806,0.03043,S3_MultiPort
+642,21,Controls,Minor Repair,0.35,110.4,71.76,0.1068,0.4667,0.05066,0.02655,S3_MultiPort
+709,21,Blades,Minor Repair,0.35,119.25,77.52,0.0663,0.3969,0.05688,0.02981,S3_MultiPort
+726,21,Pitch/Hydraulic System,Major Repair,0.55,141.92,63.86,0.0151,0.5659,0.07384,0.02229,S3_MultiPort
+759,21,Service Items,Minor Repair,0.35,71.81,46.68,0.466,0.771,0.02658,0.01393,S3_MultiPort
+790,21,Pitch/Hydraulic System,Minor Repair,0.35,69.86,45.41,0.4903,0.7845,0.0255,0.01336,S3_MultiPort
+980,21,Electrical Components,Minor Repair,0.35,162.66,105.73,0.0028,0.1343,0.0906,0.04748,S3_MultiPort
+207,22,Service Items,Minor Repair,0.35,80.87,52.56,0.358,0.7047,0.03176,0.01664,S3_MultiPort
+403,22,Sensors,Minor Repair,0.35,82.84,53.85,0.3358,0.6896,0.03293,0.01726,S3_MultiPort
+409,22,Service Items,Minor Repair,0.35,81.56,53.02,0.3501,0.6994,0.03217,0.01686,S3_MultiPort
+414,22,Grease/Oil/Cooling Liquid,Minor Repair,0.35,99.07,64.4,0.1814,0.5591,0.04307,0.02257,S3_MultiPort
+482,22,Service Items,Minor Repair,0.35,63.02,40.96,0.5765,0.829,0.02185,0.01145,S3_MultiPort
+503,22,Generator,Minor Repair,0.35,121.36,78.88,0.0588,0.3808,0.05839,0.0306,S3_MultiPort
+663,22,Yaw System,Major Repair,0.55,112.44,50.6,0.0961,0.7275,0.05207,0.01572,S3_MultiPort
+663,22,Transformer,Minor Repair,0.35,130.29,84.69,0.0339,0.3157,0.06495,0.03404,S3_MultiPort
+691,22,Generator,Minor Repair,0.35,105.88,68.82,0.1333,0.5034,0.04758,0.02494,S3_MultiPort
+696,22,Sensors,Minor Repair,0.35,90.85,59.05,0.253,0.6262,0.03782,0.01982,S3_MultiPort
+721,22,Blades,Minor Repair,0.35,136.87,88.97,0.0217,0.2714,0.06994,0.03665,S3_MultiPort
+724,22,Tower/Foundation,Minor Repair,0.35,136.81,88.93,0.0218,0.2718,0.06989,0.03663,S3_MultiPort
+731,22,Electrical Components,Minor Repair,0.35,110.12,71.58,0.1083,0.469,0.05047,0.02645,S3_MultiPort
+767,22,Service Items,Minor Repair,0.35,81.96,53.27,0.3456,0.6964,0.03241,0.01698,S3_MultiPort
+796,22,Pitch/Hydraulic System,Major Repair,0.55,133.24,59.96,0.0279,0.6149,0.06717,0.02028,S3_MultiPort
+824,22,Gearbox,Major Repair,0.55,137.59,61.92,0.0207,0.5904,0.07049,0.02128,S3_MultiPort
+851,22,Yaw System,Minor Repair,0.35,74.6,48.49,0.4319,0.7513,0.02814,0.01475,S3_MultiPort
+865,22,Contactor/Circuit/Relay,Minor Repair,0.35,159.24,103.5,0.0037,0.149,0.08776,0.04599,S3_MultiPort
+892,22,Sensors,Minor Repair,0.35,87.05,56.58,0.2908,0.6566,0.03547,0.01859,S3_MultiPort
+903,22,Generator,Major Repair,0.55,98.82,44.47,0.1834,0.7942,0.0429,0.01295,S3_MultiPort
+905,22,Gearbox,Minor Repair,0.35,72.92,47.4,0.4524,0.7633,0.02719,0.01425,S3_MultiPort
+952,22,Gearbox,Major Replacement,0.9,53.4,5.34,0.6949,0.9988,0.01704,0.00054,S3_MultiPort
+1058,22,Controls,Minor Repair,0.35,158.19,102.82,0.0041,0.1537,0.08689,0.04553,S3_MultiPort
+1095,22,Hub,Major Repair,0.55,166.86,75.09,0.0019,0.4259,0.09413,0.02842,S3_MultiPort
+67,23,Blades,Minor Repair,0.35,51.76,33.64,0.7142,0.8917,0.01626,0.00852,S3_MultiPort
+123,23,Blades,Minor Repair,0.35,41.64,27.07,0.8224,0.9356,0.01174,0.00615,S3_MultiPort
+142,23,Pitch/Hydraulic System,Minor Repair,0.35,53.07,34.49,0.6988,0.8851,0.01688,0.00885,S3_MultiPort
+207,23,Service Items,Minor Repair,0.35,40.79,26.51,0.8306,0.9387,0.01138,0.00596,S3_MultiPort
+300,23,Yaw System,Minor Repair,0.35,96.64,62.82,0.2011,0.579,0.04149,0.02174,S3_MultiPort
+378,23,Safety,Minor Repair,0.35,88.14,57.29,0.2797,0.6479,0.03614,0.01894,S3_MultiPort
+414,23,Service Items,Minor Repair,0.35,56.51,36.73,0.6575,0.8669,0.01855,0.00972,S3_MultiPort
+453,23,Controls,Minor Repair,0.35,97.53,63.4,0.1937,0.5718,0.04207,0.02205,S3_MultiPort
+458,23,Blades,Minor Repair,0.35,75.07,48.79,0.4262,0.7479,0.0284,0.01489,S3_MultiPort
+471,23,Contactor/Circuit/Relay,Minor Repair,0.35,121.08,78.7,0.0597,0.3829,0.05818,0.03049,S3_MultiPort
+482,23,Service Items,Minor Repair,0.35,45.73,29.73,0.7811,0.9193,0.01351,0.00708,S3_MultiPort
+490,23,Pitch/Hydraulic System,Minor Repair,0.35,83.49,54.27,0.3286,0.6845,0.03332,0.01746,S3_MultiPort
+579,23,Pitch/Hydraulic System,Minor Repair,0.35,67.27,43.73,0.5229,0.8018,0.0241,0.01263,S3_MultiPort
+670,23,Controls,Minor Repair,0.35,93.4,60.71,0.2293,0.6055,0.03942,0.02066,S3_MultiPort
+718,23,Gearbox,Minor Repair,0.35,115.99,75.39,0.0796,0.4222,0.05456,0.02859,S3_MultiPort
+733,23,Contactor/Circuit/Relay,Minor Repair,0.35,110.7,71.95,0.1051,0.4643,0.05087,0.02666,S3_MultiPort
+789,23,Transformer,Minor Repair,0.35,120.84,78.54,0.0606,0.3848,0.05801,0.0304,S3_MultiPort
+816,23,Hub,Major Repair,0.55,152.23,68.5,0.0068,0.5074,0.08203,0.02476,S3_MultiPort
+845,23,Gearbox,Major Repair,0.55,93.39,42.03,0.2293,0.8187,0.03942,0.0119,S3_MultiPort
+866,23,Contactor/Circuit/Relay,Minor Repair,0.35,88.95,57.82,0.2715,0.6414,0.03664,0.0192,S3_MultiPort
+877,23,Grease/Oil/Cooling Liquid,Minor Repair,0.35,178.51,116.03,0.0006,0.0794,0.10416,0.05458,S3_MultiPort
+878,23,Sensors,Minor Repair,0.35,150.29,97.69,0.0079,0.1925,0.08047,0.04217,S3_MultiPort
+892,23,Yaw System,Minor Repair,0.35,147.82,96.08,0.0096,0.2058,0.07849,0.04113,S3_MultiPort
+968,23,Blades,Minor Repair,0.35,121.79,79.17,0.0573,0.3775,0.0587,0.03076,S3_MultiPort
+991,23,Generator,Minor Repair,0.35,181.68,118.09,0.0004,0.0708,0.10695,0.05605,S3_MultiPort
+997,23,Electrical Components,Minor Repair,0.35,175.94,114.36,0.0008,0.0869,0.10192,0.05341,S3_MultiPort
+1029,23,Generator,Minor Repair,0.35,121.09,78.71,0.0597,0.3828,0.0582,0.0305,S3_MultiPort
+1031,23,Blades,Minor Repair,0.35,84.17,54.71,0.3213,0.6793,0.03372,0.01767,S3_MultiPort
+19,24,Generator,Minor Repair,0.35,43.3,28.15,0.8061,0.9292,0.01244,0.00652,S3_MultiPort
+57,24,Gearbox,Minor Repair,0.35,63.8,41.47,0.5666,0.8241,0.02226,0.01166,S3_MultiPort
+166,24,Safety,Minor Repair,0.35,60.2,39.13,0.6119,0.8459,0.0204,0.01069,S3_MultiPort
+208,24,Service Items,Minor Repair,0.35,43.11,28.02,0.808,0.93,0.01236,0.00648,S3_MultiPort
+217,24,Pitch/Hydraulic System,Minor Repair,0.35,81.04,52.67,0.356,0.7034,0.03186,0.0167,S3_MultiPort
+332,24,Tower/Foundation,Major Replacement,0.9,77.07,7.71,0.4022,0.9971,0.02955,0.00093,S3_MultiPort
+414,24,Service Items,Minor Repair,0.35,58.02,37.72,0.6389,0.8585,0.0193,0.01012,S3_MultiPort
+426,24,Electrical Components,Minor Repair,0.35,93.13,60.54,0.2317,0.6077,0.03925,0.02057,S3_MultiPort
+446,24,Pitch/Hydraulic System,Minor Repair,0.35,85.67,55.69,0.3052,0.6675,0.03463,0.01815,S3_MultiPort
+483,24,Service Items,Minor Repair,0.35,46.72,30.36,0.7706,0.9151,0.01394,0.00731,S3_MultiPort
+486,24,Yaw System,Minor Repair,0.35,111.15,72.25,0.1027,0.4607,0.05118,0.02682,S3_MultiPort
+538,24,Pumps/Motors,Minor Repair,0.35,110.86,72.06,0.1043,0.463,0.05098,0.02671,S3_MultiPort
+599,24,Controls,Minor Repair,0.35,119.02,77.36,0.0672,0.3987,0.05671,0.02972,S3_MultiPort
+634,24,Contactor/Circuit/Relay,Minor Repair,0.35,144.38,93.85,0.0126,0.2253,0.07576,0.0397,S3_MultiPort
+703,24,Gearbox,Minor Repair,0.35,133.47,86.76,0.0274,0.2938,0.06734,0.03529,S3_MultiPort
+705,24,Tower/Foundation,Minor Repair,0.35,60.71,39.46,0.6056,0.8429,0.02066,0.01083,S3_MultiPort
+760,24,Generator,Minor Repair,0.35,134.15,87.2,0.0262,0.2893,0.06786,0.03556,S3_MultiPort
+785,24,Pitch/Hydraulic System,Minor Repair,0.35,101.69,66.1,0.1618,0.5377,0.04478,0.02347,S3_MultiPort
+818,24,Generator,Major Repair,0.55,93.2,41.94,0.2311,0.8196,0.03929,0.01186,S3_MultiPort
+865,24,Pumps/Motors,Minor Repair,0.35,119.06,77.39,0.0671,0.3984,0.05674,0.02973,S3_MultiPort
+898,24,Gearbox,Major Replacement,0.9,113.76,11.38,0.0897,0.9924,0.05299,0.00168,S3_MultiPort
+937,24,Controls,Minor Repair,0.35,125.36,81.49,0.0462,0.351,0.0613,0.03212,S3_MultiPort
+971,24,Blades,Minor Repair,0.35,166.21,108.04,0.002,0.1201,0.09358,0.04904,S3_MultiPort
+1050,24,Pitch/Hydraulic System,Minor Repair,0.35,103.1,67.01,0.1518,0.5261,0.04572,0.02396,S3_MultiPort
+1060,24,Controls,Minor Repair,0.35,98.49,64.02,0.1861,0.5639,0.04269,0.02237,S3_MultiPort
+198,25,Grease/Oil/Cooling Liquid,Minor Repair,0.35,75.34,48.97,0.4229,0.7459,0.02856,0.01497,S3_MultiPort
+208,25,Service Items,Minor Repair,0.35,74.49,48.42,0.4332,0.7521,0.02808,0.01471,S3_MultiPort
+264,25,Transformer,Minor Repair,0.35,51.59,33.53,0.7161,0.8925,0.01618,0.00848,S3_MultiPort
+282,25,Blades,Minor Repair,0.35,77.18,50.17,0.4009,0.7324,0.02961,0.01552,S3_MultiPort
+336,25,Pitch/Hydraulic System,Minor Repair,0.35,73.96,48.07,0.4396,0.7558,0.02778,0.01456,S3_MultiPort
+408,25,Generator,Minor Repair,0.35,96.83,62.94,0.1995,0.5775,0.04161,0.02181,S3_MultiPort
+414,25,Service Items,Minor Repair,0.35,78.42,50.97,0.3863,0.7232,0.03033,0.01589,S3_MultiPort
+439,25,Grease/Oil/Cooling Liquid,Minor Repair,0.35,82.97,53.93,0.3344,0.6886,0.03301,0.0173,S3_MultiPort
+467,25,Tower/Foundation,Minor Repair,0.35,111.12,72.23,0.1029,0.4609,0.05116,0.02681,S3_MultiPort
+484,25,Service Items,Minor Repair,0.35,60.97,39.63,0.6022,0.8414,0.02079,0.0109,S3_MultiPort
+521,25,Sensors,Minor Repair,0.35,106.16,69.01,0.1315,0.5011,0.04777,0.02503,S3_MultiPort
+548,25,Hub,Minor Repair,0.35,94.53,61.44,0.2192,0.5963,0.04014,0.02103,S3_MultiPort
+627,25,Yaw System,Minor Repair,0.35,134.34,87.32,0.0259,0.288,0.068,0.03564,S3_MultiPort
+633,25,Pumps/Motors,Minor Repair,0.35,127.87,83.11,0.0396,0.3328,0.06315,0.03309,S3_MultiPort
+638,25,Safety,Minor Repair,0.35,113.69,73.9,0.09,0.4404,0.05294,0.02774,S3_MultiPort
+703,25,Generator,Minor Repair,0.35,104.94,68.21,0.1394,0.511,0.04695,0.0246,S3_MultiPort
+729,25,Blades,Minor Repair,0.35,114.17,74.21,0.0878,0.4366,0.05327,0.02792,S3_MultiPort
+848,25,Pitch/Hydraulic System,Minor Repair,0.35,119.07,77.4,0.067,0.3982,0.05675,0.02974,S3_MultiPort
+854,25,Electrical Components,Minor Repair,0.35,150.67,97.94,0.0077,0.1905,0.08077,0.04233,S3_MultiPort
+871,25,Blades,Minor Repair,0.35,94.21,61.24,0.222,0.5989,0.03993,0.02093,S3_MultiPort
+944,25,Gearbox,Minor Repair,0.35,181.13,117.74,0.0004,0.0723,0.10647,0.05579,S3_MultiPort
+953,25,Contactor/Circuit/Relay,Major Repair,0.55,172.22,77.5,0.0011,0.3971,0.0987,0.0298,S3_MultiPort
+962,25,Tower/Foundation,Major Repair,0.55,143.23,64.45,0.0137,0.5584,0.07486,0.0226,S3_MultiPort
+1029,25,Generator,Major Repair,0.55,112.21,50.49,0.0973,0.7287,0.05191,0.01567,S3_MultiPort
+1032,25,Blades,Minor Repair,0.35,83.24,54.1,0.3315,0.6865,0.03316,0.01738,S3_MultiPort
+1053,25,Pitch/Hydraulic System,Minor Repair,0.35,101.4,65.91,0.1639,0.5401,0.04459,0.02337,S3_MultiPort
+1092,25,Gearbox,Major Replacement,0.9,138.74,13.87,0.0191,0.9876,0.07137,0.00226,S3_MultiPort
+105,26,Gearbox,Minor Repair,0.35,43.51,28.28,0.804,0.9284,0.01253,0.00657,S3_MultiPort
+188,26,Tower/Foundation,Minor Repair,0.35,34.06,22.14,0.8885,0.9605,0.00868,0.00455,S3_MultiPort
+203,26,Generator,Minor Repair,0.35,72.21,46.94,0.4611,0.7682,0.0268,0.01404,S3_MultiPort
+208,26,Service Items,Minor Repair,0.35,54.82,35.64,0.6779,0.876,0.01773,0.00929,S3_MultiPort
+231,26,Blades,Minor Repair,0.35,48.34,31.42,0.7529,0.9078,0.01468,0.00769,S3_MultiPort
+297,26,Generator,Minor Repair,0.35,60.94,39.61,0.6026,0.8416,0.02078,0.01089,S3_MultiPort
+316,26,Transformer,Minor Repair,0.35,54.14,35.19,0.6861,0.8796,0.0174,0.00912,S3_MultiPort
+322,26,Gearbox,Minor Repair,0.35,59.28,38.53,0.6234,0.8513,0.01993,0.01045,S3_MultiPort
+427,26,Service Items,Minor Repair,0.35,66.64,43.31,0.5309,0.806,0.02376,0.01245,S3_MultiPort
+463,26,Contactor/Circuit/Relay,Major Repair,0.55,119.62,53.83,0.065,0.6898,0.05714,0.01725,S3_MultiPort
+484,26,Service Items,Minor Repair,0.35,52.31,34.0,0.7077,0.8889,0.01652,0.00866,S3_MultiPort
+530,26,Pitch/Hydraulic System,Minor Repair,0.35,91.7,59.6,0.245,0.6193,0.03835,0.0201,S3_MultiPort
+549,26,Controls,Major Repair,0.55,112.13,50.46,0.0977,0.7291,0.05186,0.01565,S3_MultiPort
+643,26,Safety,Minor Repair,0.35,102.93,66.9,0.153,0.5275,0.0456,0.0239,S3_MultiPort
+653,26,Blades,Minor Repair,0.35,92.42,60.08,0.2382,0.6134,0.0388,0.02034,S3_MultiPort
+698,26,Safety,Minor Repair,0.35,74.9,48.69,0.4282,0.7491,0.02831,0.01484,S3_MultiPort
+713,26,Blades,Minor Repair,0.35,68.08,44.25,0.5128,0.7965,0.02453,0.01285,S3_MultiPort
+876,26,Generator,Major Repair,0.55,121.61,54.72,0.0579,0.6791,0.05857,0.01768,S3_MultiPort
+953,26,Controls,Minor Repair,0.35,108.46,70.5,0.1176,0.4824,0.04933,0.02585,S3_MultiPort
+998,26,Yaw System,Minor Repair,0.35,162.42,105.57,0.0028,0.1353,0.0904,0.04737,S3_MultiPort
+38,27,Pumps/Motors,Major Repair,0.55,55.52,24.99,0.6694,0.9469,0.01807,0.00545,S3_MultiPort
+208,27,Service Items,Minor Repair,0.35,35.41,23.01,0.8778,0.9566,0.0092,0.00482,S3_MultiPort
+239,27,Gearbox,Minor Repair,0.35,81.85,53.2,0.3469,0.6972,0.03234,0.01695,S3_MultiPort
+265,27,Grease/Oil/Cooling Liquid,Minor Repair,0.35,77.07,50.09,0.4022,0.7333,0.02955,0.01548,S3_MultiPort
+266,27,Pitch/Hydraulic System,Minor Repair,0.35,65.92,42.85,0.5399,0.8106,0.02337,0.01225,S3_MultiPort
+335,27,Generator,Major Repair,0.55,61.06,27.47,0.6012,0.9332,0.02084,0.00629,S3_MultiPort
+409,27,Contactor/Circuit/Relay,Minor Repair,0.35,70.93,46.11,0.477,0.7771,0.02609,0.01367,S3_MultiPort
+427,27,Service Items,Minor Repair,0.35,54.01,35.11,0.6876,0.8802,0.01734,0.00909,S3_MultiPort
+456,27,Gearbox,Minor Repair,0.35,83.2,54.08,0.3318,0.6868,0.03315,0.01737,S3_MultiPort
+484,27,Service Items,Minor Repair,0.35,44.11,28.67,0.7979,0.926,0.01279,0.0067,S3_MultiPort
+526,27,Electrical Components,Minor Repair,0.35,129.18,83.97,0.0364,0.3235,0.06412,0.0336,S3_MultiPort
+551,27,Safety,Minor Repair,0.35,131.3,85.35,0.0317,0.3086,0.06571,0.03443,S3_MultiPort
+576,27,Hub,Major Repair,0.55,103.67,46.65,0.1478,0.7713,0.0461,0.01392,S3_MultiPort
+612,27,Gearbox,Major Replacement,0.9,75.08,7.51,0.426,0.9973,0.02841,0.0009,S3_MultiPort
+645,27,Blades,Minor Repair,0.35,111.49,72.47,0.101,0.458,0.05141,0.02694,S3_MultiPort
+648,27,Heaters/Coolers,Minor Repair,0.35,109.64,71.27,0.1109,0.4728,0.05014,0.02628,S3_MultiPort
+665,27,Generator,Major Repair,0.55,74.47,33.51,0.4334,0.8926,0.02807,0.00847,S3_MultiPort
+686,27,Contactor/Circuit/Relay,Minor Repair,0.35,81.11,52.72,0.3553,0.7029,0.0319,0.01672,S3_MultiPort
+695,27,Sensors,Major Repair,0.55,146.1,65.74,0.011,0.5421,0.07712,0.02328,S3_MultiPort
+702,27,Tower/Foundation,Major Repair,0.55,138.02,62.11,0.02,0.588,0.07082,0.02138,S3_MultiPort
+742,27,Sensors,Major Repair,0.55,71.74,32.28,0.4669,0.9017,0.02654,0.00801,S3_MultiPort
+892,27,Heaters/Coolers,Minor Repair,0.35,92.27,59.97,0.2396,0.6147,0.03871,0.02028,S3_MultiPort
+938,27,Generator,Major Repair,0.55,72.51,32.63,0.4574,0.8992,0.02697,0.00814,S3_MultiPort
+1061,27,Power Supply/Converter,Minor Repair,0.35,194.19,126.23,0.0001,0.0438,0.11819,0.06194,S3_MultiPort
+209,28,Service Items,Minor Repair,0.35,77.55,50.41,0.3964,0.7297,0.02983,0.01563,S3_MultiPort
+303,28,Pumps/Motors,Minor Repair,0.35,75.78,49.26,0.4175,0.7427,0.02881,0.0151,S3_MultiPort
+379,28,Safety,Minor Repair,0.35,102.58,66.67,0.1554,0.5304,0.04537,0.02378,S3_MultiPort
+398,28,Pitch/Hydraulic System,Minor Repair,0.35,99.88,64.92,0.1752,0.5525,0.0436,0.02285,S3_MultiPort
+428,28,Service Items,Minor Repair,0.35,82.41,53.57,0.3406,0.6929,0.03267,0.01712,S3_MultiPort
+484,28,Service Items,Minor Repair,0.35,61.57,40.02,0.5948,0.8378,0.0211,0.01106,S3_MultiPort
+507,28,Generator,Major Repair,0.55,115.31,51.89,0.0825,0.7126,0.05408,0.01632,S3_MultiPort
+635,28,Heaters/Coolers,Minor Repair,0.35,109.3,71.05,0.1128,0.4756,0.04991,0.02615,S3_MultiPort
+675,28,Generator,Major Replacement,0.9,74.89,7.49,0.4283,0.9973,0.0283,0.0009,S3_MultiPort
+730,28,Electrical Components,Minor Repair,0.35,122.08,79.35,0.0563,0.3754,0.05891,0.03087,S3_MultiPort
+784,28,Tower/Foundation,Major Repair,0.55,141.8,63.81,0.0153,0.5665,0.07375,0.02226,S3_MultiPort
+825,28,Gearbox,Minor Repair,0.35,156.11,101.47,0.0049,0.1633,0.08519,0.04464,S3_MultiPort
+850,28,Controls,Minor Repair,0.35,134.36,87.33,0.0259,0.2879,0.06801,0.03564,S3_MultiPort
+921,28,Blades,Minor Repair,0.35,163.98,106.59,0.0024,0.1288,0.09171,0.04806,S3_MultiPort
+928,28,Blades,Minor Repair,0.35,107.59,69.93,0.1228,0.4894,0.04874,0.02554,S3_MultiPort
+940,28,Controls,Minor Repair,0.35,99.33,64.57,0.1794,0.557,0.04324,0.02266,S3_MultiPort
+995,28,Pitch/Hydraulic System,Minor Repair,0.35,149.92,97.45,0.0082,0.1944,0.08017,0.04201,S3_MultiPort
+1001,28,Contactor/Circuit/Relay,Minor Repair,0.35,167.01,108.55,0.0018,0.1171,0.09426,0.0494,S3_MultiPort
+1042,28,Blades,Minor Repair,0.35,85.93,55.86,0.3024,0.6654,0.03479,0.01823,S3_MultiPort
+1054,28,Pitch/Hydraulic System,Minor Repair,0.35,99.45,64.64,0.1785,0.556,0.04331,0.0227,S3_MultiPort
+41,29,Electrical Components,Major Repair,0.55,48.51,21.83,0.751,0.9618,0.01476,0.00445,S3_MultiPort
+209,29,Service Items,Minor Repair,0.35,51.57,33.52,0.7163,0.8926,0.01617,0.00848,S3_MultiPort
+317,29,Pitch/Hydraulic System,Minor Repair,0.35,97.55,63.41,0.1936,0.5717,0.04208,0.02205,S3_MultiPort
+319,29,Generator,Major Repair,0.55,72.82,32.77,0.4536,0.8982,0.02714,0.00819,S3_MultiPort
+321,29,Tower/Foundation,Major Repair,0.55,88.03,39.61,0.2808,0.8415,0.03607,0.01089,S3_MultiPort
+375,29,Sensors,Minor Repair,0.35,89.0,57.85,0.271,0.641,0.03667,0.01922,S3_MultiPort
+428,29,Service Items,Minor Repair,0.35,65.52,42.59,0.545,0.8132,0.02316,0.01214,S3_MultiPort
+467,29,Power Supply/Converter,Minor Repair,0.35,73.75,47.94,0.4422,0.7573,0.02766,0.0145,S3_MultiPort
+483,29,Hub,Minor Repair,0.35,109.75,71.34,0.1103,0.4719,0.05022,0.02632,S3_MultiPort
+485,29,Service Items,Minor Repair,0.35,50.59,32.88,0.7276,0.8973,0.01571,0.00823,S3_MultiPort
+632,29,Controls,Minor Repair,0.35,135.69,88.2,0.0236,0.2791,0.06903,0.03617,S3_MultiPort
+647,29,Grease/Oil/Cooling Liquid,Minor Repair,0.35,139.3,90.54,0.0183,0.256,0.0718,0.03763,S3_MultiPort
+667,29,Pitch/Hydraulic System,Minor Repair,0.35,112.41,73.06,0.0963,0.4506,0.05205,0.02727,S3_MultiPort
+740,29,Contactor/Circuit/Relay,Minor Repair,0.35,129.59,84.24,0.0354,0.3206,0.06443,0.03376,S3_MultiPort
+819,29,Gearbox,Minor Repair,0.35,141.14,91.74,0.016,0.2446,0.07323,0.03838,S3_MultiPort
+869,29,Generator,Major Repair,0.55,110.77,49.85,0.1048,0.7361,0.05091,0.01537,S3_MultiPort
+972,29,Tower/Foundation,Minor Repair,0.35,132.61,86.2,0.0291,0.2997,0.0667,0.03495,S3_MultiPort
+1055,29,Gearbox,Minor Repair,0.35,125.74,81.73,0.0452,0.3482,0.06158,0.03227,S3_MultiPort
+1058,29,Blades,Minor Repair,0.35,204.66,133.03,0.0,0.0283,0.12787,0.06701,S3_MultiPort
+1058,29,Controls,Minor Repair,0.35,146.2,95.03,0.0109,0.2148,0.0772,0.04046,S3_MultiPort
+1072,29,Pitch/Hydraulic System,Minor Repair,0.35,130.06,84.54,0.0344,0.3173,0.06478,0.03395,S3_MultiPort
+209,30,Service Items,Minor Repair,0.35,49.63,32.26,0.7385,0.9019,0.01527,0.008,S3_MultiPort
+265,30,Pitch/Hydraulic System,Minor Repair,0.35,72.21,46.94,0.4611,0.7682,0.0268,0.01404,S3_MultiPort
+428,30,Service Items,Minor Repair,0.35,64.26,41.77,0.5609,0.8212,0.0225,0.01179,S3_MultiPort
+485,30,Service Items,Minor Repair,0.35,49.77,32.35,0.7369,0.9012,0.01533,0.00804,S3_MultiPort
+515,30,Pumps/Motors,Minor Repair,0.35,109.56,71.21,0.1114,0.4735,0.05008,0.02625,S3_MultiPort
+517,30,Hub,Minor Repair,0.35,115.01,74.76,0.0839,0.4299,0.05387,0.02823,S3_MultiPort
+624,30,Generator,Major Repair,0.55,143.78,64.7,0.0132,0.5553,0.07529,0.02273,S3_MultiPort
+632,30,Electrical Components,Minor Repair,0.35,137.25,89.21,0.0212,0.269,0.07022,0.0368,S3_MultiPort
+740,30,Controls,Minor Repair,0.35,147.07,95.6,0.0102,0.2099,0.0779,0.04082,S3_MultiPort
+757,30,Pitch/Hydraulic System,Minor Repair,0.35,117.94,76.66,0.0714,0.407,0.05594,0.02931,S3_MultiPort
+802,30,Yaw System,Minor Repair,0.35,133.47,86.75,0.0275,0.2939,0.06734,0.03529,S3_MultiPort
+820,30,Generator,Minor Repair,0.35,90.7,58.96,0.2544,0.6274,0.03773,0.01977,S3_MultiPort
+870,30,Pitch/Hydraulic System,Minor Repair,0.35,92.66,60.23,0.236,0.6115,0.03895,0.02041,S3_MultiPort
+943,30,Generator,Major Replacement,0.9,75.96,7.6,0.4155,0.9972,0.02891,0.00091,S3_MultiPort
+955,30,Controls,Minor Repair,0.35,126.6,82.29,0.0428,0.342,0.06221,0.0326,S3_MultiPort
+997,30,Electrical Components,Major Repair,0.55,141.21,63.54,0.0159,0.5699,0.07328,0.02212,S3_MultiPort
+1001,30,Pitch/Hydraulic System,Major Repair,0.55,78.23,35.2,0.3885,0.8795,0.03022,0.00912,S3_MultiPort
+1041,30,Gearbox,Minor Repair,0.35,193.74,125.93,0.0001,0.0447,0.11777,0.06172,S3_MultiPort
+200,31,Electrical Components,Minor Repair,0.35,54.58,35.48,0.6808,0.8772,0.01761,0.00923,S3_MultiPort
+210,31,Service Items,Minor Repair,0.35,43.5,28.27,0.8041,0.9284,0.01253,0.00657,S3_MultiPort
+238,31,Gearbox,Major Replacement,0.9,61.83,6.18,0.5915,0.9983,0.02123,0.00067,S3_MultiPort
+240,31,Pitch/Hydraulic System,Minor Repair,0.35,56.89,36.98,0.6529,0.8648,0.01874,0.00982,S3_MultiPort
+306,31,Safety,Minor Repair,0.35,76.22,49.54,0.4123,0.7395,0.02906,0.01523,S3_MultiPort
+371,31,Contactor/Circuit/Relay,Minor Repair,0.35,89.85,58.4,0.2627,0.6342,0.03719,0.01949,S3_MultiPort
+401,31,Generator,Minor Repair,0.35,70.55,45.86,0.4817,0.7797,0.02588,0.01356,S3_MultiPort
+439,31,Service Items,Minor Repair,0.35,61.27,39.83,0.5985,0.8396,0.02095,0.01098,S3_MultiPort
+467,31,Sensors,Minor Repair,0.35,96.76,62.9,0.2001,0.5781,0.04157,0.02178,S3_MultiPort
+486,31,Service Items,Minor Repair,0.35,46.83,30.44,0.7694,0.9146,0.01399,0.00733,S3_MultiPort
+491,31,Grease/Oil/Cooling Liquid,Minor Repair,0.35,103.03,66.97,0.1522,0.5267,0.04567,0.02394,S3_MultiPort
+529,31,Tower/Foundation,Minor Repair,0.35,95.6,62.14,0.2099,0.5876,0.04082,0.02139,S3_MultiPort
+626,31,Pitch/Hydraulic System,Minor Repair,0.35,89.98,58.48,0.2615,0.6332,0.03727,0.01953,S3_MultiPort
+696,31,Sensors,Minor Repair,0.35,94.9,61.68,0.216,0.5933,0.04037,0.02116,S3_MultiPort
+719,31,Pumps/Motors,Minor Repair,0.35,134.46,87.4,0.0257,0.2872,0.06809,0.03568,S3_MultiPort
+758,31,Heaters/Coolers,Minor Repair,0.35,149.92,97.45,0.0082,0.1945,0.08017,0.04201,S3_MultiPort
+848,31,Generator,Minor Repair,0.35,109.86,71.41,0.1097,0.4711,0.05029,0.02635,S3_MultiPort
+855,31,Electrical Components,Minor Repair,0.35,125.48,81.56,0.0459,0.3501,0.06139,0.03217,S3_MultiPort
+921,31,Pitch/Hydraulic System,Minor Repair,0.35,98.48,64.01,0.1861,0.564,0.04268,0.02237,S3_MultiPort
+931,31,Generator,Major Repair,0.55,82.41,37.08,0.3406,0.8639,0.03267,0.00986,S3_MultiPort
+983,31,Pumps/Motors,Minor Repair,0.35,121.4,78.91,0.0586,0.3805,0.05841,0.03061,S3_MultiPort
+1041,31,Blades,Major Repair,0.55,170.75,76.84,0.0013,0.4049,0.09744,0.02942,S3_MultiPort
+1044,31,Hub,Minor Repair,0.35,160.2,104.13,0.0034,0.1447,0.08855,0.04641,S3_MultiPort
+105,32,Grease/Oil/Cooling Liquid,Minor Repair,0.35,33.03,21.47,0.8962,0.9634,0.00829,0.00434,S3_MultiPort
+132,32,Contactor/Circuit/Relay,Minor Repair,0.35,59.7,38.81,0.6181,0.8488,0.02015,0.01056,S3_MultiPort
+210,32,Service Items,Minor Repair,0.35,52.08,33.85,0.7104,0.89,0.01642,0.0086,S3_MultiPort
+257,32,Pitch/Hydraulic System,Minor Repair,0.35,58.17,37.81,0.637,0.8576,0.01938,0.01015,S3_MultiPort
+297,32,Controls,Minor Repair,0.35,94.16,61.2,0.2225,0.5994,0.0399,0.02091,S3_MultiPort
+439,32,Service Items,Minor Repair,0.35,66.85,43.45,0.5281,0.8046,0.02387,0.01251,S3_MultiPort
+466,32,Blades,Minor Repair,0.35,121.03,78.67,0.0599,0.3833,0.05815,0.03048,S3_MultiPort
+492,32,Service Items,Minor Repair,0.35,51.45,33.45,0.7177,0.8931,0.01612,0.00845,S3_MultiPort
+542,32,Gearbox,Minor Repair,0.35,116.98,76.04,0.0754,0.4145,0.05526,0.02896,S3_MultiPort
+568,32,Generator,Major Replacement,0.9,121.95,12.2,0.0567,0.991,0.05882,0.00186,S3_MultiPort
+578,32,Pitch/Hydraulic System,Minor Repair,0.35,82.81,53.83,0.3361,0.6898,0.03291,0.01725,S3_MultiPort
+585,32,Hub,Minor Repair,0.35,134.54,87.45,0.0255,0.2867,0.06815,0.03571,S3_MultiPort
+645,32,Pumps/Motors,Minor Repair,0.35,125.73,81.73,0.0452,0.3482,0.06157,0.03227,S3_MultiPort
+662,32,Generator,Minor Repair,0.35,25.2,16.38,0.9459,0.9812,0.00552,0.00289,S3_MultiPort
+751,32,Gearbox,Minor Repair,0.35,106.04,68.92,0.1323,0.5021,0.04769,0.02499,S3_MultiPort
+803,32,Hub,Minor Repair,0.35,118.45,76.99,0.0694,0.4031,0.0563,0.0295,S3_MultiPort
+847,32,Pitch/Hydraulic System,Major Repair,0.55,88.83,39.97,0.2728,0.8382,0.03656,0.01104,S3_MultiPort
+879,32,Grease/Oil/Cooling Liquid,Minor Repair,0.35,125.47,81.56,0.0459,0.3502,0.06138,0.03217,S3_MultiPort
+880,32,Pitch/Hydraulic System,Minor Repair,0.35,44.97,29.23,0.789,0.9225,0.01317,0.0069,S3_MultiPort
+893,32,Safety,Minor Repair,0.35,133.15,86.55,0.0281,0.296,0.0671,0.03516,S3_MultiPort
+905,32,Blades,Minor Repair,0.35,140.67,91.44,0.0166,0.2474,0.07287,0.03819,S3_MultiPort
+974,32,Electrical Components,Minor Repair,0.35,170.14,110.59,0.0014,0.1057,0.09692,0.05079,S3_MultiPort
+1049,32,Gearbox,Minor Repair,0.35,110.92,72.1,0.104,0.4625,0.05102,0.02674,S3_MultiPort
+64,33,Heaters/Coolers,Minor Repair,0.35,64.62,42.0,0.5563,0.8189,0.02269,0.01189,S3_MultiPort
+138,33,Blades,Minor Repair,0.35,56.52,36.74,0.6573,0.8668,0.01856,0.00973,S3_MultiPort
+210,33,Service Items,Minor Repair,0.35,84.76,55.1,0.3149,0.6746,0.03408,0.01786,S3_MultiPort
+278,33,Contactor/Circuit/Relay,Minor Repair,0.35,54.85,35.65,0.6775,0.8758,0.01774,0.0093,S3_MultiPort
+368,33,Controls,Minor Repair,0.35,80.08,52.05,0.367,0.7108,0.03129,0.0164,S3_MultiPort
+373,33,Sensors,Minor Repair,0.35,98.55,64.06,0.1856,0.5634,0.04273,0.02239,S3_MultiPort
+399,33,Controls,Minor Repair,0.35,54.05,35.13,0.6872,0.88,0.01735,0.00909,S3_MultiPort
+424,33,Generator,Minor Repair,0.35,82.35,53.53,0.3412,0.6933,0.03264,0.0171,S3_MultiPort
+426,33,Pitch/Hydraulic System,Minor Repair,0.35,67.5,43.87,0.52,0.8003,0.02422,0.01269,S3_MultiPort
+440,33,Service Items,Minor Repair,0.35,88.1,57.26,0.2801,0.6483,0.03611,0.01892,S3_MultiPort
+494,33,Service Items,Minor Repair,0.35,65.26,42.42,0.5482,0.8149,0.02303,0.01207,S3_MultiPort
+685,33,Pitch/Hydraulic System,Minor Repair,0.35,80.87,52.57,0.3579,0.7047,0.03176,0.01665,S3_MultiPort
+713,33,Transformer,Major Repair,0.55,145.97,65.69,0.0111,0.5429,0.07702,0.02325,S3_MultiPort
+800,33,Pitch/Hydraulic System,Minor Repair,0.35,68.57,44.57,0.5066,0.7932,0.0248,0.01299,S3_MultiPort
+826,33,Tower/Foundation,Minor Repair,0.35,161.39,104.9,0.0031,0.1396,0.08954,0.04692,S3_MultiPort
+850,33,Pitch/Hydraulic System,Minor Repair,0.35,48.57,31.57,0.7504,0.9068,0.01478,0.00775,S3_MultiPort
+853,33,Sensors,Major Repair,0.55,127.06,57.18,0.0416,0.6493,0.06255,0.01888,S3_MultiPort
+853,33,Electrical Components,Minor Repair,0.35,161.96,105.27,0.0029,0.1372,0.09002,0.04717,S3_MultiPort
+864,33,Blades,Minor Repair,0.35,140.74,91.48,0.0165,0.247,0.07292,0.03821,S3_MultiPort
+879,33,Grease/Oil/Cooling Liquid,Minor Repair,0.35,131.02,85.16,0.0323,0.3106,0.06549,0.03432,S3_MultiPort
+968,33,Yaw System,Minor Repair,0.35,158.39,102.96,0.004,0.1528,0.08706,0.04562,S3_MultiPort
+18,34,Sensors,Minor Repair,0.35,54.67,35.54,0.6797,0.8768,0.01766,0.00925,S3_MultiPort
+210,34,Service Items,Minor Repair,0.35,64.23,41.75,0.5613,0.8214,0.02248,0.01178,S3_MultiPort
+211,34,Safety,Minor Repair,0.35,60.46,39.3,0.6087,0.8444,0.02053,0.01076,S3_MultiPort
+296,34,Gearbox,Minor Repair,0.35,95.41,62.02,0.2116,0.5891,0.0407,0.02133,S3_MultiPort
+355,34,Blades,Major Replacement,0.9,83.01,8.3,0.334,0.9965,0.03303,0.00104,S3_MultiPort
+368,34,Pitch/Hydraulic System,Minor Repair,0.35,103.71,67.41,0.1475,0.5211,0.04613,0.02417,S3_MultiPort
+412,34,Hub,Minor Repair,0.35,109.87,71.42,0.1096,0.471,0.0503,0.02636,S3_MultiPort
+413,34,Pumps/Motors,Minor Repair,0.35,74.18,48.22,0.437,0.7543,0.0279,0.01462,S3_MultiPort
+441,34,Service Items,Minor Repair,0.35,74.75,48.59,0.4301,0.7502,0.02822,0.01479,S3_MultiPort
+495,34,Service Items,Minor Repair,0.35,56.59,36.78,0.6565,0.8665,0.01859,0.00974,S3_MultiPort
+522,34,Safety,Minor Repair,0.35,83.3,54.14,0.3308,0.686,0.0332,0.0174,S3_MultiPort
+652,34,Generator,Minor Repair,0.35,127.71,83.01,0.04,0.334,0.06303,0.03303,S3_MultiPort
+680,34,Yaw System,Major Repair,0.55,130.52,58.73,0.0334,0.6301,0.06512,0.01966,S3_MultiPort
+720,34,Service Items,Major Repair,0.55,68.78,30.95,0.5039,0.9111,0.02491,0.00752,S3_MultiPort
+722,34,Pitch/Hydraulic System,Minor Repair,0.35,118.41,76.97,0.0696,0.4034,0.05627,0.02949,S3_MultiPort
+796,34,Power Supply/Converter,Minor Repair,0.35,135.82,88.28,0.0234,0.2782,0.06913,0.03623,S3_MultiPort
+848,34,Controls,Minor Repair,0.35,153.12,99.53,0.0063,0.1779,0.08275,0.04337,S3_MultiPort
+878,34,Heaters/Coolers,Minor Repair,0.35,135.68,88.19,0.0236,0.2792,0.06902,0.03617,S3_MultiPort
+886,34,Controls,Minor Repair,0.35,104.53,67.94,0.1421,0.5144,0.04667,0.02446,S3_MultiPort
+890,34,Controls,Minor Repair,0.35,68.94,44.81,0.5018,0.7907,0.025,0.0131,S3_MultiPort
+892,34,Hub,Minor Repair,0.35,140.42,91.27,0.0169,0.249,0.07267,0.03808,S3_MultiPort
+926,34,Gearbox,Minor Repair,0.35,151.02,98.16,0.0075,0.1887,0.08105,0.04247,S3_MultiPort
+932,34,Tower/Foundation,Major Repair,0.55,176.94,79.62,0.0007,0.3722,0.10279,0.03103,S3_MultiPort
+1050,34,Pitch/Hydraulic System,Minor Repair,0.35,120.97,78.63,0.0601,0.3838,0.05811,0.03045,S3_MultiPort
+1069,34,Gearbox,Minor Repair,0.35,118.16,76.8,0.0706,0.4053,0.05609,0.0294,S3_MultiPort
+17,35,Electrical Components,Minor Repair,0.35,45.25,29.41,0.7862,0.9213,0.01329,0.00697,S3_MultiPort
+131,35,Blades,Minor Repair,0.35,66.78,43.41,0.5291,0.8051,0.02383,0.01249,S3_MultiPort
+212,35,Service Items,Minor Repair,0.35,52.68,34.24,0.7034,0.8871,0.0167,0.00875,S3_MultiPort
+227,35,Pitch/Hydraulic System,Minor Repair,0.35,50.41,32.76,0.7297,0.8982,0.01563,0.00819,S3_MultiPort
+300,35,Generator,Major Replacement,0.9,48.71,4.87,0.7488,0.9991,0.01485,0.00047,S3_MultiPort
+303,35,Pumps/Motors,Major Repair,0.55,67.44,30.35,0.5207,0.9152,0.02419,0.0073,S3_MultiPort
+441,35,Service Items,Minor Repair,0.35,66.24,43.06,0.5359,0.8086,0.02354,0.01234,S3_MultiPort
+448,35,Safety,Minor Repair,0.35,105.66,68.68,0.1347,0.5052,0.04743,0.02486,S3_MultiPort
+477,35,Blades,Minor Repair,0.35,92.41,60.06,0.2384,0.6136,0.03879,0.02033,S3_MultiPort
+495,35,Service Items,Minor Repair,0.35,51.06,33.19,0.7223,0.8951,0.01593,0.00835,S3_MultiPort
+540,35,Pitch/Hydraulic System,Minor Repair,0.35,77.76,50.55,0.3939,0.7281,0.02995,0.01569,S3_MultiPort
+577,35,Gearbox,Minor Repair,0.35,115.18,74.87,0.0831,0.4286,0.05399,0.02829,S3_MultiPort
+579,35,Yaw System,Minor Repair,0.35,93.72,60.91,0.2264,0.6029,0.03962,0.02076,S3_MultiPort
+585,35,Safety,Minor Repair,0.35,85.68,55.69,0.3051,0.6674,0.03463,0.01815,S3_MultiPort
+619,35,Blades,Minor Repair,0.35,80.06,52.04,0.3672,0.7108,0.03129,0.0164,S3_MultiPort
+624,35,Pitch/Hydraulic System,Major Repair,0.55,59.55,26.8,0.62,0.9371,0.02007,0.00606,S3_MultiPort
+762,35,Electrical Components,Minor Repair,0.35,135.41,88.02,0.0241,0.2809,0.06882,0.03606,S3_MultiPort
+774,35,Controls,Major Repair,0.55,126.21,56.8,0.0439,0.654,0.06192,0.01869,S3_MultiPort
+963,35,Gearbox,Minor Repair,0.35,129.87,84.41,0.0348,0.3186,0.06463,0.03387,S3_MultiPort
+979,35,Generator,Minor Repair,0.35,101.87,66.22,0.1604,0.5362,0.0449,0.02353,S3_MultiPort
+983,35,Pumps/Motors,Minor Repair,0.35,123.35,80.18,0.0522,0.3658,0.05983,0.03135,S3_MultiPort
+193,36,Electrical Components,Minor Repair,0.35,82.8,53.82,0.3362,0.6899,0.03291,0.01724,S3_MultiPort
+205,36,Blades,Minor Repair,0.35,57.77,37.55,0.6421,0.8599,0.01918,0.01005,S3_MultiPort
+212,36,Service Items,Minor Repair,0.35,52.67,34.24,0.7034,0.8871,0.0167,0.00875,S3_MultiPort
+338,36,Safety,Minor Repair,0.35,82.28,53.48,0.342,0.6939,0.0326,0.01708,S3_MultiPort
+343,36,Hub,Minor Repair,0.35,83.69,54.4,0.3265,0.683,0.03344,0.01752,S3_MultiPort
+366,36,Pitch/Hydraulic System,Minor Repair,0.35,104.51,67.93,0.1422,0.5146,0.04666,0.02445,S3_MultiPort
+373,36,Grease/Oil/Cooling Liquid,Minor Repair,0.35,101.51,65.98,0.1631,0.5392,0.04466,0.02341,S3_MultiPort
+402,36,Pumps/Motors,Minor Repair,0.35,67.23,43.7,0.5234,0.8021,0.02407,0.01262,S3_MultiPort
+434,36,Generator,Major Replacement,0.9,108.99,10.9,0.1146,0.9932,0.04969,0.00157,S3_MultiPort
+443,36,Service Items,Minor Repair,0.35,67.24,43.7,0.5233,0.802,0.02408,0.01262,S3_MultiPort
+452,36,Pitch/Hydraulic System,Minor Repair,0.35,79.93,51.96,0.3687,0.7118,0.03121,0.01636,S3_MultiPort
+495,36,Service Items,Minor Repair,0.35,50.7,32.96,0.7263,0.8968,0.01577,0.00826,S3_MultiPort
+515,36,Sensors,Minor Repair,0.35,127.36,82.79,0.0408,0.3364,0.06277,0.0329,S3_MultiPort
+543,36,Contactor/Circuit/Relay,Major Repair,0.55,93.35,42.01,0.2297,0.8189,0.03939,0.01189,S3_MultiPort
+558,36,Gearbox,Major Replacement,0.9,134.81,13.48,0.0251,0.9884,0.06836,0.00216,S3_MultiPort
+581,36,Electrical Components,Minor Repair,0.35,105.82,68.78,0.1337,0.5038,0.04754,0.02491,S3_MultiPort
+627,36,Pitch/Hydraulic System,Minor Repair,0.35,76.96,50.02,0.4035,0.7341,0.02948,0.01545,S3_MultiPort
+681,36,Pumps/Motors,Major Repair,0.55,79.7,35.86,0.3714,0.8741,0.03107,0.00938,S3_MultiPort
+867,36,Contactor/Circuit/Relay,Minor Repair,0.35,76.01,49.41,0.4148,0.741,0.02894,0.01517,S3_MultiPort
+900,36,Generator,Major Repair,0.55,77.9,35.05,0.3923,0.8806,0.03003,0.00906,S3_MultiPort
+918,36,Pitch/Hydraulic System,Major Repair,0.55,88.02,39.61,0.2809,0.8416,0.03607,0.01089,S3_MultiPort
+994,36,Transformer,Minor Repair,0.35,181.57,118.02,0.0004,0.0711,0.10685,0.056,S3_MultiPort
+1043,36,Tower/Foundation,Minor Repair,0.35,155.94,101.36,0.005,0.1642,0.08504,0.04457,S3_MultiPort
+134,37,Sensors,Minor Repair,0.35,73.35,47.68,0.4471,0.7602,0.02744,0.01438,S3_MultiPort
+212,37,Service Items,Minor Repair,0.35,73.49,47.77,0.4454,0.7592,0.02751,0.01442,S3_MultiPort
+302,37,Yaw System,Minor Repair,0.35,85.61,55.65,0.3059,0.668,0.03459,0.01813,S3_MultiPort
+313,37,Generator,Major Repair,0.55,60.1,27.04,0.6132,0.9357,0.02035,0.00614,S3_MultiPort
+369,37,Electrical Components,Minor Repair,0.35,73.75,47.94,0.4422,0.7573,0.02766,0.0145,S3_MultiPort
+443,37,Service Items,Minor Repair,0.35,80.77,52.5,0.3591,0.7055,0.0317,0.01661,S3_MultiPort
+496,37,Service Items,Minor Repair,0.35,59.5,38.67,0.6206,0.85,0.02004,0.0105,S3_MultiPort
+581,37,Pumps/Motors,Minor Repair,0.35,100.25,65.16,0.1724,0.5495,0.04384,0.02297,S3_MultiPort
+617,37,Hub,Minor Repair,0.35,132.28,85.98,0.0297,0.3019,0.06644,0.03482,S3_MultiPort
+734,37,Sensors,Minor Repair,0.35,127.68,82.99,0.04,0.3342,0.06301,0.03302,S3_MultiPort
+767,37,Electrical Components,Minor Repair,0.35,103.94,67.56,0.146,0.5193,0.04628,0.02425,S3_MultiPort
+786,37,Controls,Minor Repair,0.35,164.23,106.75,0.0024,0.1279,0.09192,0.04817,S3_MultiPort
+790,37,Pitch/Hydraulic System,Minor Repair,0.35,123.66,80.38,0.0513,0.3635,0.06006,0.03147,S3_MultiPort
+863,37,Gearbox,Minor Repair,0.35,136.38,88.65,0.0225,0.2746,0.06956,0.03645,S3_MultiPort
+888,37,Pitch/Hydraulic System,Minor Repair,0.35,94.38,61.35,0.2205,0.5975,0.04004,0.02098,S3_MultiPort
+937,37,Power Supply/Converter,Minor Repair,0.35,145.58,94.63,0.0115,0.2184,0.07671,0.0402,S3_MultiPort
+939,37,Controls,Minor Repair,0.35,123.75,80.44,0.051,0.3629,0.06012,0.03151,S3_MultiPort
+959,37,Generator,Major Replacement,0.9,119.04,11.9,0.0671,0.9915,0.05673,0.00179,S3_MultiPort
+999,37,Electrical Components,Minor Repair,0.35,100.56,65.36,0.1701,0.5469,0.04404,0.02308,S3_MultiPort
+1080,37,Gearbox,Major Replacement,0.9,118.65,11.86,0.0687,0.9916,0.05644,0.00178,S3_MultiPort
+212,38,Service Items,Minor Repair,0.35,46.04,29.92,0.7779,0.918,0.01364,0.00715,S3_MultiPort
+249,38,Generator,Major Replacement,0.9,60.96,6.1,0.6023,0.9984,0.02079,0.00066,S3_MultiPort
+294,38,Tower/Foundation,Major Replacement,0.9,87.84,8.78,0.2827,0.996,0.03595,0.00114,S3_MultiPort
+306,38,Safety,Minor Repair,0.35,95.16,61.86,0.2137,0.5911,0.04054,0.02125,S3_MultiPort
+366,38,Blades,Minor Repair,0.35,55.26,35.92,0.6727,0.8737,0.01794,0.0094,S3_MultiPort
+405,38,Blades,Minor Repair,0.35,40.92,26.6,0.8294,0.9383,0.01143,0.00599,S3_MultiPort
+445,38,Service Items,Minor Repair,0.35,62.92,40.9,0.5777,0.8295,0.0218,0.01142,S3_MultiPort
+496,38,Service Items,Minor Repair,0.35,47.9,31.14,0.7577,0.9098,0.01448,0.00759,S3_MultiPort
+547,38,Hub,Minor Repair,0.35,98.1,63.77,0.1891,0.5671,0.04244,0.02224,S3_MultiPort
+553,38,Service Items,Minor Repair,0.35,39.14,25.44,0.8459,0.9446,0.01069,0.0056,S3_MultiPort
+598,38,Controls,Major Repair,0.55,92.16,41.47,0.2406,0.8241,0.03864,0.01166,S3_MultiPort
+659,38,Blades,Minor Repair,0.35,62.6,40.69,0.5819,0.8315,0.02163,0.01133,S3_MultiPort
+730,38,Electrical Components,Minor Repair,0.35,156.76,101.89,0.0046,0.1603,0.08571,0.04492,S3_MultiPort
+735,38,Safety,Minor Repair,0.35,122.86,79.86,0.0538,0.3695,0.05947,0.03117,S3_MultiPort
+814,38,Gearbox,Major Replacement,0.9,130.48,13.05,0.0335,0.9893,0.0651,0.00206,S3_MultiPort
+858,38,Pitch/Hydraulic System,Major Repair,0.55,150.85,67.88,0.0076,0.5152,0.08091,0.02443,S3_MultiPort
+937,38,Pitch/Hydraulic System,Minor Repair,0.35,77.88,50.62,0.3925,0.7272,0.03002,0.01573,S3_MultiPort
+941,38,Yaw System,Minor Repair,0.35,157.77,102.55,0.0042,0.1556,0.08654,0.04535,S3_MultiPort
+1040,38,Generator,Major Repair,0.55,119.1,53.59,0.0669,0.6926,0.05676,0.01713,S3_MultiPort
+183,39,Pitch/Hydraulic System,Major Repair,0.55,59.34,26.7,0.6226,0.9377,0.01996,0.00603,S3_MultiPort
+213,39,Service Items,Minor Repair,0.35,81.2,52.78,0.3542,0.7022,0.03195,0.01674,S3_MultiPort
+413,39,Hub,Minor Repair,0.35,97.94,63.66,0.1904,0.5684,0.04233,0.02218,S3_MultiPort
+445,39,Gearbox,Minor Repair,0.35,97.33,63.26,0.1955,0.5735,0.04193,0.02197,S3_MultiPort
+446,39,Service Items,Minor Repair,0.35,85.78,55.76,0.3041,0.6666,0.0347,0.01818,S3_MultiPort
+456,39,Sensors,Minor Repair,0.35,98.22,63.85,0.1882,0.5661,0.04251,0.02228,S3_MultiPort
+483,39,Controls,Minor Repair,0.35,80.65,52.42,0.3604,0.7064,0.03163,0.01658,S3_MultiPort
+496,39,Service Items,Minor Repair,0.35,62.76,40.79,0.5798,0.8306,0.02171,0.01138,S3_MultiPort
+638,39,Tower/Foundation,Minor Repair,0.35,115.47,75.06,0.0818,0.4263,0.05419,0.0284,S3_MultiPort
+743,39,Contactor/Circuit/Relay,Minor Repair,0.35,120.41,78.27,0.0621,0.388,0.05771,0.03024,S3_MultiPort
+785,39,Power Supply/Converter,Minor Repair,0.35,160.82,104.54,0.0032,0.142,0.08907,0.04668,S3_MultiPort
+833,39,Gearbox,Major Replacement,0.9,118.26,11.83,0.0702,0.9916,0.05617,0.00178,S3_MultiPort
+846,39,Blades,Minor Repair,0.35,160.33,104.22,0.0034,0.1442,0.08866,0.04646,S3_MultiPort
+855,39,Electrical Components,Minor Repair,0.35,121.32,78.86,0.0589,0.3811,0.05836,0.03058,S3_MultiPort
+925,39,Gearbox,Major Replacement,0.9,24.83,2.48,0.9478,0.9998,0.0054,0.00017,S3_MultiPort
+934,39,Pitch/Hydraulic System,Major Repair,0.55,132.7,59.72,0.0289,0.6179,0.06676,0.02015,S3_MultiPort
+939,39,Controls,Minor Repair,0.35,111.42,72.43,0.1013,0.4585,0.05137,0.02692,S3_MultiPort
+982,39,Pumps/Motors,Minor Repair,0.35,156.18,101.51,0.0049,0.163,0.08524,0.04467,S3_MultiPort
+982,39,Electrical Components,Minor Repair,0.35,87.86,57.11,0.2825,0.6501,0.03597,0.01885,S3_MultiPort
+213,40,Service Items,Minor Repair,0.35,72.39,47.05,0.4589,0.767,0.0269,0.0141,S3_MultiPort
+269,40,Generator,Minor Repair,0.35,54.66,35.53,0.6799,0.8768,0.01765,0.00925,S3_MultiPort
+276,40,Yaw System,Major Repair,0.55,64.07,28.83,0.5633,0.925,0.0224,0.00676,S3_MultiPort
+379,40,Safety,Minor Repair,0.35,76.95,50.02,0.4036,0.7341,0.02948,0.01545,S3_MultiPort
+404,40,Grease/Oil/Cooling Liquid,Minor Repair,0.35,67.77,44.05,0.5166,0.7985,0.02436,0.01277,S3_MultiPort
+447,40,Service Items,Minor Repair,0.35,80.05,52.04,0.3672,0.7109,0.03128,0.01639,S3_MultiPort
+463,40,Electrical Components,Minor Repair,0.35,72.74,47.28,0.4546,0.7645,0.0271,0.0142,S3_MultiPort
+491,40,Yaw System,Minor Repair,0.35,58.83,38.24,0.6289,0.8539,0.01971,0.01033,S3_MultiPort
+496,40,Service Items,Minor Repair,0.35,59.04,38.37,0.6264,0.8527,0.01981,0.01038,S3_MultiPort
+584,40,Heaters/Coolers,Minor Repair,0.35,131.22,85.3,0.0319,0.3092,0.06565,0.0344,S3_MultiPort
+636,40,Generator,Minor Repair,0.35,87.53,56.89,0.2859,0.6528,0.03576,0.01874,S3_MultiPort
+681,40,Controls,Minor Repair,0.35,109.54,71.2,0.1115,0.4737,0.05007,0.02624,S3_MultiPort
+710,40,Gearbox,Minor Repair,0.35,154.8,100.62,0.0055,0.1696,0.08412,0.04408,S3_MultiPort
+771,40,Gearbox,Major Repair,0.55,108.62,48.88,0.1167,0.7469,0.04944,0.01492,S3_MultiPort
+821,40,Power Supply/Converter,Minor Repair,0.35,152.51,99.13,0.0066,0.181,0.08225,0.0431,S3_MultiPort
+845,40,Gearbox,Minor Repair,0.35,56.88,36.97,0.653,0.8649,0.01873,0.00982,S3_MultiPort
+851,40,Contactor/Circuit/Relay,Major Repair,0.55,164.32,73.94,0.0024,0.4399,0.09199,0.02777,S3_MultiPort
+1030,40,Generator,Minor Repair,0.35,110.89,72.08,0.1041,0.4627,0.051,0.02673,S3_MultiPort
+49,41,Gearbox,Major Replacement,0.9,53.84,5.38,0.6897,0.9988,0.01725,0.00055,S3_MultiPort
+65,41,Pitch/Hydraulic System,Minor Repair,0.35,64.76,42.1,0.5545,0.818,0.02276,0.01193,S3_MultiPort
+213,41,Service Items,Minor Repair,0.35,46.25,30.07,0.7755,0.9171,0.01374,0.0072,S3_MultiPort
+297,41,Generator,Minor Repair,0.35,93.41,60.72,0.2292,0.6054,0.03943,0.02066,S3_MultiPort
+427,41,Safety,Minor Repair,0.35,106.94,69.51,0.1267,0.4948,0.04829,0.02531,S3_MultiPort
+443,41,Grease/Oil/Cooling Liquid,Minor Repair,0.35,82.13,53.39,0.3437,0.695,0.03251,0.01704,S3_MultiPort
+447,41,Service Items,Minor Repair,0.35,63.07,40.99,0.5759,0.8287,0.02187,0.01146,S3_MultiPort
+455,41,Generator,Major Repair,0.55,82.72,37.22,0.3372,0.8627,0.03286,0.00992,S3_MultiPort
+474,41,Pitch/Hydraulic System,Minor Repair,0.35,100.1,65.06,0.1736,0.5507,0.04374,0.02292,S3_MultiPort
+478,41,Electrical Components,Major Repair,0.55,122.12,54.95,0.0562,0.6763,0.05894,0.01779,S3_MultiPort
+498,41,Service Items,Minor Repair,0.35,48.99,31.85,0.7457,0.9049,0.01498,0.00785,S3_MultiPort
+520,41,Contactor/Circuit/Relay,Minor Repair,0.35,117.89,76.63,0.0716,0.4074,0.05591,0.0293,S3_MultiPort
+583,41,Yaw System,Minor Repair,0.35,100.78,65.51,0.1684,0.5451,0.04419,0.02316,S3_MultiPort
+647,41,Pumps/Motors,Minor Repair,0.35,137.47,89.35,0.0208,0.2676,0.07039,0.03689,S3_MultiPort
+680,41,Pitch/Hydraulic System,Minor Repair,0.35,95.06,61.79,0.2145,0.592,0.04048,0.02121,S3_MultiPort
+697,41,Safety,Minor Repair,0.35,107.51,69.88,0.1232,0.4901,0.04868,0.02551,S3_MultiPort
+716,41,Hub,Minor Repair,0.35,109.31,71.05,0.1128,0.4755,0.04991,0.02616,S3_MultiPort
+716,41,Pitch/Hydraulic System,Minor Repair,0.35,63.79,41.46,0.5668,0.8242,0.02225,0.01166,S3_MultiPort
+859,41,Blades,Minor Repair,0.35,164.99,107.25,0.0022,0.1248,0.09256,0.0485,S3_MultiPort
+864,41,Pumps/Motors,Minor Repair,0.35,119.35,77.58,0.066,0.3961,0.05695,0.02984,S3_MultiPort
+918,41,Blades,Minor Repair,0.35,114.25,74.26,0.0874,0.436,0.05333,0.02795,S3_MultiPort
+1026,41,Generator,Major Repair,0.55,118.22,53.2,0.0703,0.6972,0.05614,0.01695,S3_MultiPort
+104,42,Tower/Foundation,Minor Repair,0.35,22.49,14.62,0.959,0.9858,0.00466,0.00244,S3_MultiPort
+176,42,Sensors,Minor Repair,0.35,76.93,50.01,0.4038,0.7342,0.02947,0.01544,S3_MultiPort
+213,42,Service Items,Minor Repair,0.35,73.21,47.58,0.4489,0.7612,0.02735,0.01434,S3_MultiPort
+302,42,Generator,Minor Repair,0.35,58.69,38.15,0.6307,0.8547,0.01964,0.01029,S3_MultiPort
+369,42,Yaw System,Minor Repair,0.35,92.06,59.84,0.2416,0.6164,0.03858,0.02022,S3_MultiPort
+401,42,Controls,Minor Repair,0.35,99.35,64.58,0.1793,0.5569,0.04325,0.02266,S3_MultiPort
+423,42,Electrical Components,Minor Repair,0.35,112.15,72.9,0.0976,0.4527,0.05187,0.02718,S3_MultiPort
+437,42,Blades,Minor Repair,0.35,74.2,48.23,0.4368,0.7542,0.02791,0.01463,S3_MultiPort
+439,42,Electrical Components,Minor Repair,0.35,73.9,48.03,0.4404,0.7563,0.02774,0.01454,S3_MultiPort
+447,42,Service Items,Minor Repair,0.35,80.58,52.38,0.3612,0.7069,0.03159,0.01656,S3_MultiPort
+498,42,Service Items,Minor Repair,0.35,60.38,39.25,0.6096,0.8449,0.02049,0.01074,S3_MultiPort
+507,42,Heaters/Coolers,Minor Repair,0.35,118.75,77.19,0.0683,0.4008,0.05651,0.02962,S3_MultiPort
+544,42,Heaters/Coolers,Minor Repair,0.35,82.19,53.42,0.3431,0.6946,0.03254,0.01705,S3_MultiPort
+551,42,Generator,Minor Repair,0.35,73.15,47.55,0.4496,0.7616,0.02732,0.01432,S3_MultiPort
+575,42,Gearbox,Major Replacement,0.9,120.71,12.07,0.061,0.9912,0.05792,0.00183,S3_MultiPort
+625,42,Pitch/Hydraulic System,Minor Repair,0.35,126.82,82.43,0.0423,0.3403,0.06237,0.03269,S3_MultiPort
+684,42,Controls,Major Repair,0.55,104.58,47.06,0.1417,0.7669,0.04671,0.0141,S3_MultiPort
+739,42,Pumps/Motors,Major Repair,0.55,124.39,55.98,0.0491,0.664,0.06059,0.01829,S3_MultiPort
+762,42,Pitch/Hydraulic System,Minor Repair,0.35,101.43,65.93,0.1636,0.5398,0.04462,0.02338,S3_MultiPort
+829,42,Gearbox,Major Replacement,0.9,48.07,4.81,0.7559,0.9991,0.01456,0.00046,S3_MultiPort
+839,42,Generator,Major Repair,0.55,87.55,39.4,0.2857,0.8435,0.03577,0.0108,S3_MultiPort
+966,42,Tower/Foundation,Minor Repair,0.35,137.62,89.45,0.0206,0.2666,0.07051,0.03695,S3_MultiPort
+1047,42,Power Supply/Converter,Minor Repair,0.35,157.21,102.18,0.0045,0.1582,0.08608,0.04511,S3_MultiPort
+1059,42,Controls,Minor Repair,0.35,100.06,65.04,0.1739,0.551,0.04371,0.02291,S3_MultiPort
+162,43,Tower/Foundation,Major Repair,0.55,58.45,26.3,0.6336,0.9399,0.01952,0.00589,S3_MultiPort
+186,43,Controls,Major Repair,0.55,66.13,29.76,0.5373,0.9191,0.02349,0.00709,S3_MultiPort
+213,43,Service Items,Minor Repair,0.35,78.51,51.03,0.3852,0.7226,0.03038,0.01592,S3_MultiPort
+306,43,Generator,Major Repair,0.55,97.25,43.76,0.1961,0.8015,0.04188,0.01264,S3_MultiPort
+371,43,Contactor/Circuit/Relay,Minor Repair,0.35,86.92,56.5,0.2921,0.6576,0.03539,0.01855,S3_MultiPort
+376,43,Pumps/Motors,Major Repair,0.55,97.67,43.95,0.1926,0.7995,0.04216,0.01273,S3_MultiPort
+420,43,Pitch/Hydraulic System,Minor Repair,0.35,108.73,70.68,0.1161,0.4802,0.04952,0.02595,S3_MultiPort
+453,43,Pumps/Motors,Minor Repair,0.35,54.95,35.72,0.6763,0.8753,0.01779,0.00932,S3_MultiPort
+456,43,Service Items,Minor Repair,0.35,86.03,55.92,0.3014,0.6647,0.03485,0.01826,S3_MultiPort
+457,43,Safety,Minor Repair,0.35,113.05,73.48,0.0931,0.4455,0.05249,0.02751,S3_MultiPort
+476,43,Gearbox,Minor Repair,0.35,116.11,75.47,0.0791,0.4213,0.05464,0.02863,S3_MultiPort
+498,43,Service Items,Minor Repair,0.35,61.92,40.25,0.5904,0.8357,0.02128,0.01115,S3_MultiPort
+503,43,Electrical Components,Minor Repair,0.35,99.55,64.71,0.1777,0.5552,0.04338,0.02273,S3_MultiPort
+537,43,Pitch/Hydraulic System,Minor Repair,0.35,87.68,56.99,0.2844,0.6516,0.03585,0.01879,S3_MultiPort
+544,43,Heaters/Coolers,Minor Repair,0.35,108.37,70.44,0.1182,0.4831,0.04927,0.02582,S3_MultiPort
+581,43,Controls,Minor Repair,0.35,85.76,55.74,0.3043,0.6668,0.03468,0.01818,S3_MultiPort
+628,43,Yaw System,Minor Repair,0.35,120.2,78.13,0.0628,0.3896,0.05755,0.03016,S3_MultiPort
+689,43,Blades,Minor Repair,0.35,128.49,83.52,0.038,0.3284,0.06361,0.03333,S3_MultiPort
+693,43,Pitch/Hydraulic System,Major Repair,0.55,78.99,35.55,0.3796,0.8767,0.03066,0.00926,S3_MultiPort
+734,43,Grease/Oil/Cooling Liquid,Minor Repair,0.35,113.2,73.58,0.0924,0.4443,0.0526,0.02757,S3_MultiPort
+767,43,Grease/Oil/Cooling Liquid,Minor Repair,0.35,78.58,51.08,0.3843,0.722,0.03042,0.01594,S3_MultiPort
+772,43,Tower/Foundation,Major Repair,0.55,112.3,50.54,0.0968,0.7282,0.05198,0.01569,S3_MultiPort
+782,43,Gearbox,Major Repair,0.55,119.47,53.76,0.0655,0.6906,0.05703,0.01722,S3_MultiPort
+893,43,Grease/Oil/Cooling Liquid,Minor Repair,0.35,52.08,33.85,0.7104,0.8901,0.01641,0.0086,S3_MultiPort
+939,43,Controls,Minor Repair,0.35,102.74,66.78,0.1542,0.529,0.04548,0.02384,S3_MultiPort
+990,43,Generator,Major Replacement,0.9,140.76,14.08,0.0165,0.9871,0.07294,0.00231,S3_MultiPort
+1005,43,Gearbox,Major Replacement,0.9,85.76,8.58,0.3043,0.9962,0.03469,0.0011,S3_MultiPort
+1036,43,Gearbox,Minor Repair,0.35,12.58,8.17,0.9902,0.9967,0.00195,0.00102,S3_MultiPort
+1056,43,Hub,Major Repair,0.55,169.56,76.3,0.0014,0.4113,0.09643,0.02911,S3_MultiPort
+1065,43,Pitch/Hydraulic System,Major Repair,0.55,88.55,39.85,0.2756,0.8394,0.03639,0.01098,S3_MultiPort
+155,44,Gearbox,Major Replacement,0.9,57.33,5.73,0.6475,0.9986,0.01896,0.0006,S3_MultiPort
+174,44,Generator,Major Repair,0.55,57.22,25.75,0.6487,0.9429,0.01891,0.00571,S3_MultiPort
+214,44,Service Items,Minor Repair,0.35,85.88,55.82,0.303,0.6658,0.03476,0.01821,S3_MultiPort
+223,44,Pitch/Hydraulic System,Minor Repair,0.35,76.14,49.49,0.4132,0.74,0.02902,0.01521,S3_MultiPort
+374,44,Blades,Minor Repair,0.35,72.64,47.22,0.4558,0.7652,0.02704,0.01417,S3_MultiPort
+423,44,Electrical Components,Minor Repair,0.35,94.84,61.64,0.2165,0.5938,0.04034,0.02114,S3_MultiPort
+456,44,Service Items,Minor Repair,0.35,90.82,59.03,0.2533,0.6264,0.0378,0.01981,S3_MultiPort
+486,44,Sensors,Minor Repair,0.35,103.74,67.43,0.1474,0.5209,0.04614,0.02418,S3_MultiPort
+499,44,Service Items,Minor Repair,0.35,65.03,42.27,0.5511,0.8163,0.02291,0.012,S3_MultiPort
+583,44,Contactor/Circuit/Relay,Minor Repair,0.35,127.72,83.01,0.0399,0.3339,0.06303,0.03303,S3_MultiPort
+617,44,Hub,Minor Repair,0.35,114.97,74.73,0.0841,0.4303,0.05384,0.02821,S3_MultiPort
+670,44,Gearbox,Minor Repair,0.35,78.73,51.18,0.3826,0.7209,0.03051,0.01599,S3_MultiPort
+750,44,Hub,Minor Repair,0.35,92.73,60.28,0.2354,0.6109,0.039,0.02044,S3_MultiPort
+766,44,Yaw System,Minor Repair,0.35,153.31,99.65,0.0062,0.177,0.0829,0.04344,S3_MultiPort
+878,44,Heaters/Coolers,Minor Repair,0.35,135.61,88.15,0.0237,0.2796,0.06897,0.03614,S3_MultiPort
+948,44,Pitch/Hydraulic System,Minor Repair,0.35,153.49,99.77,0.0061,0.1761,0.08305,0.04352,S3_MultiPort
+969,44,Pitch/Hydraulic System,Minor Repair,0.35,102.77,66.8,0.1541,0.5288,0.0455,0.02384,S3_MultiPort
+1072,44,Controls,Minor Repair,0.35,161.08,104.7,0.0032,0.1409,0.08928,0.04679,S3_MultiPort
+1074,44,Contactor/Circuit/Relay,Major Repair,0.55,150.01,67.51,0.0081,0.5199,0.08024,0.02422,S3_MultiPort
+1094,44,Generator,Major Repair,0.55,156.75,70.54,0.0046,0.4819,0.08571,0.02587,S3_MultiPort
+102,45,Gearbox,Major Replacement,0.9,68.21,6.82,0.5111,0.9979,0.0246,0.00078,S3_MultiPort
+178,45,Grease/Oil/Cooling Liquid,Minor Repair,0.35,78.36,50.94,0.3869,0.7236,0.0303,0.01588,S3_MultiPort
+214,45,Service Items,Minor Repair,0.35,76.94,50.01,0.4037,0.7342,0.02947,0.01545,S3_MultiPort
+239,45,Generator,Major Repair,0.55,85.43,38.44,0.3078,0.8521,0.03448,0.01041,S3_MultiPort
+360,45,Gearbox,Major Replacement,0.9,41.82,4.18,0.8207,0.9994,0.01181,0.00037,S3_MultiPort
+361,45,Hub,Major Repair,0.55,102.23,46.0,0.1579,0.7782,0.04514,0.01363,S3_MultiPort
+375,45,Grease/Oil/Cooling Liquid,Minor Repair,0.35,78.94,51.31,0.3802,0.7193,0.03063,0.01605,S3_MultiPort
+445,45,Grease/Oil/Cooling Liquid,Minor Repair,0.35,61.31,39.85,0.598,0.8393,0.02097,0.01099,S3_MultiPort
+457,45,Service Items,Minor Repair,0.35,85.01,55.26,0.3122,0.6727,0.03423,0.01794,S3_MultiPort
+472,45,Generator,Minor Repair,0.35,71.44,46.44,0.4707,0.7736,0.02637,0.01382,S3_MultiPort
+499,45,Service Items,Minor Repair,0.35,61.26,39.82,0.5987,0.8397,0.02094,0.01097,S3_MultiPort
+503,45,Controls,Minor Repair,0.35,89.0,57.85,0.271,0.641,0.03667,0.01922,S3_MultiPort
+529,45,Hub,Minor Repair,0.35,70.0,45.5,0.4886,0.7835,0.02558,0.0134,S3_MultiPort
+655,45,Pitch/Hydraulic System,Major Repair,0.55,113.89,51.25,0.0891,0.72,0.05308,0.01602,S3_MultiPort
+865,45,Contactor/Circuit/Relay,Minor Repair,0.35,138.83,90.24,0.0189,0.2589,0.07144,0.03744,S3_MultiPort
+867,45,Blades,Minor Repair,0.35,154.0,100.1,0.0058,0.1735,0.08347,0.04374,S3_MultiPort
+935,45,Pitch/Hydraulic System,Minor Repair,0.35,89.25,58.01,0.2686,0.639,0.03682,0.0193,S3_MultiPort
+972,45,Grease/Oil/Cooling Liquid,Major Repair,0.55,109.85,49.43,0.1098,0.7407,0.05028,0.01518,S3_MultiPort
+974,45,Safety,Major Repair,0.55,180.2,81.09,0.0005,0.3554,0.10564,0.03189,S3_MultiPort
+980,45,Pitch/Hydraulic System,Minor Repair,0.35,64.01,41.61,0.564,0.8228,0.02237,0.01172,S3_MultiPort
+999,45,Electrical Components,Minor Repair,0.35,174.62,113.5,0.0009,0.0909,0.10078,0.05281,S3_MultiPort
+122,46,Gearbox,Minor Repair,0.35,59.73,38.82,0.6178,0.8487,0.02016,0.01056,S3_MultiPort
+189,46,Pitch/Hydraulic System,Major Repair,0.55,52.27,23.52,0.7082,0.9542,0.0165,0.00498,S3_MultiPort
+215,46,Service Items,Minor Repair,0.35,47.21,30.69,0.7653,0.9129,0.01417,0.00742,S3_MultiPort
+373,46,Sensors,Minor Repair,0.35,96.29,62.59,0.2041,0.582,0.04126,0.02162,S3_MultiPort
+399,46,Blades,Minor Repair,0.35,67.07,43.6,0.5254,0.8031,0.02399,0.01257,S3_MultiPort
+425,46,Gearbox,Minor Repair,0.35,81.82,53.18,0.3472,0.6974,0.03232,0.01694,S3_MultiPort
+457,46,Service Items,Minor Repair,0.35,65.69,42.7,0.5429,0.8121,0.02325,0.01218,S3_MultiPort
+499,46,Service Items,Minor Repair,0.35,48.7,31.65,0.749,0.9062,0.01484,0.00778,S3_MultiPort
+635,46,Heaters/Coolers,Minor Repair,0.35,118.86,77.26,0.0678,0.3999,0.0566,0.02966,S3_MultiPort
+690,46,Gearbox,Minor Repair,0.35,91.18,59.27,0.2498,0.6235,0.03803,0.01993,S3_MultiPort
+746,46,Safety,Minor Repair,0.35,143.47,93.26,0.0135,0.2306,0.07505,0.03933,S3_MultiPort
+865,46,Contactor/Circuit/Relay,Minor Repair,0.35,126.09,81.96,0.0442,0.3456,0.06184,0.0324,S3_MultiPort
+944,46,Pitch/Hydraulic System,Minor Repair,0.35,131.52,85.49,0.0313,0.3071,0.06587,0.03452,S3_MultiPort
+963,46,Generator,Minor Repair,0.35,174.71,113.56,0.0009,0.0907,0.10085,0.05285,S3_MultiPort
+996,46,Yaw System,Minor Repair,0.35,192.57,125.17,0.0001,0.0468,0.1167,0.06116,S3_MultiPort
+1054,46,Controls,Minor Repair,0.35,186.53,121.25,0.0002,0.0591,0.11126,0.05831,S3_MultiPort
+1070,46,Hub,Minor Repair,0.35,164.77,107.1,0.0023,0.1257,0.09237,0.04841,S3_MultiPort
+34,47,Gearbox,Major Replacement,0.9,19.86,1.99,0.9698,0.9999,0.00387,0.00012,S3_MultiPort
+67,47,Power Supply/Converter,Minor Repair,0.35,55.9,36.34,0.6649,0.8702,0.01825,0.00957,S3_MultiPort
+129,47,Electrical Components,Minor Repair,0.35,70.35,45.73,0.4842,0.7811,0.02577,0.01351,S3_MultiPort
+201,47,Contactor/Circuit/Relay,Minor Repair,0.35,76.21,49.53,0.4125,0.7396,0.02905,0.01523,S3_MultiPort
+215,47,Service Items,Minor Repair,0.35,55.02,35.76,0.6755,0.8749,0.01782,0.00934,S3_MultiPort
+337,47,Controls,Minor Repair,0.35,63.99,41.59,0.5643,0.8229,0.02235,0.01171,S3_MultiPort
+369,47,Electrical Components,Minor Repair,0.35,76.73,49.87,0.4062,0.7357,0.02935,0.01538,S3_MultiPort
+466,47,Blades,Minor Repair,0.35,90.85,59.05,0.253,0.6262,0.03782,0.01982,S3_MultiPort
+468,47,Service Items,Minor Repair,0.35,71.76,46.65,0.4667,0.7714,0.02655,0.01391,S3_MultiPort
+500,47,Service Items,Minor Repair,0.35,51.65,33.57,0.7154,0.8922,0.01621,0.00849,S3_MultiPort
+532,47,Sensors,Minor Repair,0.35,127.65,82.97,0.0401,0.3344,0.06298,0.03301,S3_MultiPort
+548,47,Blades,Minor Repair,0.35,70.05,45.53,0.488,0.7832,0.02561,0.01342,S3_MultiPort
+584,47,Contactor/Circuit/Relay,Minor Repair,0.35,102.53,66.65,0.1557,0.5308,0.04534,0.02376,S3_MultiPort
+728,47,Pitch/Hydraulic System,Minor Repair,0.35,121.23,78.8,0.0592,0.3818,0.0583,0.03055,S3_MultiPort
+756,47,Contactor/Circuit/Relay,Minor Repair,0.35,90.65,58.92,0.255,0.6278,0.03769,0.01975,S3_MultiPort
+863,47,Generator,Minor Repair,0.35,178.87,116.27,0.0006,0.0784,0.10448,0.05475,S3_MultiPort
+869,47,Grease/Oil/Cooling Liquid,Minor Repair,0.35,154.1,100.16,0.0058,0.1731,0.08354,0.04378,S3_MultiPort
+871,47,Heaters/Coolers,Minor Repair,0.35,146.4,95.16,0.0108,0.2137,0.07736,0.04054,S3_MultiPort
+879,47,Sensors,Minor Repair,0.35,131.97,85.78,0.0303,0.3041,0.06621,0.0347,S3_MultiPort
+886,47,Yaw System,Minor Repair,0.35,152.09,98.86,0.0069,0.1831,0.08191,0.04293,S3_MultiPort
+945,47,Pitch/Hydraulic System,Minor Repair,0.35,109.8,71.37,0.11,0.4715,0.05025,0.02633,S3_MultiPort
+969,47,Tower/Foundation,Minor Repair,0.35,178.91,116.29,0.0006,0.0783,0.10451,0.05477,S3_MultiPort
+984,47,Generator,Minor Repair,0.35,133.27,86.62,0.0278,0.2952,0.06719,0.03521,S3_MultiPort
+35,48,Controls,Minor Repair,0.35,45.04,29.28,0.7883,0.9222,0.0132,0.00692,S3_MultiPort
+56,48,Controls,Minor Repair,0.35,32.28,20.98,0.9018,0.9654,0.00801,0.0042,S3_MultiPort
+215,48,Service Items,Minor Repair,0.35,44.82,29.13,0.7907,0.9231,0.0131,0.00687,S3_MultiPort
+412,48,Pitch/Hydraulic System,Minor Repair,0.35,97.58,63.43,0.1934,0.5714,0.0421,0.02206,S3_MultiPort
+467,48,Safety,Minor Repair,0.35,87.46,56.85,0.2866,0.6533,0.03572,0.01872,S3_MultiPort
+468,48,Service Items,Minor Repair,0.35,65.13,42.33,0.5499,0.8157,0.02296,0.01203,S3_MultiPort
+503,48,Service Items,Minor Repair,0.35,47.33,30.77,0.7639,0.9124,0.01422,0.00745,S3_MultiPort
+578,48,Generator,Minor Repair,0.35,126.6,82.29,0.0428,0.3419,0.06221,0.0326,S3_MultiPort
+583,48,Generator,Minor Repair,0.35,83.29,54.14,0.3309,0.6861,0.0332,0.0174,S3_MultiPort
+646,48,Blades,Minor Repair,0.35,130.27,84.67,0.0339,0.3158,0.06493,0.03403,S3_MultiPort
+655,48,Gearbox,Major Repair,0.55,104.0,46.8,0.1456,0.7697,0.04632,0.01398,S3_MultiPort
+697,48,Safety,Minor Repair,0.35,84.85,55.15,0.314,0.6739,0.03413,0.01789,S3_MultiPort
+728,48,Generator,Major Repair,0.55,74.14,33.36,0.4375,0.8938,0.02788,0.00842,S3_MultiPort
+731,48,Electrical Components,Minor Repair,0.35,112.04,72.83,0.0981,0.4535,0.0518,0.02714,S3_MultiPort
+746,48,Sensors,Major Repair,0.55,160.71,72.32,0.0033,0.4598,0.08897,0.02686,S3_MultiPort
+856,48,Pumps/Motors,Minor Repair,0.35,160.97,104.63,0.0032,0.1414,0.0892,0.04674,S3_MultiPort
+883,48,Blades,Minor Repair,0.35,118.67,77.14,0.0686,0.4013,0.05646,0.02959,S3_MultiPort
+1061,48,Yaw System,Minor Repair,0.35,192.26,124.97,0.0001,0.0474,0.11643,0.06101,S3_MultiPort
+216,49,Service Items,Minor Repair,0.35,51.6,33.54,0.716,0.8924,0.01619,0.00848,S3_MultiPort
+314,49,Generator,Minor Repair,0.35,75.29,48.94,0.4234,0.7462,0.02853,0.01495,S3_MultiPort
+338,49,Pumps/Motors,Minor Repair,0.35,100.66,65.43,0.1693,0.5461,0.04411,0.02311,S3_MultiPort
+399,49,Controls,Minor Repair,0.35,83.76,54.45,0.3257,0.6824,0.03348,0.01755,S3_MultiPort
+468,49,Service Items,Minor Repair,0.35,69.54,45.2,0.4944,0.7867,0.02533,0.01327,S3_MultiPort
+504,49,Service Items,Minor Repair,0.35,50.2,32.63,0.732,0.8992,0.01553,0.00814,S3_MultiPort
+549,49,Yaw System,Minor Repair,0.35,131.08,85.2,0.0322,0.3102,0.06554,0.03435,S3_MultiPort
+589,49,Grease/Oil/Cooling Liquid,Minor Repair,0.35,109.63,71.26,0.111,0.4729,0.05013,0.02627,S3_MultiPort
+603,49,Sensors,Minor Repair,0.35,92.33,60.01,0.2391,0.6142,0.03874,0.0203,S3_MultiPort
+721,49,Contactor/Circuit/Relay,Minor Repair,0.35,127.57,82.92,0.0403,0.335,0.06293,0.03298,S3_MultiPort
+734,49,Safety,Minor Repair,0.35,119.45,77.64,0.0656,0.3954,0.05701,0.02988,S3_MultiPort
+738,49,Blades,Minor Repair,0.35,157.88,102.62,0.0042,0.1551,0.08663,0.0454,S3_MultiPort
+775,49,Pitch/Hydraulic System,Minor Repair,0.35,151.99,98.8,0.0069,0.1836,0.08184,0.04289,S3_MultiPort
+857,49,Pumps/Motors,Minor Repair,0.35,138.43,89.98,0.0195,0.2614,0.07113,0.03728,S3_MultiPort
+918,49,Blades,Minor Repair,0.35,127.62,82.95,0.0402,0.3346,0.06296,0.033,S3_MultiPort
+965,49,Pitch/Hydraulic System,Minor Repair,0.35,125.8,81.77,0.045,0.3478,0.06162,0.03229,S3_MultiPort
+995,49,Controls,Minor Repair,0.35,139.45,90.64,0.0181,0.255,0.07192,0.03769,S3_MultiPort
+1073,49,Controls,Minor Repair,0.35,100.64,65.42,0.1695,0.5463,0.04409,0.02311,S3_MultiPort
+1,50,Tower/Foundation,Major Repair,0.55,38.09,17.14,0.8552,0.979,0.01027,0.0031,S3_MultiPort
+118,50,Grease/Oil/Cooling Liquid,Minor Repair,0.35,63.08,41.0,0.5758,0.8286,0.02188,0.01147,S3_MultiPort
+217,50,Service Items,Minor Repair,0.35,42.77,27.8,0.8115,0.9313,0.01221,0.0064,S3_MultiPort
+272,50,Hub,Major Repair,0.55,86.85,39.08,0.2929,0.8464,0.03535,0.01067,S3_MultiPort
+309,50,Safety,Minor Repair,0.35,55.16,35.85,0.6739,0.8742,0.01789,0.00938,S3_MultiPort
+335,50,Pitch/Hydraulic System,Minor Repair,0.35,97.0,63.05,0.1981,0.5761,0.04173,0.02187,S3_MultiPort
+370,50,Controls,Minor Repair,0.35,69.27,45.02,0.4978,0.7885,0.02518,0.01319,S3_MultiPort
+468,50,Service Items,Minor Repair,0.35,63.8,41.47,0.5667,0.8241,0.02225,0.01166,S3_MultiPort
+480,50,Pumps/Motors,Minor Repair,0.35,104.04,67.63,0.1453,0.5184,0.04635,0.02429,S3_MultiPort
+504,50,Service Items,Minor Repair,0.35,46.47,30.2,0.7733,0.9161,0.01383,0.00725,S3_MultiPort
+520,50,Gearbox,Major Replacement,0.9,91.81,9.18,0.2439,0.9955,0.03842,0.00121,S3_MultiPort
+522,50,Sensors,Minor Repair,0.35,114.75,74.59,0.0851,0.432,0.05368,0.02813,S3_MultiPort
+595,50,Hub,Minor Repair,0.35,85.08,55.3,0.3115,0.6721,0.03427,0.01796,S3_MultiPort
+667,50,Pitch/Hydraulic System,Minor Repair,0.35,110.05,71.53,0.1086,0.4695,0.05042,0.02642,S3_MultiPort
+677,50,Generator,Major Repair,0.55,131.11,59.0,0.0321,0.6268,0.06556,0.01979,S3_MultiPort
+723,50,Blades,Minor Repair,0.35,119.86,77.91,0.0641,0.3922,0.05731,0.03003,S3_MultiPort
+730,50,Pitch/Hydraulic System,Minor Repair,0.35,79.53,51.7,0.3732,0.7148,0.03098,0.01623,S3_MultiPort
+733,50,Grease/Oil/Cooling Liquid,Minor Repair,0.35,128.0,83.2,0.0392,0.3319,0.06325,0.03314,S3_MultiPort
+837,50,Gearbox,Major Replacement,0.9,53.18,5.32,0.6975,0.9989,0.01694,0.00054,S3_MultiPort
+855,50,Controls,Minor Repair,0.35,115.02,74.77,0.0838,0.4298,0.05388,0.02823,S3_MultiPort
+954,50,Generator,Minor Repair,0.35,99.0,64.35,0.182,0.5597,0.04302,0.02254,S3_MultiPort
+964,50,Pitch/Hydraulic System,Major Repair,0.55,83.7,37.66,0.3264,0.8589,0.03344,0.01009,S3_MultiPort
