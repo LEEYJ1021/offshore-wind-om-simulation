@@ -1,6 +1,6 @@
 """
 ================================================================================
-OFFSHORE WIND TURBINE O&M SIMULATION  ── v3 (Final Revision)
+OFFSHORE WIND TURBINE O&M SIMULATION  ── (Final Revision)
 Hierarchical Maintenance Decision (HMDP) + Greedy Scheduling Integration
 Period: 2023-01-01 ~ 2025-12-31 | 50 Turbines | Ulsan Offshore, South Korea
 
