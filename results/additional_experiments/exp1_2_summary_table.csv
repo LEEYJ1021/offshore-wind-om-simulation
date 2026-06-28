@@ -1,0 +1,12 @@
+KPI,CBM (Reliability-Triggered),Fixed Time-Based (26-wk)
+Total Critical Failures (3yr),0,0
+Mean Fleet AO (%),100.00,96.64
+Days Below R=0.70 (pct turbine-days),0.00,3.36
+CBM Interventions,480,--
+T-B Interventions,--,300
+CBM interval CV,0.1434,--
+T-B interval CV,--,0.0000
+KS p-value (interval distributions),3.7164e-193,--
+MWU p-value (AO comparison),--,--
+"Hs mean (real KMA, m)",1.42,--
+"CTV access rate (real KMA, %)",59.1,--
