@@ -5,7 +5,6 @@
 [![R](https://img.shields.io/badge/R-4.3%2B-276DC3?logo=r)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python)](https://www.python.org/)
 [![Simulation](https://img.shields.io/badge/Simulation-v2-brightgreen)](scripts/02_om_simulation.py)
-[![DOI](https://img.shields.io/badge/Journal-RESS%20Under%20Review-orange)](https://www.journals.elsevier.com/reliability-engineering-and-system-safety)
 
 ---
 
@@ -730,14 +729,6 @@ The complete pipeline is designed for full end-to-end reproducibility:
 - Supplementary experiment scripts (`scripts/additional_experiments/`) read from `data/raw/` without requiring any manual path changes
 - If `weather_hourly_raw.csv` is unavailable, synthetic weather is generated automatically using the calibrated Markov chain; all principal conclusions are robust to this substitution (Experiment 3)
 - All processed outputs, statistical tables, and simulation results are committed to the repository under `results/`; researchers can verify figures against the raw CSV logs in `results/csv/`
-
----
-
-## Citation
-
-If you use this code or simulation framework in your research, please cite:
-
-> [Author names]. (under review). Autonomous Condition-Based Maintenance via Hierarchical MDP for Offshore Wind Operations and Maintenance with Multi-State ETA Degradation Modeling. *Reliability Engineering & System Safety*. Manuscript JRESS-D-26-01401.
 
 ---
 
