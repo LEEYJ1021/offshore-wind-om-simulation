@@ -1,0 +1,76 @@
+SUPPLEMENTARY SECTION S-X (v4 — Honest Redesign)
+Multi-Source Weibull Parameter Robustness Analysis
+RESS-D-26-01401 Reviewer Response
+
+WHY THIS VERSION DIFFERS FROM v3
+---------------------------------
+v3 reported a single "✓ SIG" verdict per source by combining two distinct
+mechanisms: (a) whether CBM's reliability-threshold triggers prevent more
+corrective failures than a fixed 26-week schedule, and (b) an ASSUMED
+downtime differential (CBM ~3.5d vs Fixed-PM ~5.0d) that is not derived
+from any of the cited sources. Folding both into one p-value per source
+overstates what the Weibull-parameter robustness check actually shows,
+because nearly all of the reported AO gain comes from (b), not (a).
+
+This version reports the two mechanisms separately and adds a sensitivity
+analysis on the initial-condition window (R_init) and simulation horizon,
+since several sources' "0 corrective failures under either policy" result
+depends on those choices rather than on a demonstrated CBM advantage.
+
+MECHANISM 1 — FAILURE-PREVENTION (Weibull-parameter-driven)
+-------------------------------------------------------------
+Tested with downtime held EQUAL between CBM and Fixed-PM (4.25 d
+for both), isolating any AO or failure-count difference to differences in
+WHEN maintenance is triggered (condition threshold vs. fixed calendar).
+
+  Paper (Uniform β=2.5, η=80 wk)             MTTF≈1.4yr  Fail(CBM/Fix)=0/0  AO_gain=+8.26pp  p_fail=1.00e+00  p_AO=2.41e-67
+  EDP Onshore 2MW (Portugal)                 MTTF≈1.2yr  Fail(CBM/Fix)=0/64  AO_gain=+7.67pp  p_fail=1.14e-76  p_AO=2.41e-67
+  Carroll Offshore 2–4MW                     MTTF≈1.4yr  Fail(CBM/Fix)=0/0  AO_gain=+8.05pp  p_fail=1.00e+00  p_AO=2.41e-67
+  Carroll+Donnelly Offshore 10MW             MTTF≈1.4yr  Fail(CBM/Fix)=0/0  AO_gain=+8.09pp  p_fail=1.00e+00  p_AO=2.41e-67
+  Walgern WES2026 Offshore Fleet             MTTF≈7.1yr  Fail(CBM/Fix)=0/0  AO_gain=+15.09pp  p_fail=1.00e+00  p_AO=2.41e-67  [mean MTTF far exceeds the 3-yr horizon — 0-vs-0 reflects horizon, not demonstrated CBM advantage]
+
+Only the EDP source shows a clear failure-count separation within the 3-year
+horizon under equal downtime; the other four sources have mean component
+MTTFs long enough that neither policy produces meaningful corrective-failure
+counts in 3 years, so they do not, by themselves, demonstrate a CBM
+failure-prevention advantage at this horizon — they show that the paper's
+parameters are not contradicted by these sources, which is a weaker and more
+defensible claim than "CBM significantly outperforms in failure reduction
+across all five sources."
+
+SENSITIVITY — R_init WINDOW AND HORIZON
+-----------------------------------------
+See Table_S_Sensitivity_RinitHorizon_v4.csv. Widening R_init toward lower
+starting reliability and/or extending the horizon increases the number of
+sources for which corrective failures become discriminating between
+policies, as expected from the underlying MTTFs. This sensitivity table
+should accompany any failure-reduction claim so reviewers can see how much
+of the result depends on the chosen initial condition and horizon.
+
+MECHANISM 2 — DOWNTIME EFFICIENCY (explicit modelling assumption)
+---------------------------------------------------------------------
+See Table_S_DowntimeSensitivity_v4.csv. The AO gain attributable to a
+shorter CBM downtime is reported as a function of the assumed
+CBM/Fixed-PM downtime ratio, for a representative mid-range source
+(Carroll Offshore 2–4MW). At ratio=1.00 (no assumed advantage) the residual AO gain is
+the Mechanism-1 effect only. The v3 manuscript's downtime values (3.5d /
+5.0d, ratio≈0.625) are shown for reference but are NOT derived from any of
+the cited Weibull-parameter sources and should be justified independently
+(e.g., vessel mobilisation/O&M cost-report citation) or explicitly flagged
+as a modelling assumption with its own limitation note.
+
+RECOMMENDED FRAMING FOR THE MANUSCRIPT / RESPONSE TO REVIEWERS
+------------------------------------------------------------------
+1. Report the EDP cross-validation result on failure reduction as before,
+   but do not generalise the same magnitude of failure-reduction claim to
+   sources whose MTTFs are not discriminating at the chosen horizon.
+2. Present the AO advantage as two components: a parameter-driven component
+   (small, Mechanism 1) and an assumption-driven component (the bulk of the
+   v3 number, Mechanism 2), with the downtime assumption justified or
+   flagged as a limitation.
+3. Include the R_init/horizon sensitivity table to pre-empt the objection
+   that "0 vs 0 failures" is simply a consequence of starting turbines in
+   good condition and only simulating 3 years.
+
+This analysis still does not replace site-matched Ulsan SCADA calibration
+(Limitation L3/L5).

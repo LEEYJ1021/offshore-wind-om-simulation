@@ -1,0 +1,6 @@
+Source,Mean_MTTF_yr,Fail_CBM_med,Fail_Fixed_med,AO_CBM_med(%),AO_Fixed_med(%),AO_gain_pp(equal_DT),p_fail,p_AO,Horizon_discriminates_failures
+"Paper (Uniform β=2.5, η=80 wk)",1.4,0.0,0.0,89.81,81.55,8.26,1.00e+00,2.41e-67,Yes
+EDP Onshore 2MW (Portugal),1.2,0.0,63.5,88.91,81.24,7.67,1.14e-76,2.41e-67,Yes
+Carroll Offshore 2–4MW,1.4,0.0,0.0,89.6,81.55,8.05,1.00e+00,2.41e-67,Yes
+Carroll+Donnelly Offshore 10MW,1.4,0.0,0.0,89.64,81.55,8.09,1.00e+00,2.41e-67,Yes
+Walgern WES2026 Offshore Fleet,7.1,0.0,0.0,96.64,81.55,15.09,1.00e+00,2.41e-67,No (etas >> horizon)
