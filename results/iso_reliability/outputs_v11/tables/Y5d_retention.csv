@@ -1,0 +1,19 @@
+scenario,setting,benefit,retention,valid_iso
+S1 hetero,shape_low (beta=2.0),-14.158111720173208,0.8854158804338437,True
+S1 hetero,shape_high (beta=3.2),-18.671359253186036,1.1676640443867086,True
+S1 hetero,repair_wear_accel (+5%*RF),-16.088942765819116,1.006165631815849,True
+S1 hetero,repair_wear_accel (+10%*RF),-15.225321463865944,0.9521567335571386,True
+S1 hetero,repair_wear_accel (+25%*RF),57.88985384225802,-3.6202988732527355,False
+S1 hetero,renewal_on_replace,-13.993352720039088,0.8751122299155832,True
+S1 hetero,time_drift (+60%),-14.187485996031114,0.8872528803696315,True
+S1 hetero,bimodal_heterog (20% weak),-8.293405209697465,0.5186505672981843,True
+S1 hetero,heavy_tail t3,-12.924515919055784,0.8082696243558111,True
+S3 strong-hetero,shape_low (beta=2.0),-27.440812053815534,0.8447315781391683,True
+S3 strong-hetero,shape_high (beta=3.2),-36.87234749114327,1.1350697721628964,True
+S3 strong-hetero,repair_wear_accel (+5%*RF),-28.08174370045192,0.8644618689294225,True
+S3 strong-hetero,repair_wear_accel (+10%*RF),-27.143907675918364,0.8355917428017287,True
+S3 strong-hetero,repair_wear_accel (+25%*RF),-24.979139382455188,0.7689520189751694,False
+S3 strong-hetero,renewal_on_replace,-31.0312754077548,0.9552595672262203,True
+S3 strong-hetero,time_drift (+60%),-27.273160765842167,0.8395706398699557,True
+S3 strong-hetero,bimodal_heterog (20% weak),-13.48993425801034,0.4152709997216801,True
+S3 strong-hetero,heavy_tail t3,-15.492677368262878,0.4769229779799451,True
