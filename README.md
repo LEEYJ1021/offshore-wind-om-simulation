@@ -12,9 +12,6 @@
 
 This repository is the reproducible companion to the manuscript
 
-> **Iso-reliability benchmarking of maintenance policies for capacity-constrained fleets: separating the value of triggers, state tracking, and learning**
-> Yong-Jae Lee, Yong-Hyuk Shin\*, Min-Gyu Sang\* (prepared for *Computers & Operations Research*).
-
 Maintenance policies for capacity-constrained asset fleets are routinely compared at unequal maintenance frequency, tuning effort and information, so reported gains of condition-based triggers over calendar schedules cannot be attributed to a cause. We treat the comparison as the estimation of **iso-reliability slices of simulated cost–reliability frontiers** and provide a three-step computational protocol:
 
 1. **Algorithm 1 — equal-reliability operating points.** Every policy is tuned on training seeds disjoint from the test seeds; operating points are found by frontier interpolation at common target failure levels (q25/q50/q75) and a local-slope correction removes residual reliability differences.
